@@ -1,0 +1,20 @@
+# Arendt
+- Stipule que
+  - Le totalitarisme 
+    - Est advenu à cause de :
+      - (1) l'antisémitisme
+      - (2) l'impérialisme
+      - (3) l'avènement de la [[société]] de masse
+    - Est fondé sur
+      - La terreur
+        - Qui s'exerce par la police secrète et les camps de concentration
+      - Une idéologie
+        - Qui prétend fournir une explication “totale” de l'[[Histoire]]
+        - Et renverse les normes de [[La Logique]], imposant un “super sens” dont découlent des conséquences terribles mais cohérentes
+  - Le mal qui émerge dans les régimes totalitaires est un mal radical
+    - Il nie l'[[essence]] de la [[nature]] [[humaine]]
+      - Par la complicité d'[[homme]]s “triviaux” qui remplissent leurs tâches avec diligence et sans réfléchir
+  - La vie active se divise en trois modes d'action
+    - L'activité du [[travail]] (l'[[être humain]] comme ***[[animal laborans]]***)
+    - L'œuvre (l'[[être humain]] comme ***[[homo faber]]***)
+    - L'action (l'[[être humain]] comme ***[[zoon politikòn]]***)

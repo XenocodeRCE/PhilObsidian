@@ -1,0 +1,9 @@
+- [[Comte]] :
+	- Troisième étape du développement de l'[[esprit]] humain.
+	- reconnaît que la recherche des [[cause]]s ultimes est impossible et inutile
+- [[Mill]] : 
+	- la [[connaissance]] de la [[science]] est provisoire et perfectible, fondée sur l'[[induction]]
+- - [[Horkheimer et Adorno]] : 
+	- [[forme]] de domination
+	-  elle objective et réduit ce qu'elle analyse à une “[[chose]]”, la soumettant à son propre pouvoir
+    - elle était un instrument d'émancipation et s'est transformée en facteur de répression

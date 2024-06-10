@@ -1,0 +1,14 @@
+- [[Dieu]] est ce que rien de plus grand ne peut être imaginé
+	- alors il ne peut être dépourvu de l'attribut d'[[existence]]
+
+- [[Descartes]] : 
+	- - [[Dieu]] existe
+	    - puisque l'[[homme]] possède l'idée innée de [[Dieu]] comme [[être]] parfait
+	      - elle ne peut provenir d'un être imparfait
+	        - il y a une proportionnalité entre la perfection d'une idée et la perfection de sa cause
+	      - elle doit provenir d'un [[être]] parfait ([[Dieu]])
+	        - c'est lui qui imprime cette idée dans l'esprit humain
+	          - ***argument de la marque de fabrication***
+	      - cela implique nécessairement l'[[existence]] de [[Dieu]]
+	        - le concept de perfection absolue, en fait, inclut l'[[existence]]
+	          - c'est la ***preuve ontologique*** 

@@ -1,0 +1,46 @@
+# Popper
+- Affirme que
+  - À l'origine des [[connaissance]]s de la [[science]] il y a des problèmes
+    - Cela créer un contraste entre les attentes et les événements  
+      - Ainsi elles mettent en discussions les certitudes établies 
+  - La [[méthode]] de la [[science]]
+    - Est fondée sur :
+      - Les [[conjectures]] (ou hypothèses)
+      - Les [[réfutations]]
+    - En fait
+      - Les [[théorie]]s ne peuvent pas être testées par l’expérience
+      - Les [[théorie]]s peuvent être corroborées par comparaison avec des expériences potentiellement falsifiantes
+        - → ***Popper critique le [[principe]] de l'[[induction]]***     
+  - La recherche de la [[science]] ne se finit jamais
+    - En fait elle tend à se rapprocher de plus en plus de la [[vérité]] par corrections et ajouts successifs ( → le ***faillibilisme***)   
+      - Popper opère une critique du [[relativisme]] et de l'instrumentalisme  
+- Stipule que
+  - L'[[État]] est un mal nécessaire
+    - Il constitue une menace constante pour la [[liberté]] des citoyens
+      - Mais en même temps il ne peut pas être entièrement éliminé
+- Fait la distinction entre
+  - La [[société civile]] fermée
+    - Organisée selon des règles de conduite strictes
+  - La [[société civile]] ouverte
+    - Caractérisée par l'attitude rationnelle de la [[libre]] discussion critique
+- Stipule que
+  - La [[démocratie]] est une procédure imparfaite mais efficace
+    - En fait
+      - Elle consiste en un ensemble d'instruments de contrôle du pouvoir
+      - Elle garantit une altercation politique pacifique
+
+# L'épistémologie post poppérienne est principalement représentée par :
+- [[Kuhn]]
+- Lakatos
+  - Qui stipule que
+    - La recherche scientifique consiste en des programmes de recherche
+      - Un programme de recherche est articulé : 
+        - Autour d'un noyau
+          - C'est-à-dire des théories et des lois fondamentales
+        - D'une ceinture de protection
+          - C'est-à-dire la totalité des théories qui défendent le noyau en résolvant les problèmes qui se posent
+- Feyerabend 
+  - Qui soutient que
+    - La science n'a pas besoin de méthode
+      - En fait, la philosophie ne peut pas donner de règles à la science car de telles règles n'existent pas
+      - Il n'y a pas de ligne de démarcation entre la science et les autres [[forme]]s de production culturelle

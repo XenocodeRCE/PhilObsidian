@@ -1,0 +1,4 @@
+- [[Feuerbach]] : 
+	- implique le renoncement à son [[essence]] au profit d'un [[être]] étranger et [[transcendant]]
+      - le renversement de la [[religion]] devient une condition préalable à l'émancipation
+        - l'[[athéisme]] devient une tâche [[morale]]

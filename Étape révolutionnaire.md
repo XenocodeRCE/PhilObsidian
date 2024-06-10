@@ -1,0 +1,3 @@
+- Où l'ancien paradigme est abandonné et où une réorientation totale du cadre théorique est opérée
+          - Ainsi il existe un parallélisme entre révolutions scientifiques et révolutions politiques
+            - Toutes les deux tendent à changer un cadre (paradigme scientifique ou institutions politiques)

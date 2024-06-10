@@ -1,0 +1,3 @@
+- [[Leibniz]] : pour les [[monade]]s
+	- l'activité par laquelle les monades perçoivent les choses étrangères de manière [[obscure]] et [[confuse]]
+- [[Berkeley]] : l'[[existence]] des choses est dans leur  [[perception]]s

@@ -1,0 +1,1 @@
+- selon qui des transformations petites mais constantes provoquent rapidement des changements dans l'environnement naturel

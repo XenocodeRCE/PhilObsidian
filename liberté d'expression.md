@@ -1,0 +1,3 @@
+- [[Mill]] : 
+	- la [[connaissance]] aurait une nature [[]]
+    - l'intellect ne [[forme]] alors ses propres [[notion]] que par comparaison avec celles des autres

@@ -1,0 +1,1 @@
+- [[Schmitt]] : la gestion du conflit

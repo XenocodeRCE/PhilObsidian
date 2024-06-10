@@ -1,0 +1,2 @@
+ - [[Husserl]] : 
+	 - Les diverses modalités d'apparition des choses en relation avec les actes intentionnels du [[sujet]]

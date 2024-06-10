@@ -1,0 +1,3 @@
+- [[Comte]] : 
+	- Seconde étape du développement de l'[[esprit]] humain.
+	- explique le monde à travers des [[concept]]s abstraits

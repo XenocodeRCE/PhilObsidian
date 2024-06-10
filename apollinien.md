@@ -1,0 +1,2 @@
+- [[Nietzsche]] : 
+	- [[principe]], emblème de la mesure et de l'ordre

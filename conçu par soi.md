@@ -1,0 +1,1 @@
+[[Spinoza]] : son concept n'a pas besoin d'autres concepts pour être compris

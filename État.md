@@ -1,0 +1,13 @@
+- [[Hobbes]] : 
+	- il a un pouvoir [[absolu]]
+	  - ne se termine jamais (sauf par la mort du Roi)
+	  - oblige à l'obéissance aux [[lois]] mais n'est pas tenu lui-même de les respecter
+	  - a un contrôle total des actions et des opinions des sujets
+	  - coïncide avec la [[loi]] et établit les critères du bien et du mal
+	  - intègre le pouvoir religieux
+	- cependant
+	  - il ne peut pas établir de [[lois]] qui compromettent la vie et la sécurité des citoyens
+	  - il doit laisser une marge de [[liberté]] aux sujets dans la sphère privée
+- [[Fichte]] : 
+	- un moyen d'assurer l'ordre
+    - tend à devenir superflu pour laisser place à la [[libre]] collaboration des humains entre eux ( → la société parfaite)

@@ -1,0 +1,2 @@
+- [[Spinoza]] : 
+	- diminue le pouvoir d'agir

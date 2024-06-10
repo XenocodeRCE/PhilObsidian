@@ -1,0 +1,1 @@
+[[Platon]] : est mesuré par les [[homme]]s à travers le mouvement fluide et parfaits des étoiles qui sont en fait des divinités visibles

@@ -1,0 +1,1 @@
+exprime le besoin de chercher la [[vérité]] là où elle se trouve

@@ -1,0 +1,14 @@
+- [[Hegel]] : 
+	- est divisée en 3 moments :
+    - (1) la famille
+      - une unité spirituelle fondée sur l'amour et réalisée par le mariage, l'accumulation de biens et l'éducation des enfants
+    - (2) la [[société civile]]
+      - composée de personne physiques étrangères liées par des règles juridico administratives
+    - (3) l'[[État]]
+      - modérateur suprême des conflits sociaux et l'incarnation ultime de la rationalité et de l'universalité
+- [[Mill]] : 
+	- une action est [[juste]] si elle produit le plus grand bonheur pour le plus grand nombre de personnes
+      - toutefois
+        - il faut évaluer la qualité du [[plaisir]]
+          - reconnaître la supériorité des plaisirs intellectuels sur les plaisirs matériels
+        - il faut favoriser l'[[altruisme]]

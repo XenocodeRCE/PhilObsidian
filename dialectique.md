@@ -1,0 +1,2 @@
+- [[Platon]] : serait la méthode par excellence de la philosophie, qui permettrait de déterminer quelles [[Idée]]s peuvent être connectées ensembles et lesquelles ne le peuvent pas, à travers une procédure rigoureuse de [[synthèse]] et d'[[analyse]] afin d'arriver vers la définition précise d'un [[concept]].
+- [[Horkheimer et Adorno]] : (négative) ne vise pas à la conciliation (thèse → antithèse → synthèse) mais à la révélation du caractère contradictoire de la [[réalité]]

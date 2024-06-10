@@ -1,0 +1,5 @@
+- [[Sartre]] : 
+	- est un [[objet]] qui se constitue pour et par la [[conscience transcendantale]]
+		- se dirige sur les états, les sentiments ou les choses
+		- ne se retourne jamais sur la [[conscience]]
+			- Exemple : Quand on essaye de vouloir une [[conscience]], la volonté est maintenue et conservée par la [[conscience]] radicalement opposée à celle voulue

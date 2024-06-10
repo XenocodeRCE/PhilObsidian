@@ -1,0 +1,4 @@
+- [[Kuhn]] : 
+	-  Période pendant laquelle
+		- Émergent de nouveaux phénomènes (anomalies) qui ne peuvent pas être expliqués dans le cadre du paradigme traditionnel
+		- Prolifèrent des théories et hypothèses pour tenter de résoudre les difficultés

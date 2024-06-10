@@ -1,0 +1,4 @@
+[[Pascal]] : (esprit de )
+
+ fondé sur des procédures rationnelles et démonstratives
+        - incapables cependant de pénétrer le mystère de l'[[homme]]

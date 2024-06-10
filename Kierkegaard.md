@@ -1,0 +1,31 @@
+# Kierkegaard
+
+- Stipule que
+  - l'enquête de la [[philosophie]] 
+    - c'est la réflexion sur l'[[existence]] de l'individu concret unique
+    - cela implique un engagement personnel
+      - en cela il critique l'Idéalisme allemand de [[Kant]] [[Fichte]] et [[Schelling]]
+        - qui comprend la [[philosophie]] comme la recherche d'une [[vérité]] abstraite
+- Approfondit
+  - la [[notion]] de [[choix]]
+- Distingue
+  - trois phases de l'[[existence]]
+    - la vie esthétique
+      - est vécue dans l'instant et dans la poursuite du plaisir (ex : Don Juan)
+      - implique la dispersion du sujet
+        - mène à l'ennui et au désespoir
+    - la vie [[éthique]]
+      - caractérisée par le [[choix]] et la [[responsabilité]] (ex : le mariage)
+        - le [[sujet]] soumet sa propre individualité aux règles de la famille et de la [[société civile]]
+    - la vie religieuse
+      - implique le “saut” de la [[foi]], paradoxal et scandaleuse pour la [[raison]]  (ex : l'épisode d'Abraham dans la Bible)
+      - implique une relation exclusive entre le [[sujet]] et [[Dieu]]
+- Stipule que
+  - l'[[homme]] est ek-sistence
+    - il peut [[transcender]] sa condition et se projeter dans l'avenir
+    - il peut planifier des projets et se projeter dans ses possibilités
+      - il peut éprouver de la [[détresse]]
+      - il peut sentir le [[désespoir]] (= la maladie [[morale]])
+        - cela s'exprime par le rejet de soi-même ou de l'[[acceptation]] de soi comme étant autonome et complet
+          - ainsi le seul remède au désespoir est la [[foi]]
+            - ainsi l'[[homme]] s'accepte comme étant « celui qui est entre les mains de [[Dieu]] »

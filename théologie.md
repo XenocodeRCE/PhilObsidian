@@ -1,0 +1,3 @@
+- [[Comte]] : 
+	- première étape du développement de l'[[esprit]] humain.
+	- identifie les causes des phénomènes chez les agents surnaturels

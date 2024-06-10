@@ -1,0 +1,2 @@
+- des particules invisibles, qualitativement différentes les unes des autres, infiniment divisibles, éternelles
+	    - qui génèrent les choses unies et séparées grâce au ***[[Noῦs]]*** (intelligence ordonnatrice)

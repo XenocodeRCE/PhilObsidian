@@ -1,0 +1,1 @@
+- [[Pascal]] : l'[[instinct]] naturel qui pousse l'humain à n'aimer que lui-même

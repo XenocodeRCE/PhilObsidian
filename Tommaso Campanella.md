@@ -1,0 +1,5 @@
+- rejette la culture du livre
+    - fait appel à l'expérience directe de la nature et de la vie
+      - il reprend à son compte le naturalisme et le sensualisme de [[Bernardino Telesio]]
+    - propose un modèle de société idéale
+      - la science et le travail y ont une grande importance

@@ -1,0 +1,4 @@
+- [[Mill]] : 
+	- permet d'établir des lois générale à partir d'expériences particulières
+        - permet de tirer des conclusions probables
+          - la [[connaissance]] de la [[science]] est donc provisoire et perfectible

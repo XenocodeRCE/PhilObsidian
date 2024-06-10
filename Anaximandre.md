@@ -1,0 +1,1 @@
+- Identifie l'[[archè]] à l'[[Infini]] 

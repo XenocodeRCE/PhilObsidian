@@ -1,0 +1,1 @@
+ l'univers est dominé par deux [[principe]]s opposés et indépendants : le bien et le mal

@@ -1,0 +1,1 @@
+- Théorie selon laquelle la [[nature]] agit en vue d'une [[fin]], d'un but précis.

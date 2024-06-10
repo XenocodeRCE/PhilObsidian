@@ -1,0 +1,2 @@
+- selon qui entre la [[science]] et la [[foi]] il y a une harmonie parfaite
+    - la révélation et la [[philosophie]] ne sont pas différentes dans le contenu mais seulement dans la méthode

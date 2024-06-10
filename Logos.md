@@ -1,0 +1,1 @@
+- est une loi de l'[[Univers]] qui consiste en l'interdépendance des contraires

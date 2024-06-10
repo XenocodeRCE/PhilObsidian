@@ -1,0 +1,1 @@
+- [[Scheler]] : une identité qui précède l'ensemble des actes intentionnels

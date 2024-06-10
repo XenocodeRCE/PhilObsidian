@@ -1,0 +1,1 @@
+- [[Kuhn]] : Période pendant laquelle les phénomènes sont expliqués dans le cadre du paradigme traditionnel

@@ -1,0 +1,2 @@
+- [[Locke]] : (humain) 
+	- acquiert progressivement des [[connaissance]]s au fur et à mesure des expériences

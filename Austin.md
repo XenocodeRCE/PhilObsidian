@@ -1,0 +1,15 @@
+- Stipule que
+    - La [[philosophie]] doit appliquer la [[méthode]] [[linguistique]]
+      - Les [[mots]] sont des outils des philosophes, qu'il faut donc “nettoyer”
+      - Les [[mots]] sont distincts des faits et de choses et peuvent donc générer des erreurs
+      - La langue est un fruit de la [[civilisation]] et de l’[[Histoire]], elle n'est donc pas réduite à la langue idéale
+    - Il existe trois types d'actes de parole
+      - Les actes locutoires
+        - Avec lesquels “quelque chose” est dit (indépendamment du [[sens]])
+      - Les actes illocutoires
+        - Qui correspondent à ce que je fais en disant quelque chose (dépendant du [[sens]])
+      - Les actes perlocutoires
+        - Que j'accomplis “en disant quelque chose” (dépendant du contexte et du [[sens]])
+    - Ainsi le sens d'une déclaration
+      - N'est pas donné seulement par sa [[vérité]] ou sa fausseté
+      - Cela dépend de son adéquation ou de son inadéquation au contexte et à l'objectif

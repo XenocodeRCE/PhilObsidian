@@ -1,0 +1,2 @@
+- [[Arendt]] : 
+	- est orienté vers la production d'[[objet]]s artificiels durables

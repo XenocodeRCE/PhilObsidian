@@ -1,0 +1,2 @@
+- [[Schelling]] :
+	- l'unité suprême de l'[[esprit]] et de la [[nature]], du [[sujet]] et de l'[[objet]]

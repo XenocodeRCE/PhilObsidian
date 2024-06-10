@@ -1,0 +1,17 @@
+- [[Spinoza]] : 
+	- Pour Spinoza la [[substance]]
+		  - ontologiquement, c'est ce qui est ***[[en soi]]***
+		  - gnoséologiquement, c'est ce qui est ***[[conçu par soi]]***
+		  - s'identifie à [[Dieu]]
+		    - en tant qu'il est
+		      - incréé ( ***causa sui*** )
+		      - éternel
+		      - [[Infini]]
+		      - unique
+		      - indivisible
+		  - coïncide avec « le [[tout]] »
+		    - ***Deus sive Natura***
+		    - [[Dieu]] n'a pas de désirs ou de fins extérieures à lui-même
+		    - [[Dieu]] est une autoproduction nécessaire et éternelle
+
+- [[Leibniz]] : la monade suprême

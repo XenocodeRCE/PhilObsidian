@@ -1,0 +1,4 @@
+ - Stipule que
+    - Le [[sens]] d'un énoncé dépend des intentions du locuteur et de leur re[[connaissance]] par l'auditeur
+      - La conversation est réussie grâce au [[principe]] de coopération [[linguistique]]
+        - C'est-à-dire l'effort de coopérer activement vers une compréhension mutuelle

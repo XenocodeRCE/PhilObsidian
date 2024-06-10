@@ -1,0 +1,5 @@
+- [[Peirce]] : 
+	- relation entre :
+	- 1 le véhicule du signe
+    - 2 l'[[objet]] réel
+    - 3 l'interprétant

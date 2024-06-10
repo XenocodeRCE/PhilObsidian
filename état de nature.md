@@ -1,0 +1,4 @@
+- [[Rousseau]] :
+	- état où l'[[être humain]] est naturellement bon
+		-  il a peu de besoins naturels, et peut facilement les satisfaire
+	    - il est autonome, indépendant de ses semblables et est donc dans une relation d'égalité avec eux

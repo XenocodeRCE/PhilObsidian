@@ -1,0 +1,4 @@
+- [[Schelling]] :
+	- la capacité de pénétrer à l'infini à travers ses [[forme]]s concrètes
+      - l'activité de l'artiste est semblable à celle du créateur [[Absolu]]
+      - l'œuvre de génie est composée d'inspiration inconsciente et d'exécution consciente, de subjectivité et d'objectivité, d'[[esprit]] et de [[nature]]

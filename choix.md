@@ -1,0 +1,3 @@
+- [[Kierkegaard]] : 
+    - c'est une décision entre deux alternatives opposées et inconciliables
+    - le choix inclut une prise de [[responsabilité]] “dramatique”

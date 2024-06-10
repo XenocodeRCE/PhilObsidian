@@ -1,0 +1,2 @@
+- [[Pyrrhon]] : la suspension du jugement
+- [[Husserl]] : la suspension de la confiance dans l'[[objectivité]] présumée du [[monde]]

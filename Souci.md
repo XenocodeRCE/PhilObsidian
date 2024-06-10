@@ -1,0 +1,5 @@
+- [[Heidegger]] : mode d'[[être]] fondamental du [[Dasein]] sur la base de quoi le [[sujet]] traite des choses et des autres de deux manières
+        - L'[[existence]] inauthentique
+          - Qui implique l'adhésion non critique et spontanée à un certain monde social historique ( → Le ***dévalement***)
+        - L'[[existence]] authentique
+          - Qui implique l'[[acceptation]] d'[[être-pour-la-mort]] et l'[[acceptation]] de l'entière responsabilité de ses choix

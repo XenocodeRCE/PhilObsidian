@@ -1,0 +1,3 @@
+- [[Heidegger]] : mode d'être fondamentale du [[Dasein]] sur la base de quoi chaque étant est vu à la lumière d'un contexte plus large
+        - Il s'avère façonné et modifié par chaque acte d'interprétation
+          - → C'est le ***cercle herméneutique***

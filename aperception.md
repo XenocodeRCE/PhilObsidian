@@ -1,0 +1,2 @@
+- [[Leibniz]] : pour les [[monade]]s
+	- l'activité consciente de [[perception]] [[claire]] et [[distincte]]

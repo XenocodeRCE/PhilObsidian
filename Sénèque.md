@@ -1,0 +1,1 @@
+valorise les valeurs spirituelles et de solidarité, interprétant le [[stoïcisme]] d'une manière presque religieuse

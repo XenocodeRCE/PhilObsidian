@@ -1,0 +1,6 @@
+- [[Darwin]] :
+	- dans la lutte pour l'[[existence]], les espèces avec une plus grande capacité d'adaptation pour l'environnement survivent
+      - ce sont des développements accidentels et des variations biologiques fonctionnelles qui sont utiles et bénéfiques
+        - elles se stabilisent
+        - elles se transmettent par l'héritage génétique
+          - ces deux facteurs déterminent la naissance d'une nouvelle espèce

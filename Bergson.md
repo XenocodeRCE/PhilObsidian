@@ -1,0 +1,25 @@
+# Bergson
+- fait la distinction entre
+  - [[temps]] scientifique
+    - compris comme succession homogène d'instants
+      - c'est un [[temps]] extérieur, mesurable, spatialisé, quantitatif
+  - [[temps]] de la conscience
+    - compris comme flux continu, durée du passé dans le présent ( → mémoire) et du présent dans le futur ( → anticipation)
+      - c'est un [[temps]] intérieur est qualitatif
+      - la [[durée]]
+- identifie la [[conscience]] avec la [[mémoire]]
+- stipule que
+  - l'[[impulsion]] vitale est à l'origine de la vie biologique et spirituelle
+    - c'est une énergie spirituelle invisible qui se répand dans l'[[Univers]], donnant vie à tous les êtres
+  - la [[connaissance]] est de deux sortes
+    - (1) intellectuelle et extérieure
+      - inhérente à la [[science]]
+        - partielle, abstraite, utilise la conceptualisation et le langage
+    - (2) intuitive et interne
+      - inhérente à la [[métaphysique]]
+        - dont le but est de saisir la [[réalité]] dans son intégralité et son intégrité sans la diviser et la décomposer
+  - il existe deux types de société
+    - (1) la société fermée
+      - les besoins de cohésion sociale et le caractère statique prévalent
+    - (2) la société ouverte
+      - où on favorise la liberté et la créativité des individus

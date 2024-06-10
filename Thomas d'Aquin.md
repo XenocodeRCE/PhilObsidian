@@ -1,0 +1,30 @@
+# Thomas d'Aquin
+
+- L'[[existence]] de [[Dieu]] n'est rationnellement démontrable qu'*a posteriori*
+  - à partir de l'expérience sensorielle
+  - sur cette base il élabore les [[5 voies]]
+  - grâce à quoi il parvient à l'affirmation de [[Dieu]] comme étant :
+    - moteur immobile
+    - cause première
+    - entité nécessaire
+    - perfection suprême
+    - intelligence ordonnatrice
+- Il y a deux autres façons de déterminer les attributs divins
+  - la théologie négative
+    - nie que [[Dieu]] possède les imperfections des créatures
+  - la voie éminente
+    - attribue à [[Dieu]] les perfections des créatures intelligentes
+- [[Dieu]]
+  - est l'[[être]] nécessaire
+  - est intelligence et volonté et est donc une personne
+  - a librement créé le monde à partir de rien afin de communiquer
+    - l'[[être]]
+    - l'intelligence
+    - l'amour
+- l'Humain
+  - est au centre de la création
+    - puisque
+      - c'est une personne et c'est le seul [[être]] qui connaît et aime [[Dieu]]
+  - est un animal social
+    - puisque
+      - sa nature déficiente postule la nécessité d'une communauté

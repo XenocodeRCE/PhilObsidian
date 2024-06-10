@@ -1,0 +1,14 @@
+- fonde le Parti Communiste Italien
+    - élabore le concept d'***hégémonie culturelle***
+      - c'est-à-dire la direction morale et culturelle de la société par un groupe ou une classe
+        - pour Gramsci le rôle des intellectuels est important
+          - ils se distinguent en
+            - intellectuels organiques
+              - des [[homme]]s de culture qui travaillent en liens étroits avec une classe particulière émergente ou dominante
+            - intellectuels traditionnels
+              - des [[homme]]s de culture qui opèrent de manière indépendante et autonome par rapport à l'idéologie du groupe social dominant
+    - stipule que le parti communiste doit construire un nouveau bloc historique
+      - formulé par
+        - les travailleurs au nord
+        - les agriculteurs du sud
+          - afin d'abattre le bloc agraire-industriel dominant en Italie

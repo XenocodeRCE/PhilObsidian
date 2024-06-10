@@ -1,0 +1,53 @@
+# Spinoza – La métaphysique et la théorie de la [[connaissance]]
+
+- Pour Spinoza la [[substance]]
+  - ontologiquement, c'est ce qui est ***[[en soi]]***
+  - gnoséologiquement, c'est ce qui est ***[[conçu par soi]]***
+  - s'identifie à [[Dieu]]
+- Il existe trois degrés de [[connaissance]]
+  - (1) la perception sensorielle ou imagination
+    - offre des représentations partielles et confuses
+    - ne saisit pas le lien causal entre les phénomènes
+  - (2) la [[raison]]
+  - (3) l'[[intuition immédiate]]
+- La substance divine est dotée d'attributs infinis
+  - parmi lesquels
+    - la [[pensée]]
+    - l'[[étendue]]
+  - qui prennent des modes
+    - les [[Idée]]s
+      - mode fini de la [[pensée]]
+    - les [[corps]]
+      - mode fini de l'étendue
+  - selon un ordre [[géométrique]] nécessaire
+    - l'ordre et la connexion des [[Idée]]s sont identiques à l'ordre et la connexion des choses
+      - il y a un ***parallélisme*** entre le plan de l'[[être]] et le plan du [[savoir]]
+- L'[[Univers]] est gouverné par un [[déterminisme]] rigide
+  - tout se passe selon les lois [[géométrique]] de la nature
+    - ces lois n'admettent aucune exception
+    - cela sert à Spinoza pour critique la croyance aux miracles
+
+# Spinoza – L'éthique et la politique
+- Spinoza soutient que les [[passions]] et actions humaines
+  - doivent être comprises, et non pas condamnées ou jugées
+  - doivent être analysées selon la méthode [[géométrique]]
+    - puisqu'elles sont soumis aux mêmes lois de la [[nature]] qui régissent tous les phénomènes dans l'univers
+- Ainsi l'[[essence]] de l'[[homme]] est le [[désir]]
+- Il y a deux types de [[passions]]
+  - les affects primaires positifs (la [[joie]])
+  - les affects primaires (la [[tristesse]])
+  - à partir de ceux-ci dérivent avec une précision [[géométrique]] des affects secondaires positifs et négatifs
+    - l'amour
+    - la haine
+  - pour attendre le bonheur il faut connaître et favoriser les affects positifs en entravant les négatifs
+- L'[[État]] et la communauté politique sont les conditions de la réalisation de l'individu
+  - la recherche du profit est favorisée par la coopération sociale
+    - toutefois
+      - l'[[État]], tout en exerçant un pouvoir étendu, doit respecter les droits naturels d'individus
+        - la [[liberté]] d'activité dans la sphère privée
+        - la [[liberté]] de pensée et d'expression
+      - le but de l'[[État]] c'est la [[liberté]]
+        - Spinoza critique
+          - l'intolérance religieuse et politique
+          - les superstitions
+          - l'obscurantisme

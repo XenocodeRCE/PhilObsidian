@@ -1,0 +1,2 @@
+- [[Hobbes]] 
+	- mouvement stimulé par des [[objet]]s sensibles dans les organes sensoriels qui réagissent en formant une image

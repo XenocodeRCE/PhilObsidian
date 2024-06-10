@@ -1,0 +1,2 @@
+- [[Voltaire]] : 
+	-  il existerait une [[religion naturelle]] fondée sur certaines vérités rationnellement acceptables pour tous

@@ -1,0 +1,14 @@
+- [[Leibniz]] : 
+    - est une entité complète et autosuffisante, fermée sur elle-même
+    - est un centre actif de [[représentation]] du [[monde]]
+      - il a en lui-même la [[représentation]] du [[tout]], quoique d'un point de vue partiel
+    - a deux façons de [[savoir]]
+      - la [[perception]]
+      - l'[[aperception]]
+	  - il y a 3 types de monades
+	    - celles qui sont totalement inconscientes
+	    - les [[animaux]]
+	    - les esprits supérieurs
+	    - toutes sont créés par [[Dieu]]
+	      - la clarté et l'activité parfaite
+	      - a une [[représentation]] complète de l'[[Univers]]

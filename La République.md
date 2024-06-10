@@ -1,0 +1,17 @@
+[[Platon]] : 
+- il crée un modèle étatique idéal (= *utopie*) structuré en 3 classes
+    - les dirigeants, qui gèrent le gouvernement
+    - les guerriers, qui gèrent la défense militaire
+    - les ouvriers, qui fournissent les besoins matériels
+  - ils doivent agir conformément aux quatre [[vertu]] fondamentales
+    - la sagesse (dirigeants)
+    - le courage (guerriers)
+    - la tempérance (les ouvriers)
+    - la justice
+      - réalisée dans la société lorsque chaque citoyen accomplit la tâche de sa classe
+  - il fait la promotion d'un régime de type aristocratique, aussi nommé “le gouvernement des meilleurs” (ou philosophes) qui connaissent et poursuivent le Bien (= ***l'allégorie de la Caverne***)
+  - il critique les autres [[forme]]s de gouvernement qui sont corrompues selon lui :
+    - l'oligarchie serait fondée sur la recherche de l'honneur et de la gloire
+    - la timocratie serait le gouvernement d'un petit nombre fondé sur la richesse
+    - la démocratie serait le gouvernement par le peuple fondé sur la volonté anarchique des masses
+    - la tyrannie serait le gouvernement d'un seul individu fondé sur la force

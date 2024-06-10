@@ -1,0 +1,116 @@
+# Sa formation et l'origine de sa pensée révolutionnaire
+
+- Dans sa jeunesse
+  - il rejoint le groupe de la gauche proche des idées de [[Hegel]]
+  - il étudie la [[philosophie]] matérialiste et naturaliste
+    - [[Démocrite]] et l'[[épicurisme]]
+- Dans son livre __« l'Idéologie Allemande »__
+  - prend ses distances avec [[Hegel]]
+    - apprécie l'[[Idée]] que l'[[Histoire]] est le résultat d'un processus [[dialectique]]
+    - il refuse la réduction du [[réel]] à l'idéal et la vision abstraite des Idéalistes allemands comme [[Kant]] [[Fichte]] [[Schelling]]
+- Dans son livre __« Thèses sur [[Feuerbach]] »__
+  - s'éloigne de [[Feuerbach]]
+    - il apprécie l'attention portée à l'[[homme]] en tant qu'[[être]] sensible concret
+    - mais refuse l'interprétation religieuse de l'[[aliénation]]
+- Dans son livre __« Misère de la [[philosophie]] »__
+  - s'éloigne de [[Proudhon]]
+    - critique la position des socialistes français
+      - il les juge trop bourgeois et capitalistes
+        - contrairement au socialisme scientifique
+          - qui se fonde sur l'analyse de la [[réalité]] économique et envisage sa transformation radicale
+- Dans son livre __« Le manifeste du Parti Communiste »__
+  - il explicite l'objectif [[communiste]]
+    - à savoir
+      - renverser le pouvoir de la bourgeoisie pour rétablir une société sans classe
+
+# L'analyse de l'aliénation ouvrière et l'élaboration du matérialisme historique
+
+- Fait face
+  - au thème de la situation de l'[[homme]] dans la société capitaliste
+    - c'est une condition de souffrance et d'oppression
+      - il provoque l'[[aliénation]] religieuse
+        - la thèse de [[Feuerbach]] est fausse : pour briser l'oppression matérielle il ne faut pas abolir la [[religion]] !
+          - pour briser l'oppression matérielle, la réalité toute entière doit être transformée
+- Stipule que
+  - il existe quatre types d'[[aliénation]] des travailleurs
+    - (1) Par rapport au produit de son travail
+    - (2) Au regard de son activité
+    - (3) Par rapport à son [[essence]]
+    - (4) Par rapport à ses pairs
+- Affirme que
+  - il faut renverser la société bourgeoise et ses institutions
+    - et donc construire la nouvelle société [[communiste]]
+      - dans laquelle la propriété privée résultant de la division du travail est éliminée
+      - ainsi il y a une abolition de la division des classes
+- Théorise
+  - le [[matérialisme historique]]
+- Analyse
+  - la base matérielle que représente le moteur de l'[[Histoire]]
+    - c'est-à-dire la structure
+      - composée par des modes de fabrication
+        - des forces productives
+          - des éléments indispensables à la production, tels que la force de travail, les matières premières, les machines
+        - des rapports de production
+          - c'est-à-dire les [[forme]]s d'organisation du travail et les relations entre les [[sujet]]s concernés
+- Stipule que
+  - La structure détermine la ***superstructure***
+    - c'est-à-dire l'ensemble des diverses productions culturelles
+- Stipule que
+  - les forces productives sont l'expression de la classe dominante
+  - les rapports de production sont l'expression des intérêts de la classe dirigeante
+    - entre eux, un fossé se crée, et surgit un conflit de classe (lutte des classes)
+
+# L'analyse du système de production capitaliste et le projet de son dépassement
+
+- Analyse
+  - la catégorie de la marchandise
+  - laquelle a une valeur double
+    - la [[valeur d'usage]]
+    - la [[valeur d'échange]]
+- Étudie
+    - « l'[[homme]]-marchandise »
+        - c'est-à-dire le travailleur
+            - acheté par le capitaliste pour produire d'autres marchandises en échange d'un salaire
+            - ce dernier coïncide avec le coût des moyens nécessaires à la subsistance du travailleur et de sa famille
+- Stipule que
+    - le travailleur produit plus de biens que la valeur de son salaire
+        - il produit de la valeur impayée (***la [[plus-value]]***)
+- Fait la distinction entre
+    - le [[capital constant]]
+    - le [[capital variable]]
+- Stipule que
+    - il y a des contradictions inhérentes au système capitaliste
+        - par exemple l'augmentation de la productivité nécessite l'introduction de machines
+            - ce qui implique
+                - par l'[[aliénation]] des travailleurs, un travail unilatéral, répétitif et une réduction tu travailleur à de simples engrenages
+                - pour le capitaliste
+                    - une baisse tendancielle des taux de profit
+                        - à savoir, la réduction du capital variable, la réduction de la plus-value et donc le profit
+                    - une crise de surproduction
+                        - en augmentant le chômage, le pouvoir d'achat des biens diminue, il reste donc des invendus
+                    - en somme, l'inévitable effondrement du système capitaliste
+- La révolution sociale est la seule solution au conflit inhérent au capitalisme
+    - cela implique une phase transitoire de dictature du prolétariat
+        - cette dernière a pour tâche d'établir une première [[forme]] d'égalité encore “imparfaite”
+            - liée à l'épuisement
+            - son but est l'avènement du [[communisme]]
+                - dans lequel toutes les [[forme]]s d'[[État]] sont abolies, la propriété privée et les divisions de classe sont supprimées
+                    - les causes d'exploitation et d'aliénation sont éliminées
+
+# La diffusion du marxisme depuis Marx
+
+- En Europe
+  - le marxisme s'est propagé en relation avec le développement de divers partis socialistes et communistes
+    - en particulier
+      - dans la __« Deuxième Internationale »__ s'affrontent :
+        - les marxistes révisionnistes
+          - promoteurs d'un programme de ré[[forme]]s pour transformer progressivement la [[société civile]]
+            - [[Edouard Bernstein]]
+            - [[Karl Kautsky]]
+        - les marxistes révolutionnaires
+          - partisans de la révolution sociale comme moyen inévitable pour l'établissement du [[communisme]]
+            - [[Rosa Luxembourg]]
+- En Russie
+  - [[Lénine]]
+- En Italie
+  - [[Gramsci]]

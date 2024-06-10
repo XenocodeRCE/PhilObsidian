@@ -1,0 +1,5 @@
+- Étudie les illocutions
+    - Les actes de l'orateur, libérés de toute interaction avec les auditeurs
+      - Sur la base du [[principe]] d'exprimabilité qui distingue
+        - Ce que l'orateur veut dire
+        - Les différents effets qu'il veut induire chez l'auditeur

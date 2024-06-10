@@ -1,0 +1,4 @@
+- [[Dilthey]] :
+	- [[objet]] : les phénomènes physiques
+    - [[but]] : l'explication neutre et objective des phénomènes
+    - [[méthode]] : des procédures **[[analytique]]** et **méthodiques** quantitatives et mesurables, de contrôle et d'enregistrement des phénomènes

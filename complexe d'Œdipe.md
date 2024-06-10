@@ -1,0 +1,3 @@
+- [[Freud]] : 
+	- l'enfant est attiré par le parent du sexe opposé et devient hostile au parent du même sexe 
+	- sa résolution est décisive dans la maturation d'une sexualité adulte

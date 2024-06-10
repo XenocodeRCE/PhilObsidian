@@ -1,0 +1,2 @@
+- [[Hobbes]] : 
+	- implique la [[convergence]] de plusieurs volontés vers un but unique mais ne garantit pas la stabilité et la sécurité

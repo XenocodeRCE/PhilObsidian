@@ -1,0 +1,2 @@
+- [[Husserl]] :
+	- (*éidé*tique → *eidos* → l'essence des choses)

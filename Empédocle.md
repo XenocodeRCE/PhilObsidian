@@ -1,0 +1,2 @@
+- admet comme [[archè]] :
+	- les [[les 4 racines]] :

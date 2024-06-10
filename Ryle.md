@@ -1,0 +1,4 @@
+  - Stipule que
+    - La [[philosophie]] a une fonction thérapeutique
+      - Elle permet de localiser les erreurs de [[catégories]]
+        - C'est-à-dire les façons inappropriées d'utiliser les [[concept]]s en les affectant à des [[catégories]] auxquelles ils n'appartiennent pas

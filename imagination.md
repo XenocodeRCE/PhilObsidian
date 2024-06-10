@@ -1,0 +1,4 @@
+- [[Hobbes]] : 
+	- connexion des images sensibles retenues par la mémoire
+- [[Hume]] :
+	- consiste à établir librement des relations entre les [[Idée]]s

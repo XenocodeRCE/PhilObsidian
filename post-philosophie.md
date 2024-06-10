@@ -1,0 +1,3 @@
+- [[Rorty]] : 
+	- Soutient la pluralité et l'historicité des différents modèles de compréhension de l'existant
+    - En fait, la [[vérité]] est une construction humaine, qui varie d'un contexte à l'autre

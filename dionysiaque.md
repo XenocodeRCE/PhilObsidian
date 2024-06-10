@@ -1,0 +1,2 @@
+- [[Nietzsche]] : 
+	- [[principe]], emblème de désordre, de la [[puissance]] créatrice, de l'ivresse et de la sensualité

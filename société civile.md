@@ -1,0 +1,4 @@
+- [[Hobbes]] : 
+	- qui est fondée sur
+      - un [[pacte d'union]]
+      - un [[pacte de soumission]]

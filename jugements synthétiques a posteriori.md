@@ -1,0 +1,3 @@
+- le prédicat ajoute de la nouveauté au sujet
+    - ils augmentent les [[connaissance]]s mais sont ***particuliers et contingents***
+      - → typique de l'Empirisme

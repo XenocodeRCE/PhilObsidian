@@ -1,0 +1,4 @@
+- [[Lévinas]] :
+	-     - Puisqu'il échappe à toute catégorisation et se suffit à lui-même
+        - Puisqu'il communique l'[[impératif]] “tu ne tueras point” et qu'il appelle donc à la [[responsabilité]] [[éthique]]
+        - Puisqu'il est une trace de [[dieu]] : inobjectivable, invisible, [[transcendant]]

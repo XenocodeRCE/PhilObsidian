@@ -1,0 +1,7 @@
+- [[Hobbes]] : 
+	- exerce une activité computationnelle, liant les noms conventionnellement attribués par le [[langage]] aux images des choses
+            - en découle la [[science]] qui ne reflète pas la [[réalité]] mais est un réseau de [[concepts]] conventionnels
+            - la [[langue]] a deux fonctions principales
+              - la mémorisation
+              - la communication
+                - elle permet donc la généralisation nécessaire à la construction du “bâtiment de la conscience”

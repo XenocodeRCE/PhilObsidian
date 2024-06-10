@@ -1,0 +1,7 @@
+- [[Hegel]] :
+	- déploiement progressif de l'[[Idée]]
+- [[Spencer]] : 
+	- n'est pas faite par les [[homme]]s
+    - dépend de la biologie
+      - chacun serait destiné à une certaine place dans la société
+        - ainsi la réalité sociale ne peut pas être réformée

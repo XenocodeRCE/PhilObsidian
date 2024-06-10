@@ -1,0 +1,11 @@
+- [[Platon]] :
+	- des entités immuables et parfaites
+	  - qui ont une [[existence]] autonome du monde sensible imparfait et changeant (=*dualisme ontologique*)
+	  - qui font l'[[objet]] d'une [[connaissance]] parfaite (*épistémè*) différente d'une [[connaissance]] imparfaite (*doxa*) du monde sensible (=*dualisme gnoséologique*)
+	  - qui constituent le modèle, la cause et le critère des choses
+	  - qui sont avec les choses dans un rapport de
+	    - *Mimesis* (imitation)
+	    - *Methexiss* (participation)
+	    - *Parousia* (présence)
+- [[Hume]] : 
+	- des images des [[impressions]]

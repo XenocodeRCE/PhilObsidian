@@ -1,0 +1,3 @@
+- [[Leibniz]] : 
+	-   vérités nécessaires dans lesquelles le prédicat est implicitement dans le sujet à partir duquel elle peut être nécessairement déduite
+        - elles concernent le monde de la logique et reposent sur les [[principe]]s d'identité et de non-contradiction

@@ -1,0 +1,18 @@
+# Taylor
+
+- prétend à
+  - l'égalité et l'autonomisation des femmes
+    - contre une législation in[[juste]]
+    - contre une tradition éducative et culturelle
+      - qui établit que l'infériorité des femmes serait “naturelle”
+- affirment que
+  - l'égalité des sexes profite à la société dans son ensemble
+    - l'[[État]] doit garantir une éducation culturelle aussi aux femmes
+  - l'exclusion des femmes de la vie politique
+    - est un acte d'injustice
+    - est une cause d'appauvrissement pour tous
+      - cela constitue un cas isolé dans la tendance de la société au progrès
+        - le trait propre de la modernité est l'autodétermination de l'individu
+- il y aurait deux [[forme]]s de mariage
+  - un négatif basé sur la subordination des femmes
+  - un positif basé sur le respect mutuel et l'amitié

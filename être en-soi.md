@@ -1,0 +1,5 @@
+- [[Sartre]] : 
+	- Privées de [[conscience]]
+    - Opaques à elles-mêmes
+    - Simplement présentes
+    - Caractérisées par un [[déterminisme]]

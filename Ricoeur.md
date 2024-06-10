@@ -1,0 +1,14 @@
+# Ricœur
+
+- Stipule que
+  - [[philosophie]] et [[science]] sont des termes corrélatifs et non exclusifs
+    - En fait
+      - La [[méthode]] de la [[science]] est au service de la [[vérité]]
+      - La compréhension philosophique peut bénéficier d'un dialogue avec une explication de la [[science]]
+  - Le texte écrit est indépendant de son auteur
+    - En fait, il ouvre un monde de [[sens]] [[sujet]] à de multiples interprétations par le lecteur
+      - Qui doit expliquer le texte grâce aux méthodes des sciences du [[langage]]
+      - Qui doit comprendre le texte par rapport à ses propres expériences
+  - Lire un texte écrit c'est un modèle de savoir [[herméneutique]]
+    - En fait l'[[homme]] (la [[personne]]) est un être ***[[dialogique]]***
+        - Qui se connaît à travers les relations avec les autres

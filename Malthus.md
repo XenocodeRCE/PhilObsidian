@@ -1,0 +1,2 @@
+ - selon qui la population grandit plus rapidement que les moyens de subsistance
+      - donc une lutte s'ensuit pour l'[[existence]] dans laquelle survivent les plus forts

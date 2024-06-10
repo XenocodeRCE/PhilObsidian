@@ -1,0 +1,3 @@
+- le prédicat n'exprime que le contenu du sujet
+    - ils possèdent ***l'universalité et la nécessité*** mais n'augmentent pas la [[connaissance]]
+      - → typique du Rationalisme

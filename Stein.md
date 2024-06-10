@@ -1,0 +1,5 @@
+- Qui soutient que
+      - Nous apprenons à nous connaître par l'empathie
+        - → Une expérience originale et pré catégorielle (avant les [[catégories]])
+      - Nous connaissons [[Dieu]] par la [[foi]]
+        - → Une expérience de la [[vérité]] qui transcende la [[raison]]

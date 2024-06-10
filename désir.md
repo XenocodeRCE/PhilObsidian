@@ -1,0 +1,12 @@
+- [[Spinoza]] : 
+	-  c'est-à-dire
+	    - l'effort de conservation de soi avec lequel il tend à [[persévérer]] dans son [[être]]
+	      - l'[[homme]] agit donc toujours en vue de ce qu'il juge [[utile]]
+	        - l'[[homme]] est conditionné par sa [[nature]], toutefois
+	          - il peut agir passivement
+	            - subissant alors l'esclavage de ses [[passions]]
+	          - il peut agir activement
+	            - assumer consciemment la direction de son [[être]]
+	        - la [[raison]] est le seul guide de l'[[homme]]
+	        - la vraie [[liberté]] consiste à contrôler les passions en choisissant celles qui sont vraiment avantageuses
+	      - le bien et le mal ne sont pas des concepts absolus mais relatifs aux besoins des [[homme]]s
