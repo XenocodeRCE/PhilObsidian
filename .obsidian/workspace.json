@@ -11,9 +11,56 @@
             "id": "87c0a6d7df999116",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Vault/technique.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ff74e126f2e487a3"
+          }
+        ]
+      },
+      {
+        "id": "1dd39b7493df6c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3029e351e26958bb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Vault/technique.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000013,
+                  "close": true
+                }
+              }
+            },
+            "group": "ff74e126f2e487a3"
           }
         ]
       }
@@ -61,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +168,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vault/technique.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,36 +189,47 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "87c0a6d7df999116",
   "lastOpenFiles": [
-    "Vault/le pacte de soumission.md",
-    "Vault/méthode.md",
-    "Vault/sciences naturelles.md",
-    "Vault/Science normale.md",
-    "Vault/science.md",
-    "Vault/langage rigoureux.md",
+    "plugins/smart-second-brain/vectorstores/mxbai-embed-large.bin",
+    "plugins/various-complements/styles.css",
+    "plugins/various-complements/manifest.json",
+    "plugins/various-complements/main.js",
+    "plugins/various-complements/histories.json",
+    "plugins/smart-second-brain/vectorstores",
+    "plugins/smart-second-brain/styles.css",
+    "plugins/smart-second-brain/manifest.json",
+    "plugins/smart-second-brain/data.json",
+    "plugins/smart-second-brain/main.js",
+    "plugins/obsidian-importer/styles.css",
     "Vault/zoon politikòn.md",
-    "Vault/scientifique.md",
-    "Vault/Scolastique.md",
-    "Vault/Searle.md",
-    "Vault/sélection naturelle.md",
-    "Vault/sémiotique.md",
-    "Vault/Sénèque.md",
-    "Vault/sens.md",
-    "Vault/sensation.md",
-    "Vault/sensibilité.md",
-    "Vault/sensible.md",
-    "Vault/sensualisme.md",
-    "Vault/sentiment.md",
-    "Vault/signe.md",
-    "Vault/soi.md",
-    "Vault/solipsisme.md",
-    "Vault/Souvenir.md",
-    "Vault/Souci.md",
-    "Vault/Spencer.md",
-    "Vault/Spinoza.md"
+    "Vault/Wittgenstein.md",
+    "Vault/Weil.md",
+    "Vault/Weber.md",
+    "Vault/Voltaire.md",
+    "Vault/volonté.md",
+    "Vault/visage.md",
+    "Vault/Vico.md",
+    "Vault/vertu.md",
+    "Vault/vérités de raison.md",
+    "Vault/vérités de fait.md",
+    "Vault/vérité.md",
+    "Vault/valeurs partageables.md",
+    "Vault/valeur d'usage.md",
+    "Vault/valeur d'échange.md",
+    "Vault/utile.md",
+    "Vault/universels.md",
+    "Vault/universel.md",
+    "Vault/universaux fantastiques.md",
+    "Vault/universalité.md",
+    "Vault/universalisation.md",
+    "Vault/Univers.md",
+    "Vault/Un.md",
+    "Vault/tristesse.md",
+    "Vault/travail.md"
   ]
 }

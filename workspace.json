@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "f45b89d4a829b1bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "404c73aca5be1047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74cc1abead764626",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7609f0b2471b7b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf653a59be2716f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c7e757cfb6f8c76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfeab1bf83b9d670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "846ccd06f4a13e8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c2a3f5780dfec1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e5b0e330b1f8f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06eefbaccbd2f462",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e11ff7acfce1bbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a980412b625495ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "502ca5237743dae7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-importer:Open Importer": false,
+      "obisidian-note-linker:Note Linker": false,
+      "smart-second-brain:Ouvrir le chat S2B": false
+    }
+  },
+  "active": "74cc1abead764626",
+  "lastOpenFiles": [
+    "V",
+    "Nouveau dossier",
+    "Sans titre 1.canvas",
+    "Sans titre.canvas",
+    "stoïciens.md",
+    "tristesse.zip",
+    "le pacte de soumission.md",
+    "5 voies.md",
+    "Weil.md",
+    "christianisme.md",
+    "Jonas.md",
+    "Lévinas.md",
+    "visage.md",
+    "zoon politikòn.md",
+    "Arendt.md",
+    "homo faber.md",
+    "animal laborans.md",
+    "être humain.md",
+    "Schmitt.md",
+    "droit.md",
+    "politique.md",
+    "État.md",
+    "Kuhn.md",
+    "Étape révolutionnaire.md",
+    "Phase de crise.md",
+    "Science normale.md",
+    "Popper.md",
+    "108. L'épistémologie post-Popperienne _ Kuhn, Lakatos et Feyerabend.md",
+    "société civile.md",
+    "107. Popper - La philosophie du dialogue et de la confrontation.md",
+    "Chats",
+    "smart-chats",
+    "chroma.sqlite3"
+  ]
+}
