@@ -1,6 +1,6 @@
 - [[Otto]] :
-	- stipule que l'expérience de la [[religion]] se caractérise par
+	- stipule que l'[[expérience]] de la [[religion]] se caractérise par
 	      - (1) Le [[sentiment]] de crainte envers [[Dieu]]
 	      - (2) Le [[sentiment]] de fascination suscité par la divinité
 	      - (3) Le [[sentiment]] de disproportion entre l'[[homme]] et [[Dieu]]
-	        - De tels [[sentiment]]s caractérisent l'expérience du ***[[Numineux]]***
+	        - De tels [[sentiment]]s caractérisent l'[[expérience]] du ***[[Numineux]]***

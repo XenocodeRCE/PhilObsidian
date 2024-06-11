@@ -1,4 +1,4 @@
 - [[Rousseau]] : 
-          - chaque citoyen fusionne sa propre volonté particulière avec une ***volonté générale***
-            - ainsi la souveraineté appartient au peuple qui exerce directement le pouvoir législatif
+          - chaque citoyen fusionne sa propre [[volonté]] particulière avec une ***[[volonté]] générale***
+            - ainsi la souveraineté appartient au peuple qui exerce directement le [[pouvoir]] législatif
               - → ***c'est la démocratie directe***

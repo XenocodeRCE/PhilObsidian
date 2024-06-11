@@ -7,4 +7,4 @@
 -    - la [[langue]] a deux fonctions principales
 		[[  - la mémorisation [[mémoire]]
 		  - la communication
-			- elle permet donc la généralisation nécessaire à la construction du “bâtiment de la [[conscience]]”]]
+			- elle permet donc la généralisation [[nécessaire]] à la construction du “bâtiment de la [[conscience]]”]]

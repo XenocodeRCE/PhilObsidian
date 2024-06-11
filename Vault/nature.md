@@ -1,5 +1,5 @@
 - d'une [[chose]] : son [[origine]]
-- d'une chose : son [[essence]]
+- d'une [[chose]] : son [[essence]]
 - [[en-soi]] : nature au sens 'Nature' sauvage
 - opposé à la [[culture]]
 

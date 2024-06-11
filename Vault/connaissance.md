@@ -5,10 +5,10 @@
 			- partielle, abstraite, utilise la [[concept]]ualisation et le [[langage]]
 		- (2) intuitive et interne
 		  - inhérente à la [[métaphysique]]
-			- dont le but est de saisir la [[réalité]] dans son intégralité et son intégrité sans la diviser et la décomposer
+			- dont le [[but]] est de saisir la [[réalité]] dans son intégralité et son intégrité sans la diviser et la décomposer
 - [[épicurisme]] :
-	- Canonique, théorie de la [[connaissance]]
-	-   selon laquelle la [[connaissance]] repose sur trois critères de vérité
+	- Canonique, [[théorie]] de la [[connaissance]]
+	-   selon laquelle la [[connaissance]] repose sur trois critères de [[vérité]]
         - les [[sensation]]s
         - les [[concept]]s (anticipation, ou ***prolèpse***)
         - les [[sentiment]]s de [[plaisir]] et de douleur
@@ -46,4 +46,4 @@
 
 - [[Schelling]] :
 - l'[[art]] est l'organe suprême de la [[connaissance]]
-  - il parvient à saisir les profondeurs originelles de la vie et de la nature grâce à l'[[intuition esthétique]]
+  - il parvient à saisir les profondeurs originelles de la vie et de la [[nature]] grâce à l'[[intuition esthétique]]

@@ -7,6 +7,6 @@
       - Les actes locutoires, les [[locution]]s
       - Les actes illocutoires, les [[illocution]]s
       - Les actes perlocutoires, les [[perlocution]]s
-    - Ainsi le sens d'une déclaration
+    - Ainsi le [[sens]] d'une déclaration
       - N'est pas donné seulement par sa [[vérité]] ou sa fausseté
-      - Cela dépend de son adéquation ou de son inadéquation au contexte et à l'objectif
+      - Cela dépend de son adéquation ou de son inadéquation au contexte et à l'[[objectif]]

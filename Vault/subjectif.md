@@ -1,3 +1,3 @@
-- Déterminé et limité par le [[sujet]]
+- Déterminé et [[limité]] par le [[sujet]]
 - Dépend de l'appréciation du [[sujet]]
 - Opposé à [[objectif]]

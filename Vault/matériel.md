@@ -1,2 +1,2 @@
 - [[Kant]] :
-	-  les [[impression]]s [[sensible]]s que le [[sujet]] reçoit passivement par expérience (rétrospectivement)
+	-  les [[impression]]s [[sensible]]s que le [[sujet]] reçoit passivement par [[expérience]] (rétrospectivement)

@@ -1,3 +1,3 @@
 - [[Leibniz]] :
-	- vérités contingentes dont les prédicats ne peuvent être déduits du sujet et dont le contraire est toujours possible
-        - elles concernent le monde réel et reposent sur le [[principe de raison suffisante]]
+	- vérités [[contingentes]] dont les prédicats ne peuvent être déduits du [[sujet]] et dont le contraire est toujours [[possible]]
+        - elles concernent le [[monde]] réel et reposent sur le [[principe de raison suffisante]]

@@ -13,13 +13,13 @@
   - il critique les autres [[forme]]s de gouvernement qui sont corrompues selon lui :
     - l'oligarchie serait fondée sur la recherche de l'honneur et de la gloire
     - la timocratie serait le gouvernement d'un petit nombre fondé sur la richesse
-    - la démocratie serait le gouvernement par le peuple fondé sur la volonté anarchique des masses
+    - la démocratie serait le gouvernement par le peuple fondé sur la [[volonté]] anarchique des masses
     - la tyrannie serait le gouvernement d'un seul individu fondé sur la force
 - le projet éducatif de la [[philosophie]] est structuré dans un programme spécifique qui sélectionne progressivement les futurs dirigeants à travers les étapes suivantes
-  - 7-18 ans : gymnastique, musique, chant, poésie, mathématiques etc.
+  - 7-18 ans : gymnastique, musique, chant, [[poésie]], mathématiques etc.
   - 18-20 ans : service militaire
   - 20-30 ans : étude des [[science]]s
   - 30-35 ans : étude de la [[philosophie]], [[méthode]] [[dialectique]]
   - 35-50 ans : participation à la vie publique
   - 50+ ans : accès au gouvernement
-    - le but ultime de l'éducation est la possession de la [[science]] véritable (***épistémè***) par le souverain philosophe.
+    - le but ultime de l'[[éducation]] est la possession de la [[science]] véritable (***épistémè***) par le souverain philosophe.

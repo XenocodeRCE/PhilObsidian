@@ -1,1 +1,1 @@
-- Actualisation de la [[langue]] par un locuteur dans une énonciation; usage particulier qu'une [[personne]] fait de la [[langue]]
+- Actualisation de la [[langue]] par un locuteur dans une énonciation; usage [[particulier]] qu'une [[personne]] fait de la [[langue]]

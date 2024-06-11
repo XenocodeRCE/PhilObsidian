@@ -10,9 +10,9 @@
 	        - Le propre de l'[[homme]]
 	          - Pour lequel la [[connaissance]] représente le but ultime et la condition de la félicité
 	        - Se distingue en 3 étapes :
-	          - La [[connaissance sensible]] (elle donne le sentiment qui vient unifier les sens)
+	          - La [[connaissance sensible]] (elle donne le [[sentiment]] qui vient unifier les [[sens]])
 	          - L'[[imagination]] et la [[mémoire]] (elles permettent de produire et de conserver la reproduction mentale d'une [[sensation]])
-	          - La [[connaissance intellectuelle]] (elle permet d'accéder à des concepts universaux en dépassant l'imagination)
+	          - La [[connaissance intellectuelle]] (elle permet d'accéder à des concepts universaux en dépassant l'[[imagination]])
 
 
 
@@ -21,7 +21,7 @@
 	    - âme [[rationnel]]le
 	    - âme irascible
 	    - âme concupiscente
-	  - peut savoir des choses parce que l'expérience [[sensible]] sollicite la [[mémoire]] des [[Idée]]s envisagées dans l'***hyperuranium*** ([[monde]] des [[Idée]]s)
+	  - peut [[savoir]] des choses parce que l'[[expérience]] [[sensible]] sollicite la [[mémoire]] des [[Idée]]s envisagées dans l'***hyperuranium*** ([[monde]] des [[Idée]]s)
 	    - La [[connaissance]] c'est du [[Souvenir]]
 
 
@@ -32,7 +32,7 @@
 	        - se tourne vers la [[matière]], l'anime et l'organise sur la base de modèles idéaux ( [[âme]] du [[monde]])
 	        - se multiplie dans les [[âme]]s humaines individuelles
 	  - expérimente
-	    - la souffrance en raison de l'incarnation et de la séparation avec l'[[Un]]
+	    - la souffrance en [[raison]] de l'incarnation et de la séparation avec l'[[Un]]
 	    - la nostalgie [[métaphysique]] de l'être-vrai
 	  - veut retourner à l'[[Un]]
 	    - la condition préalable de cette ascension est
@@ -54,4 +54,4 @@
 	- en faisant du [[corps]] une machine autonome, [[Descartes]] écarte absolument toute fonction biologique.  
 	- l’âme est la [[substance]] pensante, ou [[pensée]], en tant qu’elle unifie toutes les expériences mentales (je pense), [[Cogito]].  
 	- elle se distingue du [[corps]] par le fait qu’elle n’occupe pas d’espace ([[substance]] inétendue).
-		- différent du corps, de la thèse de l'animal machine
+		- différent du [[corps]], de la [[thèse]] de l'animal machine

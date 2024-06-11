@@ -8,7 +8,7 @@
     - En fait il admet la pluralité des [[interprétation]]s et présente la structure du “renvoi”
       - Ce dernier ajourne le lecteur aux [[signification]]s toujours diversifiées et nouvelles
 - Élabore
-  - La méthode déconstructive du texte écrit
+  - La [[méthode]] déconstructive du texte écrit
     - Avec laquelle il procède à
       - Expliciter les multiples références, ajournements, non-dits
       - Dissoudre le système narratif et démonstratif

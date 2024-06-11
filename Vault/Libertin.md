@@ -1,5 +1,5 @@
 - [[Charron]] : 
-	- représente le mouvement [[Libertin]]
+	- représente le [[mouvement]] [[Libertin]]
 	  - qui se déclare du [[matérialisme]], du [[sensualisme]] et du [[scepticisme]]
 	  - qui affirme le contraste entre la sagesse de la [[nature]] et les doctrines des [[religion]]s
 	  - qui soutient :

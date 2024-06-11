@@ -1,11 +1,11 @@
 - [[Vico]] : 
 	- - qui se compose de trois étapes
 	      - (1) l'âge des [[Dieu]]x
-	        - les [[homme]]s sont des “bêtes stupides” doués d'une grande force et d'une grande sensibilité, mais sont dépourvus de raison
+	        - les [[homme]]s sont des “bêtes stupides” doués d'une grande force et d'une grande [[sensibilité]], mais sont dépourvus de [[raison]]
 	          - → ***« Les [[homme]]s sentent d’abord, sans remarquer les choses senties »***
 	      - (2) l'âge des héros
-	        - les [[homme]]s sont guidés par l'imagination alliée à la sensibilité
-	          - → ***« ils les remarquent ensuite, mais avec la confusion d’une âme agitée et passionnée »***
+	        - les [[homme]]s sont guidés par l'[[imagination]] alliée à la [[sensibilité]]
+	          - → ***« ils les remarquent ensuite, mais avec la confusion d’une [[âme]] agitée et passionnée »***
 	      - (3) l'âge des [[homme]]s
-	        - les [[homme]]s s'appuient sur la raison et inaugurent la philosophie
+	        - les [[homme]]s s'appuient sur la [[raison]] et inaugurent la [[philosophie]]
 	          - → ***« enfin, éclairés par une pure intelligence, ils commencent à réfléchir »***

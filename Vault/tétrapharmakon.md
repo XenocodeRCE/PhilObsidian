@@ -1,5 +1,5 @@
 - [[épicurisme]] :
 	-   1 : la libération de la peur des [[Dieu]]x
-      - 2 : la libération de la peur de la mort
+      - 2 : la libération de la peur de la [[mort]]
       - 3 : la démonstration que le [[plaisir]] est [[possible]]
       - 4 : la démonstration que la douleur et le malheur sont passagers

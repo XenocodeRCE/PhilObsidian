@@ -1,3 +1,3 @@
 - [[Hegel]]:
-	- l'énoncé ou la position d'un [[concept]] abstrait et limité
+	- l'énoncé ou la position d'un [[concept]] abstrait et [[limité]]
 	- correspond à [[logique]]

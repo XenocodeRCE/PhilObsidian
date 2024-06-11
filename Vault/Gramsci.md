@@ -1,5 +1,5 @@
 - fonde le Parti [[Communiste]] Italien
-    - élabore le concept d'***[[hégémonie culturelle]]***
+    - élabore le [[concept]] d'***[[hégémonie culturelle]]***
     - stipule que le parti [[Communiste]] doit construire un nouveau bloc historique
       - formulé par
         - les travailleurs au nord

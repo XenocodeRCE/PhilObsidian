@@ -5,6 +5,6 @@
 - [[Bergson]] :
 -   - il existe deux types de [[société civile]]
     - (1) la société fermée
-      - les besoins de cohésion sociale et le caractère statique prévalent
+      - les [[besoins]] de cohésion sociale et le caractère statique prévalent
     - (2) la société ouverte
       - où on favorise la [[liberté]] et la créativité des individus

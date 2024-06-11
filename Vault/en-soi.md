@@ -1,8 +1,8 @@
 - [[Spinoza]] :  
-	- c'est-à-dire n'a besoin de rien d'autre pour exister
+	- c'est-à-dire n'a [[besoin]] de [[rien]] d'autre pour exister
 
 - [[Kant]] : 
-	- indépendamment du sujet
+	- indépendamment du [[sujet]]
 
 - [[Sartre]] : 
 	- Privées de [[conscience]]

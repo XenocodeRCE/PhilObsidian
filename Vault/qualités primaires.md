@@ -1,2 +1,2 @@
 - [[Locke]] :
-	- [[concept]]s généraux tels que la taille et la [[forme]] que nous tirons du [[monde]] [[physique]] dont nous faisons l'expérience
+	- [[concept]]s généraux tels que la taille et la [[forme]] que nous tirons du [[monde]] [[physique]] dont nous faisons l'[[expérience]]

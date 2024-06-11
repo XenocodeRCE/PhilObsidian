@@ -1,2 +1,2 @@
 - [[Heidegger]] :
-          - Qui implique l'[[acceptation]] d'[[être-pour-la-mort]] et l'[[acceptation]] de l'entière responsabilité de ses choix
+          - Qui implique l'[[acceptation]] d'[[être-pour-la-mort]] et l'[[acceptation]] de l'entière [[responsabilité]] de ses [[choix]]

@@ -1,10 +1,10 @@
 # Francis Bacon
 
-- croit que
-  - le but de la [[science]] est de dominer la [[nature]] pour assurer l'amélioration des conditions de vie de l'[[homme]]
+- [[croit]] que
+  - le [[but]] de la [[science]] est de dominer la [[nature]] pour assurer l'amélioration des conditions de vie de l'[[homme]]
 - critique
   - la tradition et le [[principe]] d'autorité
-    - en particulier l'adhésion passive au modèle de [[Aristote]] : les Modernes ont dépassé les anciens parce qu'ils ont accumulé de l'expérience
+    - en [[particulier]] l'adhésion passive au modèle de [[Aristote]] : les Modernes ont dépassé les anciens parce qu'ils ont accumulé de l'[[expérience]]
   - la magie et les superstitions
     - selon lui les magiciens et les astrologues utilisent une [[langue]] cryptique et visent à subjuguer les personnes
 - pense que

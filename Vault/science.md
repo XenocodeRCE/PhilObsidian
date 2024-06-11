@@ -1,5 +1,5 @@
 - [[Comte]] :
-	- Troisième étape du développement de l'[[esprit]] humain.
+	- Troisième étape du développement de l'[[esprit]] [[humain]].
 	- reconnaît que la recherche des [[cause]]s ultimes est impossible et inutile
 
 
@@ -8,7 +8,7 @@
 
 - - [[Horkheimer et Adorno]] : 
 	- [[forme]] de domination
-	-  elle objective et réduit ce qu'elle analyse à une “[[chose]]”, la soumettant à son propre pouvoir
+	-  elle objective et réduit ce qu'elle analyse à une “[[chose]]”, la soumettant à son propre [[pouvoir]]
     - elle était un instrument d'émancipation et s'est transformée en facteur de répression
 
 
@@ -25,12 +25,12 @@
 	  - Elle est devenue une simple [[science]] des [[fait]]s
 	  - Elle est incapable de donner des réponses aux [[question]]s fondamentales de l'[[existence]]
 	- Déclare que la science a développé une [[connaissance]] abstraite et [[mathématique]] de la [[nature]]
-	  - Elle a superposé un ensemble d'idéaux extraits d'une expérience vécue concrète
+	  - Elle a superposé un ensemble d'idéaux extraits d'une [[expérience]] vécue concrète
 	    - Ainsi doit être inaugurée une [[philosophie]] qui retrouve le [[sens]] perdu des choses par rapport à la subjectivité
 
 - [[Jaspers]] :
   - Permet la [[connaissance]] des [[objet]]s “dans” le [[monde]]
-  - Mais ne permet pas la compréhension de l'[[être]] lui-même
+  - Mais ne permet pas la [[compréhension]] de l'[[être]] lui-même
     - Celui-ci reste un horizon [[transcendant]]
 
 
@@ -49,7 +49,7 @@
 	-   [[philosophie]] et [[science]] sont des termes corrélatifs et non exclusifs
 	    - En fait
 	      - La [[méthode]] de la [[science]] est au service de la [[vérité]]
-	      - La compréhension philosophique peut bénéficier d'un dialogue avec une explication de la [[science]]
+	      - La [[compréhension]] philosophique peut bénéficier d'un [[dialogue]] avec une explication de la [[science]]
 
 - [[Schelling]] :
 	- - la [[philosophie]] est la [[science]] de l'[[Absolu]] et peut suivre deux directions :
@@ -60,7 +60,7 @@
 - [[Schopenhauer]] :
 	- les [[science]]s, selon lesquelles
 	    - le [[monde]] est ma [[représentation]]
-	      - c'est-à-dire une [[représentation]] des phénomènes qui ne peut exister indépendamment du sujet
+	      - c'est-à-dire une [[représentation]] des phénomènes qui ne peut exister indépendamment du [[sujet]]
 	        - qui organise et ordonne les phénomènes grâce :
 	          - aux [[forme]]s *a priori* de l'[[espace]] et du [[temps]]
 	          - à la [[catégories]] de [[cause]]

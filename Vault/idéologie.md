@@ -1,2 +1,2 @@
-- [[science]] des [[Idée]]s (au sens général des faits de [[conscience]]), de leur [[nature]], de leur rapport avec les [[signe]]s qui les représentent, et surtout de leur [[origine]]
+- [[science]] des [[Idée]]s (au sens [[général]] des faits de [[conscience]]), de leur [[nature]], de leur rapport avec les [[signe]]s qui les représentent, et surtout de leur [[origine]]
 - Ensemble plus ou moins cohérent des [[Idée]]s, des croyances et des doctrines philosophiques, religieuses, politiques, économiques, sociales, propre à une époque, une société, une classe et qui oriente l'action

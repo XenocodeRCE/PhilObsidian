@@ -1,2 +1,2 @@
 - [[Hindouisme]] :
-	- qui est l'ensemble des actions effectuées déterminant le destin de l'[[âme]] après la [[mort]] (réincarnation en [[corps]] humain ou en d'autres êtres vivants)
+	- qui est l'ensemble des actions effectuées déterminant le destin de l'[[âme]] après la [[mort]] (réincarnation en [[corps]] [[humain]] ou en d'autres êtres vivants)

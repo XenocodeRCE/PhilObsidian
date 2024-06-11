@@ -1,5 +1,5 @@
 - Qui s'étend à l'[[Univers]] entier, qui embrasse la totalité des êtres et des choses.
 - [[universel]]
-- Général
-- Particulier
+- [[général]]
+- [[particulier]]
 - Singulier

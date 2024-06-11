@@ -1,1 +1,1 @@
-- le fait de [[transcender]]
+- le [[fait]] de [[transcender]]

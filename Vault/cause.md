@@ -1,12 +1,12 @@
 - [[Hume]] : 
 	- dérive de
-	    - la tendance subjective à saisir un lien nécessaire entre deux événements dont on observe la contiguïté et les successions régulières
+	    - la tendance subjective à saisir un lien [[nécessaire]] entre deux événements dont on observe la contiguïté et les successions régulières
 	      - on dit qu'il y a un « ***passage arbitraire du post-hoc au proper-hoc*** »
 - [[Berkeley]] :
 	- la [[matière]] n'est pas la cause des [[perception]]s
 - [[Aristote]] : 
-	- Aristote croit que
-	  - À l'origine des phénomènes il y a 4 [[cause]]s :
+	- [[Aristote]] [[croit]] que
+	  - À l'[[origine]] des phénomènes il y a 4 [[cause]]s :
 	    - Matérielle [[matière]]
 	    - Formelle [[forme]]
 	    - Efficiente

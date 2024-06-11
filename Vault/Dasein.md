@@ -1,3 +1,3 @@
 - [[Heidegger]] : 
 	- Un [[être]] jeté dans une situation déterminée qu'il n'a pas choisie
-      - C'est le pouvoir d'[[être]], c'est-à-dire, la capacité de [[transcender]] la [[contingence]]
+      - C'est le [[pouvoir]] d'[[être]], c'est-à-dire, la capacité de [[transcender]] la [[contingence]]

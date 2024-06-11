@@ -1,13 +1,13 @@
 - [[Augustin]] :
-	- le nouvel outil de recherche de la [[vérité]] est le dialogue intérieur
+	- le nouvel [[outil]] de recherche de la [[vérité]] est le [[dialogue]] intérieur
 	  - en fait
 	    - la [[vérité]] réside dans l'[[âme]]
-	      - comme le démontrent le [[doute]] et le désir [[de]] [[connaissance]]s qui sont en elle
-	  - sur cette base [[Augustin]] élabore la ***théorie de l'[[illumination]]***
+	      - comme le démontrent le [[doute]] et le [[désir]] [[de]] [[connaissance]]s qui sont en elle
+	  - sur cette base [[Augustin]] élabore la ***[[théorie]] de l'[[illumination]]***
 	- la [[foi]] et la [[raison]] sont des organes complémentaires de la [[connaissance]]
 	  - en fait
-	    - pour comprendre [[Dieu]] il faut croire
-	    - pour croire en intérieur il est nécessaire de comprendre
+	    - pour [[comprendre]] [[Dieu]] il faut [[croire]]
+	    - pour [[croire]] en intérieur il est [[nécessaire]] de [[comprendre]]
 
 - [[Hegel]] :
 	- coïncide avec le [[tout]]
@@ -19,7 +19,7 @@
      - [[ordre]]
      - [[raison]]
      - [[discours]]
-  - est une loi nécessaire de l'[[Univers]] 
+  - est une [[loi]] [[nécessaire]] de l'[[Univers]] 
 
 - [[Jaspers]] :
 	- La [[vérité]] est multiple et en même temps unique
@@ -34,7 +34,7 @@
 		    - Ainsi
 		      - Elle est multiple, inépuisable et [[Infini]]e
 		        - Cela dépend du fait que
-		          - L'[[homme]] en tant que personne est “ouverture à l'[[être]]”
+		          - L'[[homme]] en tant que [[personne]] est “ouverture à l'[[être]]”
 		          - L'[[être]] ne se donne jamais complètement à l'[[homme]] mais se conserve dans sa [[différence ontologique]]
 
 - [[Parménide]] :

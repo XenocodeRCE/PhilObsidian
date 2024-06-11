@@ -1,2 +1,2 @@
 - [[Kant]] :
-	  - qui prescrivent une action en vue de la réalisation d'une [[fin]] (but) déterminée, ils sont [[particulier]]s et [[contingent]]s
+	  - qui prescrivent une action en vue de la réalisation d'une [[fin]] ([[but]]) déterminée, ils sont [[particulier]]s et [[contingent]]s

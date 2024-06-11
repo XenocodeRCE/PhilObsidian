@@ -3,4 +3,4 @@
     - la voie de l'effet
     - la voie de la [[contingence]]
     - la voie des degrés de perfection
-    - la voie de l'ordre mondial
+    - la voie de l'[[ordre]] mondial

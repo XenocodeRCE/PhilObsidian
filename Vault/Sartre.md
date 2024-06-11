@@ -5,11 +5,11 @@
 - Affirme que
   - L'[[homme]] est condamné à être [[libre]]
   - Le conflit entre les êtres humains est inévitable
-    - En fait chacun tend à objectiver l'autre
+    - En [[fait]] chacun tend à objectiver l'autre
       - Ainsi l'[[homme]] a honte d'être [[objet]] du regard des autres
         - Ce regard le dépossède de la subjectivité et menace sa [[liberté]]
-- Opère une synthèse entre existentialisme  de [[Kierkegaard]] et [[Marx]]
-  - L'[[Histoire]] dépend des actions libres et des choix libres des individus
+- Opère une [[synthèse]] entre [[existentialisme]]  de [[Kierkegaard]] et [[Marx]]
+  - L'[[Histoire]] dépend des actions libres et des [[choix]] libres des individus
     - Les individus peuvent s'opposer à la société bourgeoise qui sérialise les gens
 - Soutient les idées de  
 	- [[conscience transcendantale]]

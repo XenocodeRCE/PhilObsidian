@@ -2,11 +2,11 @@
 - utilise le télescope pour observer les étoiles
   - il prouve alors
     - la fausseté des thèses sur la perfection des [[corps]] célestes
-    - la vérité de la théorie héliocentrique de [[Copernic]]
+    - la [[vérité]] de la [[théorie]] héliocentrique de [[Copernic]]
       - qui est totalement contraire à l'autorité de la [[religion]] et contredit la Bible
 - critique le [[principe]] d'autorité
   - qui détermine une [[connaissance]] abstraite caractérisé par le [[finalisme]] et l'[[essentialisme]]
-- élabore la [[méthode]] scientifique
+- élabore la [[méthode]] [[scientifique]]
   - fondée sur
     - la conception [[mathématique]] de l'[[univers]] et de la [[nature]]
     - la distinction entre qualités objectives et qualités subjectives

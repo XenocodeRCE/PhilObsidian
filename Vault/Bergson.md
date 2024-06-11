@@ -1,6 +1,6 @@
 # Bergson
 - fait la distinction entre
-  - [[temps]] scientifique
+  - [[temps]] [[scientifique]]
     - compris comme succession homogène d'instants
       - c'est un [[temps]] extérieur, mesurable, spatialisé, quantitatif
   - [[temps]] de la [[conscience]]
@@ -12,7 +12,7 @@
       - la [[durée]]
 - identifie la [[conscience]] avec la [[mémoire]]
 - stipule que
-  - l'[[impulsion]] vitale est à l'origine de la vie biologique et spirituelle
+  - l'[[impulsion]] vitale est à l'[[origine]] de la vie biologique et spirituelle
     - c'est une énergie spirituelle invisible qui se répand dans l'[[Univers]], donnant vie à tous les êtres
   - la [[connaissance]] est de deux sortes
   - il existe deux types de [[société civile]]

@@ -1,2 +1,2 @@
-- [[religion]] qui admet l’existence de plusieurs [[Dieu]]x, dont on peut raconter la naissance et les exploits (dans des « mythologies »).  
+- [[religion]] qui admet l’[[existence]] de plusieurs [[Dieu]]x, dont on peut raconter la naissance et les exploits (dans des « mythologies »).  
 - majoritaire dans l’antiquité, le polythéisme a aujourd’hui pratiquement disparu en occident mais on le trouve encore dans l’[[Hindouisme]].

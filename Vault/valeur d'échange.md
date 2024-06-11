@@ -1,1 +1,1 @@
-- déterminée par la quantité de travail nécessaire pour produire un [[objet]]
+- déterminée par la quantité de [[travail]] [[nécessaire]] pour produire un [[objet]]

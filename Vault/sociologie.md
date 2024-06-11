@@ -1,1 +1,1 @@
-- [[Mill]] : science qui permet de prédire les événements sociaux
+- [[Mill]] : [[science]] qui permet de prédire les événements sociaux

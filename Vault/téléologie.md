@@ -1,1 +1,1 @@
-- Vision qui soutient que dans la [[nature]] rien n'arrive par accident. Tout a une [[fin]], [[finalisme]]
+- Vision qui soutient que dans la [[nature]] rien n'arrive par accident. [[tout]] a une [[fin]], [[finalisme]]

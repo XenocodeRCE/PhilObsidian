@@ -1,1 +1,1 @@
-- [[Connaissance]] directe et [[intuition immédiate|immédiate]] d'une [[vérité]] qui se présente à la [[pensée]] de façon [[claire]] et évidente, qui servira de [[principe]] et de fondement au raisonnement discursif.
+- [[Connaissance]] directe et [[intuition immédiate|immédiate]] d'une [[vérité]] qui se présente à la [[pensée]] de façon [[claire]] et évidente, qui servira de [[principe]] et de [[fondement]] au raisonnement discursif.

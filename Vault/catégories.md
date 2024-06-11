@@ -1,5 +1,5 @@
 - [[Kant]] : 
 	-  Quantité ( Unité | Pluralité | Totalité )
-    -  Qualité  ( Réalité | Négation | Limitation )
-    -  Relation ( Substance & accident | Causalité & dépendance | Action réciproque )
+    -  [[Qualité]]  ( [[réalité]] | [[négation]] | Limitation )
+    -  Relation ( [[substance]] & accident | [[causalité]] & dépendance | Action réciproque )
     -  Modalité (Problématiques | Assertoriques | Apodictiques )

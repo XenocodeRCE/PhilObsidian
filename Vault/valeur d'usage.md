@@ -1,1 +1,1 @@
--  coïncide avec la capacité d'un produit pour satisfaire un besoin humain
+-  coïncide avec la capacité d'un produit pour satisfaire un [[besoin]] [[humain]]

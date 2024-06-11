@@ -17,4 +17,4 @@
       - [[proposition]]s simples ( [[propositions atomiques]] )
       - [[proposition]]s complexes ( [[propositions moléculaires]])
     - Ainsi les [[proposition]]s sont des [[image]]s de la [[réalité]]
-      - Puisqu'elles reproduisent la structure logique des états de choses
+      - Puisqu'elles reproduisent la structure [[logique]] des états de choses

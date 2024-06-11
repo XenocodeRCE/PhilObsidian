@@ -2,7 +2,7 @@
 	- Pense que
 	  - l'[[homme]] doit se libérer des préjugés qui entravent la [[connaissance]]
 	    - c'est la ***[[doctrine des idoles]]***
-	      - idole de la tribu : dérive du fait que les [[homme]]s interprètent les choses selon leurs propres schémas mentaux ou besoins
-	      - idole des cavernes : dérive de l'hérédité, de l'éducation, de l’environnement
+	      - idole de la tribu : dérive du [[fait]] que les [[homme]]s interprètent les choses selon leurs propres schémas mentaux ou [[besoins]]
+	      - idole des cavernes : dérive de l'hérédité, de l'[[éducation]], de l’environnement
 	      - idole de la place publique : résulte de l'utilisation arbitraire ou inappropriée des mots
 	      - idole du théâtre : dérive des doctrines des divers écoles philosophiques

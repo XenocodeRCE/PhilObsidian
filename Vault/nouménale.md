@@ -1,2 +1,2 @@
 - [[Kant]] :
-    - réalité “[[en-soi]]”, indépendamment du [[sujet]]
+    - [[réalité]] “[[en-soi]]”, indépendamment du [[sujet]]

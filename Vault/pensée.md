@@ -1,7 +1,7 @@
 - [[Pascal]] : 
 	-  la [[pensée]] se divise en
-	    - esprit **[[géométrique]]**
-	    - esprit de **[[finesse]]**
+	    - [[esprit]] **[[géométrique]]**
+	    - [[esprit]] de **[[finesse]]**
 - [[Dewey]] :
 	- la [[pensée]] c'est 
 		- l'activité qui 
@@ -13,12 +13,12 @@
 		      - soit l'apparition immédiate et spontanée d'une [[Idée]] d'action
 		    - (2) l'identification du problème
 		      - soit la focalisation sur le problème grâce à la réflexion
-		    - (3) l'hypothèse
-		      - soit l'élaboration rationnelle d'une solution ou d'une [[Idée]] valable pour l'action
+		    - (3) l'[[hypothèse]]
+		      - soit l'élaboration [[rationnelle]] d'une solution ou d'une [[Idée]] valable pour l'action
 		    - (4) le raisonnement
 		      - c'est-à-dire la connexion entre plusieurs [[Idée]]s
 		    - (5) la vérification d'hypothèses
-		      - c'est-à-dire la confirmation ou l'infirmation de l'hypothèse grâce à une observation empirique ou une [[expérience]]
+		      - c'est-à-dire la confirmation ou l'infirmation de l'[[hypothèse]] grâce à une observation empirique ou une [[expérience]]
 
 
 - [[James]] 

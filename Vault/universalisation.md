@@ -5,5 +5,5 @@
 	    - étendu par
 	      - les 3 formulations de l'[[impératif catégorique]], qui commandent l'action
 	        - (1) Agis seulement selon la maxime qui voudrait que ton action soit érigée en [[loi]] [[universel]]
-	        - (2) Toujours traiter l'humanité, tant dans votre propre personne qu'en la personne des autres, toujours comme [[fin]] et jamais simplement comme [[moyen]]
+	        - (2) Toujours traiter l'[[humanité]], tant dans votre propre [[personne]] qu'en la [[personne]] des autres, toujours comme [[fin]] et jamais simplement comme [[moyen]]
 	        - (3) Fais en sorte que ta [[volonté]], en suivant ces maximes, puisse en même temps être considérée comme législateur [[universel]]

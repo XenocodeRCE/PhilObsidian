@@ -1,2 +1,2 @@
 - [[Bergson]] : 
-	- [[temps]] non spatialisé, de la [[conscience]], opposé au temps de la [[science]]
+	- [[temps]] non spatialisé, de la [[conscience]], opposé au [[temps]] de la [[science]]

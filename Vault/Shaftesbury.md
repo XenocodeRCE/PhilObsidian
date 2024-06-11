@@ -1,5 +1,5 @@
-- Affirme un parallélisme entre morale et esthétique
-  - le sens moral permet de faire la distinction entre le bien et le mal
-  - le sens esthétique nous permet de discriminer le beau du laid
+- Affirme un parallélisme entre [[morale]] et [[esthétique]]
+  - le [[sens]] [[moral]] permet de faire la distinction entre le [[Bien]] et le [[mal]]
+  - le [[sens]] [[esthétique]] nous permet de discriminer le [[Beau]] du laid
     - ce sont des facultés pré-logiques qui saisissent les [[objet]]s de manière intuitive et non conceptuelle
-    - Exemple : on aura plus de mal avec une personne qui écrase un papillon plutôt qu'avec celle qui écrase un cafard
+    - Exemple : on aura plus de [[mal]] avec une [[personne]] qui écrase un papillon plutôt qu'avec celle qui écrase un cafard

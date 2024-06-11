@@ -1,2 +1,2 @@
 - [[Kant]] : 
-	- [[représentation]] de l'unité du rapport du fondement de la [[connaissance]] à la [[connaissance]] [[possible]] d'un [[objet]]
+	- [[représentation]] de l'unité du rapport du [[fondement]] de la [[connaissance]] à la [[connaissance]] [[possible]] d'un [[objet]]

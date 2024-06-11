@@ -1,7 +1,7 @@
 - [[Platon]] :
 	- des entités immuables et parfaites
-	  - qui ont une [[existence]] autonome du [[monde]] [[sensible]] imparfait et changeant (=*dualisme ontologique*)
-	  - qui font l'[[objet]] d'une [[connaissance]] parfaite (*épistémè*) différente d'une [[connaissance]] imparfaite (*doxa*) du [[monde]] [[sensible]] (=*dualisme gnoséologique*)
+	  - qui ont une [[existence]] autonome du [[monde]] [[sensible]] imparfait et changeant (=*[[dualisme]] ontologique*)
+	  - qui font l'[[objet]] d'une [[connaissance]] parfaite (*épistémè*) différente d'une [[connaissance]] imparfaite (*doxa*) du [[monde]] [[sensible]] (=*[[dualisme]] gnoséologique*)
 	  - qui constituent le modèle, la [[cause]] et le critère des choses
 	  - qui sont avec les choses dans un rapport de
 	    - *Mimesis* (imitation)
@@ -13,14 +13,14 @@
 
 - [[Descartes]] :
 	- le [[sujet]] est [[certain]] de sa propre [[existence]] en tant qu'[[être]] pensant
-	    - il est [[certain]] de ses propres [[Idée]]s, qui sont l'[[objet]] immédiate de la pensée
+	    - il est [[certain]] de ses propres [[Idée]]s, qui sont l'[[objet]] immédiate de la [[pensée]]
 	      - qui se distinguent en
 	        - idées **adventices**
-	          - surgissant par expérience
+	          - surgissant par [[expérience]]
 	        - idées **factuelles**
 	          - inventées par le [[sujet]]
 	        - idées **innées**
-	          - ne venant ni de l'expérience ni du [[sujet]]
+	          - ne venant ni de l'[[expérience]] ni du [[sujet]]
 	            - il y a parmi ces idées, l'idée de [[Dieu]]
 
 - [[Hegel]] :
@@ -40,7 +40,7 @@
 	      - il n'y a pas de [[vérité]]s fondamentales dans l'[[esprit]] des enfants et des idiots
 	      - il n'y a pas d'[[Idée]] morales [[universel]]s
 	  - les [[idée]]s viennent de l'[[expérience]] ([[empirisme]])
-	    - en particulier
+	    - en [[particulier]]
 	      - de l'[[expérience]] extérieure viennent les [[Idée]]s de [[sensation]]
 	      - de l'[[expérience]] intérieure viennent les [[Idée]]s de [[réflexion]]
 	    - en fait

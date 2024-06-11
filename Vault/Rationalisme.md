@@ -1,1 +1,1 @@
-- Doctrine d'après laquelle [[tout]] ce qui existe a sa [[raison]] d'[[être]] de telle sorte que tout est [[intelligible]].
+- Doctrine d'après laquelle [[tout]] ce qui existe a sa [[raison]] d'[[être]] de telle sorte que [[tout]] est [[intelligible]].

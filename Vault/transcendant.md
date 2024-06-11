@@ -2,4 +2,4 @@
 
 - [[Kant]] :
 	- Diffère de ce qui est [[transcendantal]]
-	- Qui se situe au-delà de toute expérience [[possible]]
+	- Qui se situe au-delà de toute [[expérience]] [[possible]]

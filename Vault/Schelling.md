@@ -6,4 +6,4 @@
   - la [[philosophie de la nature]]
   - la [[philosophie de l'esprit]]
   - l'[[Esprit]] et la [[Nature]] sont deux modalités de réalisation et d'expression de l'[[Absolu]]
-- l'[[art]] est l'organe suprême de la [[connaissance
+- l'[[art]] est l'organe suprême de la [[[[connaissance]]

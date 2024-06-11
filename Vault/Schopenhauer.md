@@ -1,14 +1,14 @@
 # Schopenhauer
 
 - élabore une vision pessimiste de la vie, fondée sur
-  - une méditation sur la [[mort]], l'éternité, le pouvoir de la [[nature]]
-  - l'étude des [[philosophie]]s, en particulier
+  - une méditation sur la [[mort]], l'éternité, le [[pouvoir]] de la [[nature]]
+  - l'étude des [[philosophie]]s, en [[particulier]]
     - [[Platon]]
       - selon lequel
-        - l'[[homme]] doit se détacher du monde sensible et tendre vers la [[connaissance]] des [[Idée]]s
+        - l'[[homme]] doit se détacher du [[monde]] [[sensible]] et tendre vers la [[connaissance]] des [[Idée]]s
     - [[Kant]]
       - selon lequel
-        - l'[[homme]] aspire à vaincre le monde phénoménal pour accéder à la chose [[en-soi]]
+        - l'[[homme]] aspire à vaincre le [[monde]] phénoménal pour accéder à la [[chose]] [[en-soi]]
   - la rencontre avec l'ancienne sagesse orientale
 	 - l'[[Hindouisme]]
 	 - qui reconnaît la douleur de l'[[existence]] et le 'voile de Maya' qui cache l'[[essence]] des choses
@@ -19,9 +19,9 @@
     - le [[monde]] est la [[volonté]] de vivre
 - stipule que
   - il y a trois façons possibles de se débarrasser de la douleur
-    - (1) l'expérience [[esthétique]]
-      - étant désintéressée et visant l'idéal, elle représente un apaisement du désir
+    - (1) l'[[expérience]] [[esthétique]]
+      - étant désintéressée et visant l'idéal, elle représente un apaisement du [[désir]]
     - (2) la [[morale]]
-      - grâce à la compassion, elle permet de dépasser les clivages entre un sujet et un autre
+      - grâce à la compassion, elle permet de dépasser les clivages entre un [[sujet]] et un autre
     - (3) l'ascèse
-      - constitue l'ultime acte de déni de la volonté de vivre (= *noluntas*)
+      - constitue l'ultime [[acte]] de déni de la [[volonté]] de vivre (= *noluntas*)

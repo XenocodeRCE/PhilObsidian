@@ -9,12 +9,12 @@
 	    - il peut planifier des projets et se projeter dans ses possibilités
 	      - il peut éprouver de la [[détresse]]
 	      - il peut sentir le [[désespoir]] (= la maladie [[morale]])
-	        - cela s'exprime par le rejet de soi-même ou de l'[[acceptation]] de soi comme étant autonome et complet
+	        - cela s'exprime par le rejet de [[soi]]-même ou de l'[[acceptation]] de [[soi]] comme étant autonome et complet
 	          - ainsi le seul remède au désespoir est la [[foi]]
 	            - ainsi l'[[homme]] s'accepte comme étant « celui qui est entre les mains de [[Dieu]] »
             -
 - [[Hobbes]] :
-	- Hobbes soutient une conception pessimiste de l'[[humanité]]
+	- [[Hobbes]] soutient une conception pessimiste de l'[[humanité]]
 	  - ***homo homini lupus*** (l'[[homme]] est un loup pour l'[[homme]])
 	  - selon laquelle
 	    - l'[[homme]] est en conflit constant avec sa propre espèce

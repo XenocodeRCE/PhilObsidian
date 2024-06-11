@@ -1,4 +1,4 @@
 - [[Heidegger]] :
     - Il est constitutivement ouvert à un [[monde]] de choses et de [[sens]]
     - Le [[monde]] se présente à lui comme un ensemble d'[[outils]]
-      - Les choses n'ont de [[sens]] qu'en référence à la planification humaine
+      - Les choses n'ont de [[sens]] qu'en référence à la planification [[humaine]]

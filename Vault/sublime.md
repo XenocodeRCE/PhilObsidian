@@ -1,6 +1,6 @@
 - [[Kant]] : 
 	- se démarque selon
-      - le sublime mathématique
-        - qui a pour [[objet]] la grandeur de la nature; et exprime le sentiment de limitation et d'im[[puissance]] humaine face à l’immensité de l'univers
+      - le sublime [[mathématique]]
+        - qui a pour [[objet]] la grandeur de la [[nature]]; et exprime le [[sentiment]] de limitation et d'im[[puissance]] [[humaine]] face à l’immensité de l'[[Univers]]
       - le sublime dynamique
-        - qui a pour [[objet]] le pouvoir de la nature; et exprime la conscience de la supériorité spirituelle de l'[[homme]] capable de s'élever au-dessus de la nature
+        - qui a pour [[objet]] le [[pouvoir]] de la [[nature]]; et exprime la [[conscience]] de la supériorité spirituelle de l'[[homme]] capable de s'élever au-dessus de la [[nature]]

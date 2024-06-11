@@ -1,4 +1,4 @@
-- [[Platon]] : est mesuré par les [[homme]]s à travers le mouvement fluide et parfaits des étoiles qui sont en fait des divinités visibles
+- [[Platon]] : est mesuré par les [[homme]]s à travers le [[mouvement]] fluide et parfaits des étoiles qui sont en fait des divinités visibles
 
 - [[Augustin]] : 
 	- le [[temps]] est une détente de l'[[âme]]
@@ -11,6 +11,6 @@
 
 
 - [[Platon]] :
-	-  Le ***Démiurge*** aurait conféré l'ordre aux événements naturels à travers le [[temps]] qui, avec son déroulement régulier imite l'éternité du monde des [[Idée]]s
-	- le [[temps]] est mesuré par les [[homme]]s à travers le mouvement fluide et parfaits des étoiles qui sont en fait des divinités visibles
-	- ainsi l'ordre qui règne dans l'[[Univers]] serait le reflet d'une harmonie céleste
+	-  Le ***Démiurge*** aurait conféré l'[[ordre]] aux événements naturels à travers le [[temps]] qui, avec son déroulement régulier imite l'éternité du [[monde]] des [[Idée]]s
+	- le [[temps]] est mesuré par les [[homme]]s à travers le [[mouvement]] fluide et parfaits des étoiles qui sont en fait des divinités visibles
+	- ainsi l'[[ordre]] qui règne dans l'[[Univers]] serait le reflet d'une harmonie céleste

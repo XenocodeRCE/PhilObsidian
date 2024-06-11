@@ -1,3 +1,3 @@
 - [[Nietzsche]] : 
-	- l'hypothèse selon laquelle l'[[Histoire]] est un grand cercle et que tout est destiné à revenir
-      - cela s'oppose à l'idée de [[temps]] linéaire selon laquelle l'[[Histoire]] est une chaîne de moments irremplaçables orientés vers une [[fin]]
+	- l'[[hypothèse]] selon laquelle l'[[Histoire]] est un grand cercle et que [[tout]] est destiné à revenir
+      - cela s'oppose à l'[[Idée]] de [[temps]] linéaire selon laquelle l'[[Histoire]] est une chaîne de moments irremplaçables orientés vers une [[fin]]

@@ -6,4 +6,4 @@
   - dans la [[nature]] il y a alternance entre des éléments contraires
   - l'[[homme]] change constamment d'identité
 - cela semble chaotique et divisé aux ***[[dormeurs]]*** qui sont dans l'erreur puisque prisonniers des apparences [[sensible]]s
-- il s'avère rationnel de se réveiller afin d'être capable de saisir la [[vérité]]
+- il s'avère [[rationnel]] de se réveiller afin d'être capable de saisir la [[vérité]]

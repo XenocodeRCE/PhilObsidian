@@ -9,8 +9,8 @@
 - les [[Idée]]s complexes garantissent
   - une [[connaissance]] certaine quand elle dérive d'une relation pure entre les idées
   - une [[connaissance]] probable quand elle dérive des relations entre les faits
-    - toutes les [[connaissance]]s en relation aux données factuelles impliquent le [[principe]] de causalité
+    - toutes les [[connaissance]]s en relation aux données factuelles impliquent le [[principe]] de [[causalité]]
 - l'idée de [[cause]] est complexe
-- la croyance que le [[monde]] [[physique]] est gouverné par des [[principe]]s universels est le résultat de l'[[habitude]]
+- la croyance que le [[monde]] [[physique]] est gouverné par des [[principe]]s [[universels]] est le résultat de l'[[habitude]]
 - il faut distinguer l'[[être]] et le [[devoir être]]
-- Stipule que le [[sentiment]] est [[subjectif]], [[particulier]], [[relatif
+- Stipule que le [[sentiment]] est [[subjectif]], [[particulier]], [[[[relatif]]

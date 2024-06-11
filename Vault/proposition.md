@@ -9,4 +9,4 @@
 
 - [[Wittgenstein]] :
 	- les [[propositions]] sont des [[image]]s de la [[réalité]]
-      - Puisqu'elles reproduisent la structure logique des états de choses
+      - Puisqu'elles reproduisent la structure [[logique]] des états de choses

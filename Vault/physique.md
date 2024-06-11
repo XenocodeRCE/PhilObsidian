@@ -5,10 +5,10 @@
 	- envisage une [[physique]] ***mécaniste***
     - l'[[Univers]] entier serait gouverné par deux [[principe]]s
       - la [[matière]] est inerte
-      - il y a une conservation de la quantité de mouvement
-        - ce dernier est soumis aux trois lois du [[mouvement]]
+      - il y a une conservation de la quantité de [[mouvement]]
+        - ce dernier est soumis aux trois [[lois]] du [[mouvement]]
       - toutefois
-        - la science de Descartes ne s'arrête pas au moment abstrait et déductif, elle reconnaît l'importance de la méthode expérimentale
+        - la [[science]] de [[Descartes]] ne s'arrête pas au moment abstrait et déductif, elle reconnaît l'importance de la [[méthode]] expérimentale
           - puisque c'est grâce à elle que les hypothèses peuvent être confirmées
 
 - [[épicurisme]] :

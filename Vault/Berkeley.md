@@ -6,6 +6,6 @@
     - alors il en conclut que
       - ***esse est percipi*** : l'[[existence]] des choses est dans leur [[perception]]
 - nie que la [[matière]] est la [[cause]] des [[perception]]s
-  - cette cause est [[immatérielle]]
-  - il admet que des choses existent même lorsqu'elles ne sont pas perçues car elles restent dans l'esprit de [[Dieu]]
-    - cela permet de garantir la validité de la [[science]] qui reflète l'[[ordre]] de la succession des [[Idée]]s dans l'esprit de [[Dieu]]
+  - cette [[cause]] est [[immatérielle]]
+  - il admet que des choses existent même lorsqu'elles ne sont pas perçues car elles restent dans l'[[esprit]] de [[Dieu]]
+    - cela permet de garantir la validité de la [[science]] qui reflète l'[[ordre]] de la succession des [[Idée]]s dans l'[[esprit]] de [[Dieu]]

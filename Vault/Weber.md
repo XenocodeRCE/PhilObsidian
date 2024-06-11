@@ -5,22 +5,22 @@
     - sont définies par l'attitude du chercheur
       - il doit être neutre, ne doit pas avoir une attitude évaluative
         - il faut donc distinguer entre
-          - le jugement de valeur
+          - le [[jugement]] de valeur
             - soit la position évaluative du chercheur face à la [[réalité]]
           - la relation aux valeurs
-            - soit le critère avec lequel le scientifique sélectionne les [[objet]]s doués d'un intérêt scientifique
+            - soit le critère avec lequel le [[scientifique]] sélectionne les [[objet]]s doués d'un intérêt [[scientifique]]
     - recourent à une explication causale particulière
-      - qui vise à identifier un ensemble limité d'éléments pertinents
-  - le développement du capitalisme est lié à la religion protestante
+      - qui vise à identifier un ensemble [[limité]] d'éléments pertinents
+  - le développement du capitalisme est lié à la [[religion]] protestante
     - selon laquelle
       - l'[[homme]] peut démontrer par des travaux et des actions qu'il est guidé par la “grâce de [[Dieu]]”
-        - ainsi l'engagement et le zèle des individus sont stimulés même lorsque leur sens religieux est perdu
-  - l'Occident assiste à un processus de [[désenchantement]] du monde
-  - en Occident il existe deux types d'éthique
-    - l'éthique de la responsabilité
-      - typique du Calvinisme et se fonde sur une logique calculante et instrumentale
+        - ainsi l'engagement et le zèle des individus sont stimulés même lorsque leur [[sens]] religieux est perdu
+  - l'Occident assiste à un processus de [[désenchantement]] du [[monde]]
+  - en Occident il existe deux types d'[[éthique]]
+    - l'[[éthique]] de la [[responsabilité]]
+      - typique du Calvinisme et se fonde sur une [[logique]] calculante et instrumentale
         - où l'action est évaluée par rapport aux objectifs concrets et aux moyens nécessaires pour les atteindre
-        - où le travail est ressenti comme une obligation morale (en Allemand → *Beruf*)
-    - l'éthique de l'intention
+        - où le [[travail]] est ressenti comme une obligation [[morale]] (en Allemand → *Beruf*)
+    - l'[[éthique]] de l'intention
       - typique du Catholicisme
         - où l'action est évaluée par rapport aux intentions de celui qui l'accomplit, quelles qu'en soient les conséquences

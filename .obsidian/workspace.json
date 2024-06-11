@@ -6,63 +6,14 @@
       {
         "id": "84e9af3be12a3a7b",
         "type": "tabs",
-        "dimension": 42.35145385587863,
         "children": [
           {
             "id": "87c0a6d7df999116",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault/relatif.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "f9c1b8bdc4dfaa26"
-          }
-        ]
-      },
-      {
-        "id": "91d2db2f2f7e41c6",
-        "type": "tabs",
-        "dimension": 57.64854614412137,
-        "children": [
-          {
-            "id": "26ab1f3ab648aec6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Vault/relatif.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622448,
-                  "close": true
-                }
-              }
-            },
-            "group": "f9c1b8bdc4dfaa26"
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -130,11 +81,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/relatif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -147,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/relatif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,17 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vault/relatif.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,33 +138,33 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "bea51169df94700b",
+  "active": "87c0a6d7df999116",
   "lastOpenFiles": [
-    "Vault/abduction.md",
-    "Vault/sentiment.md",
-    "Vault/sensualisme.md",
-    "Vault/sensible.md",
-    "Vault/sensation.md",
-    "Vault/sens.md",
-    "Vault/Sénèque.md",
-    "Vault/sémiotique.md",
-    "Vault/sélection naturelle.md",
-    "Vault/Searle.md",
-    "Vault/illocution.md",
-    "Vault/Scolastique.md",
-    "Vault/preuve ontologique.md",
-    "Vault/foi.md",
-    "Vault/scientifique.md",
+    "Vault/le pacte de soumission.md",
+    "Vault/méthode.md",
     "Vault/sciences naturelles.md",
-    "Vault/sciences de l'esprit.md",
     "Vault/Science normale.md",
     "Vault/science.md",
-    "Vault/Schopenhauer.md",
-    "Vault/philosophie.md",
-    "Vault/Schmitt.md",
-    "Vault/État.md",
-    "Vault/politique.md",
-    "Vault/décisionnisme.md",
-    "Vault/Schelling.md"
+    "Vault/langage rigoureux.md",
+    "Vault/zoon politikòn.md",
+    "Vault/scientifique.md",
+    "Vault/Scolastique.md",
+    "Vault/Searle.md",
+    "Vault/sélection naturelle.md",
+    "Vault/sémiotique.md",
+    "Vault/Sénèque.md",
+    "Vault/sens.md",
+    "Vault/sensation.md",
+    "Vault/sensibilité.md",
+    "Vault/sensible.md",
+    "Vault/sensualisme.md",
+    "Vault/sentiment.md",
+    "Vault/signe.md",
+    "Vault/soi.md",
+    "Vault/solipsisme.md",
+    "Vault/Souvenir.md",
+    "Vault/Souci.md",
+    "Vault/Spencer.md",
+    "Vault/Spinoza.md"
   ]
 }

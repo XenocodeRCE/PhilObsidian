@@ -1,5 +1,5 @@
 - [[Vico]] :
 	- des abstractions obtenues en dépouillant le réel de ses caractéristiques sensibles
-        - la poésie a précédé la prose
+        - la [[poésie]] a précédé la prose
           - elle n'a pas d'[[origine]] conventionnelle
-          - elle est fondée sur le besoin “naturel” d'exprimer des images poétiques
+          - elle est fondée sur le [[besoin]] “naturel” d'exprimer des images poétiques

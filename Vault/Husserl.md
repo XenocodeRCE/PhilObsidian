@@ -9,8 +9,8 @@
       - Qui suppose une corrélation entre
         - Un pôle [[subjectif]] : la ***[[noèse]]***
         - Un pôle [[objectif]] : le ***[[noème]]***
-  - Porte à la lumière le “monde de la vie”
-    - C'est-à-dire le [[monde]] préscientifique des émotions, des besoins, de l'expérience concrète
+  - Porte à la lumière le “[[monde]] de la vie”
+    - C'est-à-dire le [[monde]] préscientifique des émotions, des [[besoins]], de l'[[expérience]] concrète
       - Le [[sujet]] a toujours déjà été en relation avec les autres dans une dimension intersubjective
 
 # La [[phénoménologie]] a trouvé des développements et des applications

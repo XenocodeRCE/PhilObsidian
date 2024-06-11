@@ -1,6 +1,6 @@
 # Wittgenstein dans son _Tractatus Logico-Philosophicus_
 
-- Élabore la théorie du [[langage]] comme [[représentation]] du monde, selon laquelle
+- Élabore la [[théorie]] du [[langage]] comme [[représentation]] du [[monde]], selon laquelle
   - Le [[monde]] est la totalité des [[fait]]s
   - Le seul [[langage]] sensé est celui de la [[science]]
     - Il est composé de [[proposition]] qui respectent le rapport avec les faits et sont donc [[vérifiable]]s

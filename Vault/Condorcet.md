@@ -1,6 +1,6 @@
 # Condorcet
 
-- affirme l'idée d'un [[progrès]] indéfini de la civilisation humaine
+- affirme l'[[Idée]] d'un [[progrès]] indéfini de la [[civilisation]] [[humaine]]
     - pour atteindre trois objectifs principaux :
       - (1) l'élimination des inégalités entre les nations
       - (2) la réalisation de l'[[égalité]] au sein d'un même peuple

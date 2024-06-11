@@ -1,4 +1,4 @@
 -  [[philosophie]] opposée à l'[[essentialisme]]
-	- qui a pour [[objet]] l'homme qui existe.
-	- qui affirme le primat de l'existence vécue, individuelle, irréductible à un [[concept]], une définition, une [[essence]].
+	- qui a pour [[objet]] l'[[homme]] qui existe.
+	- qui affirme le primat de l'[[existence]] vécue, individuelle, irréductible à un [[concept]], une définition, une [[essence]].
 - [[Socrate]] [[Pascal]] [[Kierkegaard]] [[Sartre]]

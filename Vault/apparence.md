@@ -1,3 +1,3 @@
 - La face perceptible de la [[réalité]]  
 - la [[réalité]] apparaît à nos [[sens]], à notre [[corps]], à notre point de vue, à nos moyens d’observation et d’[[interprétation]]  
-	- L'apparence, c’est donc à la fois la [[réalité]] telle qu’elle se montre aux hommes et telle qu’elle est déformée, tronquée, interprétée par le point de vue limité de l’observateur
+	- L'apparence, c’est donc à la fois la [[réalité]] telle qu’elle se montre aux hommes et telle qu’elle est déformée, tronquée, interprétée par le point de vue [[limité]] de l’observateur

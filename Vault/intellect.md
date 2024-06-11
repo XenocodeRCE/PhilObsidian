@@ -6,8 +6,8 @@
 
 - [[Kant]] :
   - qui permet d'unifier les informations sensibles dans les 12 [[catégories]]
-  - ces [[catégories]] représentent des modes de [[pensée]] [[universel]]les
+  - ces [[catégories]] représentent des [[modes]] de [[pensée]] [[universel]]les
   - elles correspondent aux types de [[jugement]]s
-    - la légitimité de leur application est justifiée par déduction [[transcendant]]ale
+    - la [[légitimité]] de leur application est justifiée par déduction [[transcendant]]ale
       - tout le processus cognitif est fondé sur le “je pense”, qui unifie les [[représentation]]s grâce aux [[jugement]]s, qui utilisent les [[catégories]]
       - → le “Je pense” ([[Cogito]]) est législateur de la [[nature]]

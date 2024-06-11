@@ -8,4 +8,4 @@
 	    - le [[mouvement]]
 
 - [[Horkheimer et Adorno]] : 
-	- (négative) ne vise pas à la conciliation (thèse → antithèse → synthèse) mais à la révélation du caractère contradictoire de la [[réalité]]
+	- (négative) ne vise pas à la conciliation ([[thèse]] → [[antithèse]] → [[synthèse]]) mais à la révélation du caractère contradictoire de la [[réalité]]

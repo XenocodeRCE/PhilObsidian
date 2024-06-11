@@ -2,32 +2,32 @@
 
 - Délimite
   - les caractéristiques d'une [[science]] nouvelle
-    - qui enquête sur l'[[homme]] et son Histoire
+    - qui enquête sur l'[[homme]] et son [[Histoire]]
       - → ***la [[vérité]] comme ipsum factum*** (uniquement ce qu'on peut faire, ≠ [[Descartes]] !)
-    - disposant d'une méthode qui fait usage de
+    - disposant d'une [[méthode]] qui fait usage de
       - la philologie
-        - qui a pour but la collecte de témoignages et des documents des événements passés
-          - en cela elle est une “science du certain” puisqu'elle discrimine ce qui est vraiment arrivé de ce qui est privé de fondement
+        - qui a pour [[but]] la collecte de témoignages et des documents des événements passés
+          - en cela elle est une “[[science]] du [[certain]]” puisqu'elle discrimine ce qui est vraiment arrivé de ce qui est privé de [[fondement]]
       - la [[philosophie]]
         - qui recherche les [[cause]]s et les [[lois]] des événements
-          - en cela elle est une “[[science]] de la [[vérité]]” puisqu'elle doit comprendre les [[raison]]s des faits
+          - en cela elle est une “[[science]] de la [[vérité]]” puisqu'elle doit [[comprendre]] les [[raison]]s des faits
 - Retrace
-  - le schéma du développement de la [[civilisation]] humaine
-    - toutefois, à côté du cours historique des événements, et de son progrès en apparence, il y a la possibilité d'un recours, d'un retour à une phase antérieure ou à la phase initiale
+  - le schéma du développement de la [[civilisation]] [[humaine]]
+    - toutefois, à côté du cours historique des événements, et de son progrès en [[apparence]], il y a la [[possibilité]] d'un recours, d'un retour à une phase antérieure ou à la phase initiale
       - → ***précarité de la [[civilisation]]*** (ex : les __Siècles Obscurs__ du XIIe au VIIIe siècle av. J.-C)
 - Affirme que
-  - la poésie est une [[forme]] de [[connaissance]] distincte et autonome de la raison
+  - la [[poésie]] est une [[forme]] de [[connaissance]] distincte et autonome de la [[raison]]
     - elle provient de la [[théologie]]
       - les premiers [[homme]]s ont élaboré les explications “théologiques” des phénomènes sous [[forme]] de fables et de mythes
         - lesquels constituent la concrétisation d'une manière spécifique de sentir et penser
-  - la sagesse poétique précède la [[connaissance]] rationnelle
+  - la sagesse poétique précède la [[connaissance]] [[rationnelle]]
     - la sagesse poétique utilise des “[[universaux fantastiques]]”
-    - la [[connaissance]] rationnelle utilise des [[concept]]s
-  - la poésie d'Homère est la plus haute expression de la créativité primitive
+    - la [[connaissance]] [[rationnelle]] utilise des [[concept]]s
+  - la [[poésie]] d'Homère est la plus haute expression de la créativité primitive
     - cela ne peut pas venir d'un seul et unique poète
     - c'est l'œuvre du peuple Grec
       - qui raconte et transmet ses actes à travers le “nom” d'Homère
-      - la sagesse de la poésie antique consiste dans la re[[connaissance]] de l'ordre inhérent à l'histoire humaine
-        - c'est-à-dire l'histoire humaine conçue comme idéale et éternelle
-          - elle est au-dessus de l'histoire contingente et ramène les événements humains à une seule fin
+      - la sagesse de la [[poésie]] antique consiste dans la re[[connaissance]] de l'[[ordre]] inhérent à l'[[Histoire]] [[humaine]]
+        - c'est-à-dire l'[[Histoire]] [[humaine]] conçue comme idéale et éternelle
+          - elle est au-dessus de l'[[Histoire]] contingente et ramène les événements humains à une seule [[fin]]
           - c'est le critère de référence ( → ***devoir-être***) auquel tous les [[homme]]s doivent con[[forme]]r leur vie

@@ -1,7 +1,7 @@
 - [[Leibniz]] :
 	- le [[mal]] coïncide avec le manque d'[[être]] et peut être de trois types :
 	        - le mal [[métaphysique]]
-	          - dû à l'imperfection de la création
+	          - dû à l'imperfection de la [[création]]
 	        - le mal [[physique]]
 	          - constitue la peine de la culpabilité ou le moyen de fortifier l'[[esprit]]
 	        - le mal [[morale]] ou péché

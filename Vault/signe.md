@@ -4,6 +4,6 @@
     - 2 l'[[objet]] réel
     - 3 l'interprétant
 - [[Saussure]] : 
-	- Unité linguistique constituée 
-		- d'une partie physique, la [[matière]], le signifiant
+	- Unité [[linguistique]] constituée 
+		- d'une partie [[physique]], la [[matière]], le signifiant
 		- d'une partie abstraite, le [[concept]], le signifié

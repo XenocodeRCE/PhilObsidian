@@ -1,2 +1,2 @@
 - Indiquer les éléments qui entrent dans sa [[compréhension]]
-- Soumettre, faire subir à quelqu'un ou quelque chose la [[loi]] d'un [[déterminisme]]
+- Soumettre, faire subir à quelqu'un ou quelque [[chose]] la [[loi]] d'un [[déterminisme]]

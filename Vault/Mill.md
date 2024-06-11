@@ -16,7 +16,7 @@
 - défend la [[liberté d'expression]]
 - rejette le dogmatisme
   - la [[vérité]] vient de l'équilibre entre deux ensembles de raisons contradictoires
-    - il critique en ce sens le [[principe]] d'unanimité
+    - il critique en ce [[sens]] le [[principe]] d'unanimité
 - défend la [[liberté]] d'action
   - seules les actions nuisibles à autrui doivent être interdites
 - dénonce le danger du [[conformisme]] social dans la société moderne

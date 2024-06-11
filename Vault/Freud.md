@@ -13,7 +13,7 @@
         - la scène du rêve telle qu'on s'en souvient au réveil
       - le contenu latent
         - c'est l'ensemble des tendances [[inconscient]]es qui s'expriment, sous une [[forme]] déguisée, dans la scène du rêve
-          - les contenus [[inconscient]]s sont soumis au traitement déformant du travail onirique
+          - les contenus [[inconscient]]s sont soumis au traitement déformant du [[travail]] onirique
             - ainsi une ***[[interprétation]]*** s'impose
 
 ## Dans ***Psychopathie de la vie quotidienne*** Freud soutient que
@@ -42,7 +42,7 @@
   - causée par un fort conflit entre le [[Ça]], le [[Moi]] et le [[Surmoi]]
 - se manifeste par des symptômes
   - qui sont le résultat de la transformation des [[pulsions]] du [[Ça]]
-  - qui ont besoin d'être interprétés
+  - qui ont [[besoin]] d'être interprétés
     - selon une **associations libre**
       - cela permet de contourner les défenses de l'[[Ego]] et de faire ressortir les contenus refoulés / censurés
 
@@ -50,26 +50,26 @@
 
 - la sexualité
   - concerne l'ensemble des [[pulsions]] (→ ***libido*** ) qui tendent vers la conservation et le [[plaisir]]
-    - elle est indépendante de l'[[objet]] et du but “normal”
+    - elle est indépendante de l'[[objet]] et du [[but]] “normal”
   - est déjà active dans l'enfance
     - en fait l'enfant est un « pervers polymorphe »
       - il tend vers un [[plaisir]] indépendant par rapport à la génitalité et à la procréation
       - il ressent du [[plaisir]] à travers différentes parties du [[corps]]
 - le développement psychosexuel de l'enfant se divise en trois phases
   - (1) oral
-    - la zone érogène est la bouche et le plaisir est donné par la succion
+    - la zone érogène est la bouche et le [[plaisir]] est donné par la succion
   - (2) anal
-    - la zone érogène est l'anus et le plaisir est donné par les fonctions corporelles
+    - la zone érogène est l'anus et le [[plaisir]] est donné par les fonctions corporelles
   - (3) génital
     - stade phallique
-      - dans lequel l'enfant prend conscience des organes génitaux
+      - dans lequel l'enfant prend [[conscience]] des organes génitaux
       - le [[complexe d'Œdipe]] se développe
     - stade génital
       - la zone érogène coïncide avec les organes génitaux
 
 # Freud – L'origine de la société et de la morale
 
-- l'origine de la [[société civile]]
+- l'[[origine]] de la [[société civile]]
   - réside dans les conflits œdipiens à la base du ***Totémisme***
     - dans lequel
       - le [[totem]] représente l'[[autorité]], l'[[objet]] de culte
@@ -83,7 +83,7 @@
         - il s'agit d'examiner les circonstances et de différer le [[plaisir]]
         - le [[principe]] de [[réalité]] préside à la naissance des normes sociales
           - lesquelles limitent les [[pulsions]] individualistes
-            - la société amène son lot d'inconforts mais c'est un ***mal nécessaire***
+            - la société amène son lot d'inconforts mais c'est un ***[[mal]] [[nécessaire]]***
 
 # Les deux principaux courants psychanalytiques dissidents
 

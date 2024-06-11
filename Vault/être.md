@@ -1,14 +1,14 @@
 - [[Jaspers]] : 
-	- la possibilité d'expérimenter la [[transcendance]]
+	- la [[possibilité]] d'expérimenter la [[transcendance]]
 
 - [[Heidegger]] :
-	- Il n'est pas possible de chercher le [[sens]] de l'[[être]] à partir des [[étant]]s
+	- Il n'est pas [[possible]] de chercher le [[sens]] de l'[[être]] à partir des [[étant]]s
 	  - Il faut donc dépasser les [[catégories]] et le [[langage]] de la [[métaphysique]] pour saisir
 	    - L'[[être]] dans son altérité par rapport à l'[[étant]]
 	    - L'[[être]] comme horizon, [[illumination]], ouverture originelle
-	- Entre l'humain et l'[[être]] il y a une relation d'appropriation-expropriation
+	- Entre l'[[humain]] et l'[[être]] il y a une relation d'appropriation-expropriation
 	  - Ainsi
 	    - L'[[humain]] ne peut se passer de l'[[être]], qui ouvre l'ouverture dans laquelle le [[Dasein]] est jeté
-	    - L'[[être]] a besoin de l'[[humain]], qui est l'occasion de l'ouverture d'un [[monde]]
+	    - L'[[être]] a [[besoin]] de l'[[humain]], qui est l'occasion de l'ouverture d'un [[monde]]
 	- La [[technique]] est la dernière figure du [[nihilisme]] occidental
 	- L'ouverture originelle de l'[[être]] a lieu dans le [[langage]]

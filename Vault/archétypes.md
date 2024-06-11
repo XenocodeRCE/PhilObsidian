@@ -1,1 +1,1 @@
-- [[Jung]] : des modes de la [[représentation]] de la [[réalité]] commune à toute l'humanité
+- [[Jung]] : des [[modes]] de la [[représentation]] de la [[réalité]] commune à toute l'[[humanité]]

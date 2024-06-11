@@ -5,5 +5,5 @@
     - (1) La distinction entre [[jugement analytique]] et [[jugements synthétiques a priori]]
       - Puisque les deux présupposent de toute façon l'[[expérience]]
     - (2) Le [[réductionnisme]]
-      - Il n'est pas possible de comparer une seule hypothèse théorique isolée avec les faits
+      - Il n'est pas [[possible]] de comparer une seule [[hypothèse]] théorique isolée avec les faits
         - Les énoncés de la [[science]] constituent un “champ de force” unitaire et systémique ( → ***[[holisme]]*** )

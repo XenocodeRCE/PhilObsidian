@@ -10,12 +10,12 @@
 	  - qui essaie de puiser dans l'[[infini]] et l'inconditionnel
 	    - par
 	      - l'unification des données du [[sens]] interne ([[temps]])
-	        - idée de l'[[âme]] en tant qu'entité spirituelle et immortelle
-	      - l'unification des données du sens externe ([[espace]])
-	        - idée du [[monde]] comme totalité substantielle et inconditionnée
-	      - l'unification des données du sens interne et externe
-	        - idée de [[Dieu]] comme totalité [[Absolu]]e
+	        - [[Idée]] de l'[[âme]] en tant qu'entité spirituelle et immortelle
+	      - l'unification des données du [[sens]] externe ([[espace]])
+	        - [[Idée]] du [[monde]] comme totalité substantielle et inconditionnée
+	      - l'unification des données du [[sens]] interne et externe
+	        - [[Idée]] de [[Dieu]] comme totalité [[Absolu]]e
 	    - → ce sont les [[objet]]s “impossibles” de la [[raison]] finie et leur fonction est purement régulatrice
 
 - [[Locke]] :
-	-  la [[raison]] n'est pas [[absolue]] mais est limitée par l'expérience humaine
+	-  la [[raison]] n'est pas [[absolue]] mais est limitée par l'[[expérience]] [[humaine]]

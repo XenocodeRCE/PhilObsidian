@@ -14,24 +14,24 @@
 
 - Descartes affirme que
   - le [[sujet]] est [[certain]] de sa propre [[existence]] en tant qu'[[être]] pensant
-    - il est [[certain]] de ses propres [[Idée]]s, qui sont l'[[objet]] immédiate de la pensée
+    - il est [[certain]] de ses propres [[Idée]]s, qui sont l'[[objet]] immédiate de la [[pensée]]
       - qui se distinguent en
         - idées **adventices**
-          - surgissant par expérience
+          - surgissant par [[expérience]]
         - idées **factuelles**
           - inventées par le sujet
         - idées **innées**
-          - ne venant ni de l'expérience ni du sujet
-            - il y a parmi ces idées, l'idée de [[Dieu]]
+          - ne venant ni de l'[[expérience]] ni du [[sujet]]
+            - il y a parmi ces idées, l'[[Idée]] de [[Dieu]]
 - il soutient alors que
   - [[Dieu]] existe
 	  - le [[concept]] de perfection absolue, en fait, inclut l'[[existence]]
 	  - c'est la ***[[preuve ontologique]]*** 
   - si [[Dieu]] existe et est un [[être]] parfait
     - il ne trompe pas les [[homme]]s, [[Dieu]] est bon
-      - la faculté cognitive des [[homme]]s est fiable
+      - la [[faculté]] cognitive des [[homme]]s est fiable
       - ce que la [[raison]] nous présente de façon [[claire]] et [[distincte]] est vrai
-        - cela permet une levée des doutes sur la réalité et une sortie du ***[[solipsisme]]***
+        - cela permet une levée des doutes sur la [[réalité]] et une sortie du ***[[solipsisme]]***
 - il en conclut que
   - puisque [[Dieu]] établit et garantit la véracité des [[connaissance]]s scientifiques
     - alors il est le garant de l'[[existence]] du [[monde]] extérieur
@@ -46,7 +46,7 @@
     - mais les qualités connues avec la [[raison]]
       - puisqu'elles sont stables et immuables, donc objectives et quantifiables
   - le [[monde]] [[physique]]
-    - est une grande [[substance]] étendue ( ***res extensa*** )
+    - est une grande [[substance]] [[étendue]] ( ***res extensa*** )
       - elle est uni[[forme]] et impénétrable
         - cela exclut l'[[existence]] du vide
       - elle est illimitée et [[Infini]]
@@ -56,14 +56,14 @@
   - une [[physique]] ***mécaniste***
     - l'[[Univers]] entier serait gouverné par deux [[principe]]s
       - la [[matière]] est inerte
-      - il y a une conservation de la quantité de mouvement
-        - ce dernier est soumis aux trois lois du [[mouvement]]
+      - il y a une conservation de la quantité de [[mouvement]]
+        - ce dernier est soumis aux trois [[lois]] du [[mouvement]]
       - toutefois
-        - la science de Descartes ne s'arrête pas au moment abstrait et déductif, elle reconnaît l'importance de la méthode expérimentale
+        - la [[science]] de Descartes ne s'arrête pas au moment abstrait et déductif, elle reconnaît l'importance de la [[méthode]] expérimentale
           - puisque c'est grâce à elle que les hypothèses peuvent être confirmées
 - il envisage
   - la [[nature]] comme une machine
-    - elle ne ferait que suivre les lois de l'extension et du [[mouvement]]
+    - elle ne ferait que suivre les [[lois]] de l'extension et du [[mouvement]]
     - elle ne doit donc être étudié que dans ses caractéristiques objectives
 
 # Descartes – Le rapport entre le corps et l'âme, l'analyse des passions
@@ -78,7 +78,7 @@
     - ils agissent de manière déterministe et n'ont pas de [[langage]] articulé
   - les [[homme]]s ne sont pas totalement réductibles à des machines
     - ils sont doués de [[raison]] et de [[volonté]] et possèdent un [[langage]] articulé
-- élabore ensuite une solution possible au [[dualisme]]
+- élabore ensuite une solution [[possible]] au [[dualisme]]
   - l'[[âme]] et le [[corps]] interagissent grâce à la [[glande pinéale]]
 - établit
   - une ***[[morale]] provisoire*** composée de trois maximes

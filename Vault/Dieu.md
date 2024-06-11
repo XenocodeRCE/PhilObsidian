@@ -23,15 +23,15 @@
 	      - la [[volonté]] antécédente
 	        - [[Dieu]], dans l'[[absolu]], ne tend qu'au [[bien]]
 	      - la [[volonté]] conséquente
-	        - [[Dieu]], tenant compte des conditions concrètes de la réalisation du [[bien]], tend au mieux possible
+	        - [[Dieu]], tenant compte des conditions concrètes de la réalisation du [[bien]], tend au mieux [[possible]]
 	          - donc [[Dieu]] “permet” le [[mal]] en vue du [[bien]]
-	            - il permet au [[péché originel]] d'avoir choisi comme plus grand bien de doter l'[[homme]] de [[raison]] et de [[liberté]]
+	            - il permet au [[péché originel]] d'avoir choisi comme plus grand [[Bien]] de doter l'[[homme]] de [[raison]] et de [[liberté]]
 
 - [[Descartes]] :
 	- souverainement [[bon]]
 
 - [[Nietzsche]] :
-	- « [[Dieu]] est mort »
+	- « [[Dieu]] est [[mort]] »
 	    - toutes les [[certitude]]s et les valeurs [[Absolu]]es se sont effondrées, laissant place au [[nihilisme]]
 	      - toutefois, les [[homme]]s ne sont pas encore prêts à accepter les terribles conséquences de l'événement
 	        - ils ont remplacé [[Dieu]] par de nouvelles idoles (le mythe du progrès, la [[science]], l'[[État]]...)

@@ -2,7 +2,7 @@
 
 Fonde la [[méthode]] de la [[science]] médicale antique :
   - fondée sur :
-    - la reconstruction de l'histoire du patient : *antécédents médicaux*
+    - la reconstruction de l'[[Histoire]] du patient : *antécédents médicaux*
     - l’observation [[sensible]] des “symptômes” : *sémiologie médicale*
     - la [[compréhension]] des symptômes au sein de grands types : *diagnostique*
     - l'indication des soins : *thérapie*
@@ -10,6 +10,6 @@ Fonde la [[méthode]] de la [[science]] médicale antique :
   - qui vise à rétablir l'équilibre de l'organisme entier
     - sur la base des interdépendances étroites entre la partie et l'ensemble :
       - l'organe malade et l'organisme
-      - le patient et son environnement (naturel, éthique, politique...)
+      - le patient et son environnement (naturel, [[éthique]], [[politique]]...)
     - à travers un
       - [[dialogue]] et une collaboration entre le médecin et le patient
