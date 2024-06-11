@@ -1,0 +1,12 @@
+- [[Leibniz]] :
+	- le [[mal]] coïncide avec le manque d'[[être]] et peut être de trois types :
+	        - le mal [[métaphysique]]
+	          - dû à l'imperfection de la création
+	        - le mal [[physique]]
+	          - constitue la peine de la culpabilité ou le moyen de fortifier l'[[esprit]]
+	        - le mal [[morale]] ou péché
+	          - il vient de l'abus de la [[raison]] et de la [[liberté]]
+
+- [[Pareyson]] :
+	- [[Dieu]] et le [[mal]] sont deux réalités [[dialectique]]s coprésentes
+	    - En fait, le [[mal]] existe comme conséquence de la [[liberté]] accordée à l'[[homme]]

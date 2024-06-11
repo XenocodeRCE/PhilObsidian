@@ -1,0 +1,4 @@
+- opposé à la [[raison]]
+- patir, souffrir
+- [[relatif]] au [[corps]] et non à l'[[esprit]]
+- involontaire

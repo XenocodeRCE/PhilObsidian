@@ -1,0 +1,2 @@
+- [[Kant]] :
+	-  la [[réalité]] telle qu'elle nous apparaît à travers les [[forme]]s *a priori* de la [[sensibilité]] ( [[espace]] et  [[temps]]) et de l'[[intellect]] ( [[catégories]])

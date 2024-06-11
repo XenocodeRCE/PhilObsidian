@@ -1,0 +1,8 @@
+- [[Nietzsche]] :
+	- affirme que
+	  - à la base de la [[civilisation]] grecque, il y a deux [[principe]]s
+	    - L’[[apollinien]]
+	    - Le [[dionysiaque]]
+		    - de tels [[principe]]s sont fusionnés dans la [[tragédie grecque]]
+				- L'apollinien est représenté par l'[[Histoire]] du héros et par les dialogues
+				- Le dionysiaque est représenté par la musique

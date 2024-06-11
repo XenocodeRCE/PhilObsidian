@@ -1,2 +1,4 @@
 - [[Marx]] : 
-	- c'est ce à partir de quoi le profit du capitaliste dérive
+	- c'est ce à partir de quoi le profit du [[capitaliste]] dérive
+	-  le travailleur produit plus de biens que la valeur de son salaire
+		- il produit de la valeur impayée (***la [[plus-value]]***)

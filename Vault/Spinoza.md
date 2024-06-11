@@ -1,7 +1,7 @@
 # Spinoza – La métaphysique et la théorie de la [[connaissance]]
 
 - Pour Spinoza la [[substance]]
-  - ontologiquement, c'est ce qui est ***[[en soi]]***
+  - ontologiquement, c'est ce qui est ***[[en-soi]]***
   - gnoséologiquement, c'est ce qui est ***[[conçu par soi]]***
   - s'identifie à [[Dieu]]
 - Il existe trois degrés de [[connaissance]]
@@ -28,12 +28,12 @@
     - cela sert à Spinoza pour critique la croyance aux miracles
 
 # Spinoza – L'éthique et la politique
-- Spinoza soutient que les [[passions]] et actions humaines
+- Spinoza soutient que les [[passion]] et actions humaines
   - doivent être comprises, et non pas condamnées ou jugées
   - doivent être analysées selon la méthode [[géométrique]]
     - puisqu'elles sont soumis aux mêmes lois de la [[nature]] qui régissent tous les phénomènes dans l'univers
 - Ainsi l'[[essence]] de l'[[homme]] est le [[désir]]
-- Il y a deux types de [[passions]]
+- Il y a deux types de [[passion]]
   - les affects primaires positifs (la [[joie]])
   - les affects primaires (la [[tristesse]])
   - à partir de ceux-ci dérivent avec une précision [[géométrique]] des affects secondaires positifs et négatifs

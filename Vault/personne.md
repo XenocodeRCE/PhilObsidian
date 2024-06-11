@@ -1,1 +1,4 @@
-- [[Scheler]] : une identité qui précède l'ensemble des actes intentionnels
+- [[Scheler]] : 
+	- une identité qui précède l'ensemble des actes intentionnels
+- [[Kant]] :
+	- Entité qui sait dire "Je", un [[Cogito]] qui accède à la dignité par l'[[humanité]]

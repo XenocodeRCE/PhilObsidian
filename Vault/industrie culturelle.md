@@ -1,1 +1,2 @@
-- [[Horkheimer et Adorno]] : l'appareil médiatique de masse
+- [[Horkheimer et Adorno]] : 
+	- l'appareil médiatique de masse

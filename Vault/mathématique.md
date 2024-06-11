@@ -1,1 +1,2 @@
-- [[Aristote]] : [[science]] théorétique qui a pour [[objet]] les entités arithmétiques et géométriques (immobiles)
+- [[Aristote]] : 
+	- [[science]] théorétique qui a pour [[objet]] les entités arithmétiques et géométriques (immobiles)

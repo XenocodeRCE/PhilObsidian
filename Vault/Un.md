@@ -11,6 +11,6 @@
 	  - est une [[réalité]] suprême transcendante et ineffable en ce qu'elle rayonne au-delà d'elle-même sa surabondance d'[[être]]
 	  - qui a son [[origine]] dans les trois ***hypostases*** ou réalités substantielles que sont :
 	    - l'[[Un]]
-	      - réalité suprême, [[être]] [[en soi]]
+	      - réalité suprême, [[être]] [[en-soi]]
 	    - L'[[Intellect]]
 	    - l'[[Âme]]

@@ -1,0 +1,4 @@
+- [[Aristote]] :
+	- s’oppose à [[acte]] 
+	- désigne une [[possibilité]] non encore réalisée
+		- exemple  :  la plante est en puissance dans la graine ; la floraison est l’actualisation de la graine.

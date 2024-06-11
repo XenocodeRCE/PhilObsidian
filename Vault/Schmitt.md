@@ -5,12 +5,6 @@
     - Ce dernier décide quoi faire dans l'[[état]] d'exception
       - → C'est le [[décisionnisme]]
   - Le concept de "[[politique]]" doit être redéfini à travers la distinction entre ami et ennemi
-    - En fait chaque groupe politique se constitue toujours par opposition à un autre considéré comme un ennemi (public)
-    - Le [[politique]] est la gestion du conflit
-      - La guerre est une possibilité réelle
-  - L'avènement d'un [[État]] total est souhaitable
-    - Il doit être capable de : 
-      - Pouvoir absorber en soi l'énergie diffuse et chaotique des parties et du parlement
-      - Remplacer les lois par des décrets, répondant de toute urgence à la décision du Président de la [[République]]
+  - L'avènement d'un [[État]] total est souhaitable]]
   - Le [[droit]] trouve son origine dans l'appropriation primaire de la Terre
 

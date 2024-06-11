@@ -85,8 +85,8 @@
 - distingue en l'[[homme]]
   - les actions
     - dépendent de la [[volonté]] et sont le fruit d'un [[choix]] [[libre]]
-  - les [[passions]]
+  - les [[passion]]
     - des affections involontaires causés par des forces mécaniques du [[corps]]
-  - l'[[homme]] doit donc apprendre à dominer ses [[passions]] qui l'asservissent
+  - l'[[homme]] doit donc apprendre à dominer ses [[passion]] qui l'asservissent
     - ce faisant, il se libère de la passivité et de la sujétion au [[corps]] et affirme son [[libre arbitre]]
       - c'est l'***exaltation de la [[sagesse]]***

@@ -1,0 +1,5 @@
+- [[Marx]] :
+	- il faut renverser la société bourgeoise et ses institutions
+	    - et donc construire la nouvelle société [[Communiste]]
+	      - dans laquelle la [[propriété]] privée résultant de la division du [[travail]] est éliminée
+	      - ainsi il y a une abolition de la division des classes

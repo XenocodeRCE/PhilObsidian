@@ -1,7 +1,7 @@
 [[Platon]] :
 - est une chose négative et participe à une déséducation pour trois raisons
   - l'art propose des modèles de comportement immoral et frivole
-  - l'art éloigne du vrai, parce qu’il est ***[[l'imitation d'une imitation]]***
+  - l'art éloigne du vrai, parce qu’il est ***[[imitation d'une imitation]]***
   - l'art serait le fruit d'une inspiration Divine, il atténuerait la capacité de juger
     - c'est pourquoi il est exclu du CV de la formation philosophique
 
@@ -30,8 +30,8 @@
 	-   témoigne et dénonce l'absence de [[liberté]] et l'oppression des individus
       - qui est un désir et une “anticipation utopique” d'un avenir meilleur et plus humain
 
-- [[Marcuse et Benjamin]] :
-	-  nourrit l'utopie, c'est-à-dire l'espoir qu'il est possible de se rebeller contre [[La Logique]] du [[travail]] et de l'effort
+- [[Marcuse]] :
+	-  nourrit l'utopie, c'est-à-dire l'espoir qu'il est possible de se rebeller contre [[logique]] du [[travail]] et de l'effort
 	- à l'ère de la reproductibilité [[technique]], l'œuvre d'[[art]] devient accessible à tous
 	- cela implique
 	    - la perte de l' « ***[[aura]]*** » ; de la sacralité
@@ -50,3 +50,31 @@
       - une [[connaissance]] “intuitive” d'une image contemplée en elle-même
         - seules les valeurs esthétiques du [[Beau]] et du laid peuvent être appliquées aux œuvres
     - c'est l'[[intuition lyrique]]
+
+- [[Benjamin]] :
+	- à l'ère de la reproductibilité [[technique]], l'œuvre d'[[art]] devient accessible à tous
+
+
+- [[Pareyson]] :
+	- L'[[interprétation]] de l'œuvre d'[[art]] est un processus sans [[fin]]
+	    - Auquel participent
+	      - Le spectateur
+	        - Qui doit reconstruire le processus qui a généré le produit artistique
+	      - L'auteur
+	        - Qui doit interroger la [[matière]] et la [[forme]]
+	    - À travers leur activité, la [[vérité]] de l'œuvre elle-même est réalisée
+
+- [[Rousseau]]:
+	- Affirme que 
+		- l'[[art]] est une [[forme]] originale et autonome de [[représentation]] du [[monde]]
+		  - en particulier le chant de la [[poésie]] et sa mélodie précède la [[raison]] 
+			  - car il est l'expression des [[passion]] primordiales
+	    - toutefois avec l'avènement de la [[civilisation]] le [[mot]] et le [[son]] ont été séparés
+	      - le [[langage]] figuratif devient ***métaphorique***
+	      - la [[musique]] mélodique devient ***instrumentale***
+	    - les deux se rationalisent et perdent leur [[pouvoir]] expressif
+
+
+- [[Schelling]] :
+- l'[[art]] est l'organe suprême de la [[connaissance]]
+  - il parvient à saisir les profondeurs originelles de la vie et de la nature grâce à l'[[intuition esthétique]]

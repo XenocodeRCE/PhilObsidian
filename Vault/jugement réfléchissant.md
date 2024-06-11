@@ -1,0 +1,5 @@
+- [[Kant]] :
+	- réfléchit sur l'[[objet]] déjà constitué, l'interprète à partir du [[principe]] de [[finalité]]
+	    - qui se distinguent selon deux acceptions : 
+	      - [[jugement esthétique]]
+	      -[[jugement téléologique]]

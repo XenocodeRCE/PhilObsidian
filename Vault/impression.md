@@ -1,0 +1,2 @@
+- [[Hume]] : 
+	- des [[perception]]s immédiates et vives

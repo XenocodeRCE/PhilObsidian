@@ -1,31 +1,25 @@
 # Schopenhauer
 
 - élabore une vision pessimiste de la vie, fondée sur
-  - une méditation sur la mort, l'éternité, le pouvoir de la [[nature]]
+  - une méditation sur la [[mort]], l'éternité, le pouvoir de la [[nature]]
   - l'étude des [[philosophie]]s, en particulier
     - [[Platon]]
       - selon lequel
         - l'[[homme]] doit se détacher du monde sensible et tendre vers la [[connaissance]] des [[Idée]]s
     - [[Kant]]
       - selon lequel
-        - l'[[homme]] aspire à vaincre le monde phénoménal pour accéder à la chose [[en soi]]
+        - l'[[homme]] aspire à vaincre le monde phénoménal pour accéder à la chose [[en-soi]]
   - la rencontre avec l'ancienne sagesse orientale
-    - laquelle reconnaît la douleur de l'[[existence]] et le 'voile de Maya' qui cache l'[[essence]] des choses
-- prétend à un double regard sur le monde
+	 - l'[[Hindouisme]]
+	 - qui reconnaît la douleur de l'[[existence]] et le 'voile de Maya' qui cache l'[[essence]] des choses
+- prétend à un double regard sur le [[monde]]
   - celui des [[science]]s, selon lesquelles
-    - le monde est ma représentation
-      - c'est-à-dire une [[représentation]] des phénomènes qui ne peut exister indépendamment du sujet
-        - qui organise et ordonne les phénomènes grâce :
-          - aux [[forme]]s *a priori* de l'[[espace]] et du [[temps]]
-          - à la catégorie de [[cause]]
+    - le [[monde]] est ma [[représentation]]
   - celui de la [[philosophie]], selon laquelle
-    - le monde est la [[volonté]] de vivre
-      - en fait à travers le corps l'[[homme]] reconnaît en lui-même l'[[impulsion]] aveugle et irrationnelle du désir
-        - la vie est douleur
-          - puisque le désir renvoie au manque
+    - le [[monde]] est la [[volonté]] de vivre
 - stipule que
   - il y a trois façons possibles de se débarrasser de la douleur
-    - (1) l'expérience esthétique
+    - (1) l'expérience [[esthétique]]
       - étant désintéressée et visant l'idéal, elle représente un apaisement du désir
     - (2) la [[morale]]
       - grâce à la compassion, elle permet de dépasser les clivages entre un sujet et un autre

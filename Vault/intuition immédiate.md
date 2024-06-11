@@ -1,3 +1,3 @@
 - [[Spinoza]] : 
-	- coïncide avec “l'amour intellectuel de Dieu”
-    - permet d'avoir l'[[intuition]] de l'[[Univers]] et de la structure de la [[substance]] divine
+	- coïncide avec “l'amour intellectuel de [[Dieu]]”
+    - permet d'avoir l'[[intuition]] de l'[[Univers]] et de la structure de la [[substance]] de [[Dieu]]

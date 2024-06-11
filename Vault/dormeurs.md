@@ -1,0 +1,2 @@
+- [[Héraclite]] :
+	- prisonniers des apparences [[sensible]]s

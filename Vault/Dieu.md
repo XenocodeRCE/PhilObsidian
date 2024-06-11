@@ -1,6 +1,6 @@
 - [[Spinoza]] : 
 	- La [[substance]]
-		  - ontologiquement, c'est ce qui est ***[[en soi]]***
+		  - ontologiquement, c'est ce qui est ***[[en-soi]]***
 		  - gnoséologiquement, c'est ce qui est ***[[conçu par soi]]***
 		  - s'identifie à [[Dieu]]
 		    - en tant qu'il est
@@ -12,6 +12,30 @@
 		  - coïncide avec « le [[tout]] »
 		    - ***Deus sive Natura***
 		    - [[Dieu]] n'a pas de désirs ou de fins extérieures à lui-même
-		    - [[Dieu]] est une autoproduction nécessaire et éternelle
+		    - [[Dieu]] est une autoproduction [[nécessaire]] et éternelle
 
-- [[Leibniz]] : la monade suprême
+- [[Leibniz]] : 
+	- la [[monade]] suprême
+	- omniscient
+	- omnipotent
+	- Sa [[volonté]]
+	    - se distingue selon
+	      - la [[volonté]] antécédente
+	        - [[Dieu]], dans l'[[absolu]], ne tend qu'au [[bien]]
+	      - la [[volonté]] conséquente
+	        - [[Dieu]], tenant compte des conditions concrètes de la réalisation du [[bien]], tend au mieux possible
+	          - donc [[Dieu]] “permet” le [[mal]] en vue du [[bien]]
+	            - il permet au [[péché originel]] d'avoir choisi comme plus grand bien de doter l'[[homme]] de [[raison]] et de [[liberté]]
+
+- [[Descartes]] :
+	- souverainement [[bon]]
+
+- [[Nietzsche]] :
+	- « [[Dieu]] est mort »
+	    - toutes les [[certitude]]s et les valeurs [[Absolu]]es se sont effondrées, laissant place au [[nihilisme]]
+	      - toutefois, les [[homme]]s ne sont pas encore prêts à accepter les terribles conséquences de l'événement
+	        - ils ont remplacé [[Dieu]] par de nouvelles idoles (le mythe du progrès, la [[science]], l'[[État]]...)
+
+- [[Pareyson]] :
+	- [[Dieu]] et le [[mal]] sont deux réalités [[dialectique]]s coprésentes
+	    - En fait, le [[mal]] existe comme conséquence de la [[liberté]] accordée à l'[[homme]]

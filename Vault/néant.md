@@ -1,0 +1,1 @@
+- La [[négation]] du [[tout]] de l'[[étant]]

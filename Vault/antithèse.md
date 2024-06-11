@@ -1,0 +1,3 @@
+- [[Hegel]] :
+	 - la [[négation]] de la [[thèse]] comme [[concept]] limité et fini
+	 - correspond à la [[philosophie]] de la [[nature]]

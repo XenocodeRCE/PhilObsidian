@@ -1,1 +1,1 @@
-accentue les thèmes de l’intériorité et de l'introspection, reconnaissant que la réalité n'a pas de sens indépendamment de l'[[homme]]
+- accentue les thèmes de l’intériorité et de l'introspection, reconnaissant que la [[réalité]] n'a pas de [[sens]] indépendamment de l'[[homme]]

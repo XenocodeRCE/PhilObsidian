@@ -1,2 +1,2 @@
 - défend fermement l'idée de révolution violente
-    - affirme que le Parti communiste doit se charger de diriger le prolétariat dans son action révolutionnaire
+    - affirme que le Parti [[Communiste]] doit se charger de diriger le prolétariat dans son action révolutionnaire

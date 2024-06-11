@@ -1,2 +1,2 @@
 - [[Spinoza]] : 
-	- augmentent le pouvoir de l'action
+	- augmentent le [[pouvoir]] de l'action

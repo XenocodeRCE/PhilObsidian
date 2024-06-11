@@ -1,1 +1,1 @@
-- Mouvement intérieur, surtout chez les [[animaux]], qui pousse le [[sujet]] à exécuter des actes adaptés à un but dont il n'a pas [[conscience]]
+- [[Mouvement]] intérieur, surtout chez les [[animaux]], qui pousse le [[sujet]] à exécuter des actes adaptés à un [[but]] dont il n'a pas [[conscience]]

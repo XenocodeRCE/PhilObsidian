@@ -1,0 +1,4 @@
+- [[Marx]] :
+-   c'est-à-dire le travailleur
+	- acheté par le [[capitaliste]] pour produire d'autres marchandises en échange d'un salaire
+	- ce dernier coïncide avec le coût des moyens nécessaires à la subsistance du travailleur et de sa famille

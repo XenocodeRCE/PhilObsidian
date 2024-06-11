@@ -1,0 +1,1 @@
+- [[Phénomène]] ou ensemble des [[phénomène]]s, des [[attributs]] propres à un [[corps]] [[particulier]] qui peuvent [[déterminer]] sa manière d'agir ou de réagir dans des conditions précises

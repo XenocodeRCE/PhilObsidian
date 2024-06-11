@@ -1,0 +1,1 @@
+- [[Qualité]], [[propriété]] en tant qu'elle est affirmée ou niée d'un [[sujet]]

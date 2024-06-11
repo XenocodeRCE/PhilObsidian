@@ -1,0 +1,1 @@
+- caractéristique de [[nature]], bonne ou mauvaise, d'une [[chose]] ou d'une [[personne]]

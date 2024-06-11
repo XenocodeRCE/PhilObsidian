@@ -1,2 +1,2 @@
  - [[Husserl]] : 
-	 - Les diverses modalités d'apparition des choses en relation avec les actes intentionnels du [[sujet]]
+	 - Les diverses modalités d'apparition des [[chose]]s en relation avec les actes intentionnels ([[intention éidétique]]) du [[sujet]]

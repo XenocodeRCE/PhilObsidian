@@ -1,0 +1,2 @@
+- [[Kant]] :
+	  - qui commandent une action indépendamment du but ou de l'effet d'une action, ils sont inconditionnels et [[universel]]s

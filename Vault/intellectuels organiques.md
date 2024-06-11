@@ -1,0 +1,2 @@
+- [[Gramsci]] :
+	-  des [[homme]]s de culture qui travaillent en liens étroits avec une classe particulière émergente ou dominante

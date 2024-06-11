@@ -1,0 +1,5 @@
+- [[Heidegger]] :
+	- L'ouverture originelle de l'[[être]] a lieu dans le [[langage]]
+		  - C'est dans le [[langage]] que le [[Dasein]] apprend le [[sens]] des choses
+		    - Toutefois
+		      - Seule la [[poésie]] représente un [[langage]] original et créatif

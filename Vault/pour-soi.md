@@ -2,5 +2,5 @@
 	- Source de [[sens]] des [[chose]]s
     - Transparente à elles-mêmes
     - Caractérisée par la [[liberté]]
-      - Elle coïncide avec le [[Néant]]
+      - Elle coïncide avec le [[néant]]
         - C'est une possibilité d'annuler et de [[transcender]] les faits

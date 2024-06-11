@@ -1,0 +1,3 @@
+- [[Hegel]] :
+	 - la [[négation de la négation]], c'est-à-dire l'affirmation de l'unité des déterminations opposées
+	 - correspond à la [[philosophie]] de l'[[esprit]]

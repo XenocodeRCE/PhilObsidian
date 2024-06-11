@@ -1,4 +1,5 @@
-- [[Pascal]] :  - L'[[L’être humain]] laisse distraire et s'enfuit en se consacrant à de multiples activités
+- [[Pascal]] :  
+	- L'[[être humain]] se laisse distraire et s'enfuit en se consacrant à de multiples activités
       - ce comportement pousse l'[[homme]] à toujours chercher de nouvelles choses
-      - cela le pousse à vivre en fonction de l'avenir dans lequel il crée l'[[illusion]] du bonheur
+      - cela le pousse à vivre en fonction de l'avenir dans lequel il crée l'[[illusion]] du [[bonheur]]
         - l'[[homme]] ne vit jamais vraiment, mais il “espère” ([[espérance]]) et “attend”

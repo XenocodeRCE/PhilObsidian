@@ -32,3 +32,48 @@
  - [[Gentil]] :
 	 - l'[[Histoire]] s'identifie à la [[philosophie]]
 	      - elle constitue l'explication de tous les aspects de la vie spirituelle
+
+- [[Hegel]] :
+	- La [[philosophie]] est la description de ce qui s'est déjà passé et la compréhension de la structure [[rationnelle]] des événements
+    - → « Ce n’est qu’au début du crépuscule que la chouette de Minerve prend son envol »
+    - permet de saisir l'[[Absolu]] à travers le [[concept]]
+      - la [[philosophie]] coïncide avec l'[[Histoire]], puisque celle-ci est le déploiement progressif de l'[[Idée]]
+      - l'idéalisme de Hegel représente la [[philosophie]] ultime, car c'est en elle que l'[[esprit]] lui-même achève son parcours
+
+- [[Jaspers]] :
+	- La [[philosophie]] est la clarification de l'[[existence]]
+	  - En tant qu'elle révèle à l'[[homme]] sa [[liberté]] et en même temps sa [[contingence]]
+	    - C'est-à-dire son impossibilité d'exister
+	  - En tant qu'elle révèle à l'[[homme]] à travers les symboles et les figures de l'[[existence]], l'[[Être]]
+	    - C'est-à-dire la possibilité d'expérimenter la [[transcendance]]
+
+
+
+- [[Kierkegaard]] :
+	- Stipule que
+	  - l'enquête de la [[philosophie]] 
+	    - c'est la réflexion sur l'[[existence]] de l'individu concret unique
+	    - cela implique un engagement personnel
+	      - en cela il critique l'Idéalisme allemand de [[Kant]] [[Fichte]] et [[Schelling]]
+	        - qui comprend la [[philosophie]] comme la recherche d'une [[vérité]] abstraite
+
+- [[Ricoeur]] :
+	-   [[philosophie]] et [[science]] sont des termes corrélatifs et non exclusifs
+	    - En fait
+	      - La [[méthode]] de la [[science]] est au service de la [[vérité]]
+	      - La compréhension philosophique peut bénéficier d'un dialogue avec une explication de la [[science]]
+
+
+* [[Schelling]] :
+	* - la [[philosophie]] est la [[science]] de l'[[Absolu]] et peut suivre deux directions :
+	  - la [[philosophie de la nature]]
+	  - la [[philosophie de l'esprit]]
+	  - l'[[Esprit]] et la [[Nature]] sont deux modalités de réalisation et d'expression de l'[[Absolu]]
+
+
+* [[Schopenhauer]] :
+	* la [[philosophie]], selon laquelle
+    - le [[monde]] est la [[volonté]] de vivre
+      - en fait à travers le corps l'[[homme]] reconnaît en lui-même l'[[impulsion]] aveugle et irrationnelle du désir
+        - la vie est douleur
+          - puisque le [[désir]] renvoie au manque

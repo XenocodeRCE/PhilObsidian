@@ -1,0 +1,2 @@
+- [[Protagoras]] :
+	- soutient le [[relativisme culturel]] et [[moral]] (« L'[[homme]] est la mesure de toutes choses » )

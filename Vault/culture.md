@@ -1,0 +1,1 @@
+- Ce qui s'apprend, n'est pas innée, opposé à la [[nature]]

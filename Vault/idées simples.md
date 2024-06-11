@@ -1,0 +1,3 @@
+- [[Locke]] :
+    - dérivent des expériences élémentaires de [[sensation]] et de réflexion imprimées dans l'[[esprit]]
+	    - elles sont stockées en [[mémoire]] et sont dotées de [[certitude]]

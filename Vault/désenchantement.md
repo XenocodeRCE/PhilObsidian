@@ -4,4 +4,4 @@
       - le progressisme rationaliste et intellectuel dans les activités humaines
         - il s'ensuit que
           - les objectifs de l'[[esprit]] et de la [[religion]] sont perdus
-          - l'[[homme]] est soumis à [[La Logique]] du profit et du gain pour lui-même
+          - l'[[homme]] est soumis à [[logique]] du profit et du gain pour lui-même

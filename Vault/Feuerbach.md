@@ -3,8 +3,8 @@
 - [[croit]] que
   - l'[[objet]] d'étude de la [[philosophie]] doit [[être]]
     - l'[[homme]] en tant qu'[[être]] provenant de la [[nature]]
-    - les conditions matérielles de vie des personnes
-      - ces conditions détermineraient leur niveau spirituel
+    - les conditions matérielles de vie des [[personne]]s
+      - ces conditions détermineraient leur niveau [[spirituel]]
       - « *l'Homme est ce qu'il mange* »
 - Stipule que
   - l'[[essence]] de la [[religion]] réside dans le [[sentiment]] de dépendance des [[homme]]s

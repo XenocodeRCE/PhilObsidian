@@ -1,0 +1,5 @@
+- stipule que
+- l'émancipation de l'[[homme]]
+  - n'est pas le résultat d'un processus de l'[[Histoire]] [[nécessaire]]
+  - c'est l'attente messianique d'un instant révolutionnaire qui plonge ses racines dans le passé
+    - la vision des ruines de l'[[Histoire]] stimule l'élan vers un avenir meilleur

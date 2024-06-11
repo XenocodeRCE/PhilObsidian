@@ -1,1 +1,2 @@
-- [[Freud]] : présente des contenus latents, susceptibles de devenir conscients
+- [[Freud]] : 
+	- présente des contenus latents, susceptibles de devenir conscients

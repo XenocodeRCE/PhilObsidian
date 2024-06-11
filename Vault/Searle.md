@@ -1,4 +1,4 @@
-- Étudie les illocutions
+- Étudie les [[illocution]]s
     - Les actes de l'orateur, libérés de toute interaction avec les auditeurs
       - Sur la base du [[principe]] d'exprimabilité qui distingue
         - Ce que l'orateur veut dire

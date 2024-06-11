@@ -1,0 +1,2 @@
+- [[Kant]] :
+	- c'est-à-dire le [[sentiment]] grâce auquel l'[[homme]] a l'expérience de la [[finalité]] du [[réel]]

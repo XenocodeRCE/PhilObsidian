@@ -1,4 +1,4 @@
 - [[Hobbes]] : 
       - (1) chercher un compromis pour obtenir la paix
-      - (2) limiter ses propres droits par rapport à ceux d'autrui
+      - (2) limiter ses propres [[droit]]s par rapport à ceux d'autrui
       - (3) respecter les accords

@@ -1,2 +1,2 @@
-- soutient le relativisme culturel et moral (« L'[[homme]] est la mesure de toutes choses » )
-    - ainsi les croyances, les lois, les coutumes et les valeurs possèdent une validité uniquement selon le contexte historico-culturel dans lequel ils sont formés : le seul critère de [[vérité]] est l'*Utilité*, il n'y a plus de critère objectif
+- soutient le [[relativisme culturel]] et [[moral]] (« L'[[homme]] est la mesure de toutes choses » )
+    - ainsi les croyances, les [[loi]]s, les coutumes et les valeurs possèdent une validité uniquement selon le contexte historico-culturel dans lequel ils sont formés : le seul critère de [[vérité]] est l'*Utilité*, il n'y a plus de critère [[objectif]]

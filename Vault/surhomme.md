@@ -1,0 +1,10 @@
+- [[Nietzsche]] :
+	- affirme que le [[surhomme]]
+	  - est celui qui est capable de supporter les implications de la “[[mort]] de [[Dieu]]”
+	  - sait dire “oui” à la vie et profiter de son [[corps]] et de ses valeurs
+	  - peut supporter l'[[Idée]] d'[[éternel retour]]
+	  - est l'expression complète de la [[volonté]] de [[puissance]]
+	    - c'est l'[[essence]] de la vie, c'est-à-dire une [[impulsion]] à grandir
+	    - c'est l'[[art]], c'est-à-dire l'action qui crée le [[sens]] du [[monde]]
+	      - en particulier, une ***[[transvaluation]]*** des valeurs s'opère
+	        - il s'agit d'inaugurer une nouvelle manière de se rapporter aux valeurs, entendues comme manifestations [[libre]]s de l'[[homme]]

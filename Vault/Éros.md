@@ -1,0 +1,2 @@
+- [[Marcuse]] :
+	-  c'est une force perturbatrice et subversive qui implique une opposition à l'[[ordre]] établi

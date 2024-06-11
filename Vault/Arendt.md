@@ -10,7 +10,7 @@
         - Qui s'exerce par la police secrète et les camps de concentration
       - Une [[idéologie]]
         - Qui prétend fournir une explication “totale” de l'[[Histoire]]
-        - Et renverse les normes de [[La Logique]], imposant un “super sens” dont découlent des conséquences terribles mais cohérentes
+        - Et renverse les normes de [[logique]], imposant un “super sens” dont découlent des conséquences terribles mais cohérentes
   - Le mal qui émerge dans les régimes totalitaires est un mal radical
     - Il nie l'[[essence]] de la [[nature]] [[humaine]]
       - Par la complicité d'[[homme]]s “triviaux” qui remplissent leurs tâches avec diligence et sans réfléchir

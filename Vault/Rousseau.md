@@ -1,29 +1,15 @@
 # Rousseau
 
 - Affirme que
-  - L'[[être humain]], à l'[[état de nature]] est bon.
+  - L'[[être humain]], à l'[[état de nature]] est [[bon]].
       - cette situation dégénère lorsque la propriété privée surgit
         - c'est la source de l'inégalité et de la [[corruption]]
         - c'est l'origine de la violence et de l'oppression
           - pour se défendre, les [[homme]]s se soumettent à un pouvoir, perdant de fait leur [[liberté]]
-            - → ***le droit civil remplace le droit naturel***
+            - → ***le [[droit]] civil remplace le [[droit]] naturel***
   - Il faut trouver une [[forme]] de société, qui
     - défend les personnes et leurs biens
     - accorde à chacun la [[liberté]] dont il jouissait dans l'état de nature
       - dans ce but, un ***[[contrat social]]*** est conclu
-- Le but de l'[[éducation]] est de combler le fossé entre la nature humaine et la [[civilisation]]
-    - dans son œuvre __l'Émile ou De l'Éducation__, Rousseau décrit la formation d'un “[[homme]] naturel”
-      - cette formation se fonde sur une ***éducation  négative***
-        - le tuteur doit se limiter à suivre le développement naturel du garçon en respectant les phases évolutives de la nature humaine
-          - (1) la petite enfance, où l'enfant découvre ses propres capacités sensorielles
-          - (2) la seconde enfance, caractérisée par l'apparition du langage et la découverte de la réalité extérieure
-          - (3) la préadolescence, qui se caractérise par le désir de connaître le monde
-          - (4) l'adolescence, caractérisée par l'amour qui culmine dans le mariage
-- Affirme que 
-	- l'[[art]] est une [[forme]] originale et autonome de représentation du monde.
-	  - en particulier le chant poétique et mélodique précède la [[raison]] 
-		  - car il est l'expression des [[passions]] primordiales
-    - toutefois avec l'avènement de la [[civilisation]] le mot et le son ont été séparés
-      - le langage figuratif devient ***métaphorique***
-      - la musique mélodique devient ***instrumentale***
-    - les deux se rationalisent et perdent leur pouvoir expressif
+- Le but de l'[[éducation]] est de combler le fossé entre la nature humaine et la [[civilisation
+- Affirme que l'[[art]] est une [[forme]] originale et autonome de représentation du monde.

@@ -1,0 +1,9 @@
+- [[Mill]] :
+	- dénonce le danger du [[conformisme]] social dans la société moderne
+	  - qui a 3 [[cause]]s :
+	    - (1) le développement de l'industrie
+	      - révèle toutes les aspirations de toutes les classes en les homogénéisant
+	    - (2) la diffusion de l'[[éducation]]
+	      - en offrant le même savoir à chacun selon ses préférences et ses [[sentiment]]s
+	    - (3) la politique [[démocratique]]
+	      - répand l'illusion que nous sommes tous pareils

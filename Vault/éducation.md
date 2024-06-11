@@ -1,0 +1,9 @@
+- [[Rousseau]] :
+	- Le but de l'[[éducation]] est de combler le fossé entre la nature humaine et la [[civilisation]]
+	    - dans son œuvre __l'Émile ou De l'Éducation__, Rousseau décrit la formation d'un “[[homme]] naturel”
+	      - cette formation se fonde sur une ***éducation  négative***
+	        - le tuteur doit se limiter à suivre le développement naturel du garçon en respectant les phases évolutives de la nature humaine
+	          - (1) la petite enfance, où l'enfant découvre ses propres capacités sensorielles
+	          - (2) la seconde enfance, caractérisée par l'apparition du langage et la découverte de la réalité extérieure
+	          - (3) la préadolescence, qui se caractérise par le désir de connaître le monde
+	          - (4) l'adolescence, caractérisée par l'amour qui culmine dans le mariage

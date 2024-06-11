@@ -13,6 +13,20 @@
 	          - La [[connaissance sensible]] (elle donne le sentiment qui vient unifier les sens)
 	          - L'[[imagination]] et la [[mémoire]] (elles permettent de produire et de conserver la reproduction mentale d'une [[sensation]])
 	          - La [[connaissance intellectuelle]] (elle permet d'accéder à des concepts universaux en dépassant l'imagination)
+
+
+
+- [[Platon]] :
+	- soutient que l'[[âme]] est immortelle et a une structure tripartite
+	    - âme [[rationnel]]le
+	    - âme irascible
+	    - âme concupiscente
+	  - peut savoir des choses parce que l'expérience [[sensible]] sollicite la [[mémoire]] des [[Idée]]s envisagées dans l'***hyperuranium*** ([[monde]] des [[Idée]]s)
+	    - La [[connaissance]] c'est du [[Souvenir]]
+
+
+
+
 -  [[Plotin]] :
       - intermédiaire entre le [[monde]] [[intelligible]] et le [[monde]] [[sensible]]
 	        - se tourne vers la [[matière]], l'anime et l'organise sur la base de modèles idéaux ( [[âme]] du [[monde]])
@@ -34,6 +48,8 @@
 	    - (3) : La [[philosophie]]
 	  - son moment culminant est
 	    - l'[[Extase]]
+
+
 - [[Descartes]] :
 	- en faisant du [[corps]] une machine autonome, [[Descartes]] écarte absolument toute fonction biologique.  
 	- l’âme est la [[substance]] pensante, ou [[pensée]], en tant qu’elle unifie toutes les expériences mentales (je pense), [[Cogito]].  

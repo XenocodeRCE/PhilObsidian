@@ -1,0 +1,7 @@
+- [[Marx]] :
+	- cela implique une phase transitoire de dictature du prolétariat
+        - cette dernière a pour tâche d'établir une première [[forme]] d'égalité encore “imparfaite”
+            - liée à l'épuisement
+            - son but est l'avènement du [[communisme]]
+                - dans lequel toutes les [[forme]]s d'[[État]] sont abolies, la propriété privée et les divisions de classe sont supprimées
+                    - les [[cause]]s d'exploitation et d'[[aliénation]] sont éliminées

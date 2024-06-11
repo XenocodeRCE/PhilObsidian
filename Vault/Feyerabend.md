@@ -1,0 +1,4 @@
+- Qui soutient que
+    - La [[science]] n'a pas besoin de [[méthode]]
+      - En fait, la [[philosophie]] ne peut pas donner de règles à la [[science]] car de telles règles n'existent pas
+      - Il n'y a pas de ligne de démarcation entre la [[science]] et les autres [[forme]]s de production culturelle

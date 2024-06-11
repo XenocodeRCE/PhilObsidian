@@ -1,0 +1,3 @@
+- provenance
+- renvoie à un point de départ dans le [[temps]]
+- à ne pas confondre avec [[fondement]] 

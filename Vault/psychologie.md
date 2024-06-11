@@ -1,1 +1,2 @@
-- [[Mill]] : science qui permet de prédire les actions individuelles
+- [[Mill]] : 
+	- [[science]] qui permet de prédire les actions individuelles

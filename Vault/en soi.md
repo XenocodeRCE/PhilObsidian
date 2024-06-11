@@ -1,4 +1,0 @@
-- [[Spinoza]] :  
-	- c'est-à-dire n'a besoin de rien d'autre pour exister
-- [[Kant]] : 
-	- indépendamment du sujet

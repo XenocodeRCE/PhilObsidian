@@ -1,0 +1,3 @@
+- [[Schmitt]] :
+-  le système juridique est fondé sur la [[volonté]] d'un [[sujet]] fort
+    - Ce dernier décide quoi faire dans l'[[état]] d'exception

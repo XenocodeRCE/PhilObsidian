@@ -1,0 +1,3 @@
+- [[Kant]] :
+	- les modalités (*a priori*) par lesquelles l'[[esprit]] trie activement les [[impression]]s
+	      - → c'est la révolution Copernicienne, ce n'est pas l'[[esprit]] qui doit s'adapter à la [[réalité]], mais la [[réalité]] qui doit s'adapter aux modalités cognitives du [[sujet]]

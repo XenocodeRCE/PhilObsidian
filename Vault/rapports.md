@@ -1,0 +1,2 @@
+- [[Locke]] :
+	- [[idées complexes]] qui dérivent de la relation établie entre des [[idées simples]]

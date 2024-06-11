@@ -1,0 +1,5 @@
+- [[Marx]] :
+	- Analyse la catégorie de la marchandise
+	  - laquelle a une valeur double
+	    - la [[valeur d'usage]]
+	    - la [[valeur d'échange]]

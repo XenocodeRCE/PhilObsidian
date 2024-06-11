@@ -1,0 +1,1 @@
+-  capacité à avoir une [[perception]] et une [[compréhension]] de ses propres pensées, [[pensée]]s, comportements et caractéristiques personnelles

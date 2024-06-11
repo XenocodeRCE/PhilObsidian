@@ -1,1 +1,2 @@
-- [[Freud]] : la partie organisée de la psyché, qui préside à la sphère de la motricité et des actions, mais présente cependant des aspects [[inconscient]]s
+- [[Freud]] : 
+	- la partie organisée de la psyché, qui préside à la sphère de la motricité et des actions, mais présente cependant des aspects [[inconscient]]s

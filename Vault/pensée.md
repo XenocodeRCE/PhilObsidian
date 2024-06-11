@@ -1,11 +1,11 @@
 - [[Pascal]] : 
-	-  la pensée se divise en
+	-  la [[pensée]] se divise en
 	    - esprit **[[géométrique]]**
 	    - esprit de **[[finesse]]**
 - [[Dewey]] :
 	- la [[pensée]] c'est 
 		- l'activité qui 
-			- développe les outils logiques 
+			- développe les [[outil]]s [[logique]]s 
 		- pour 
 			- résoudre des problèmes pratiques
 		  - à travers 5 étapes
@@ -18,4 +18,9 @@
 		    - (4) le raisonnement
 		      - c'est-à-dire la connexion entre plusieurs [[Idée]]s
 		    - (5) la vérification d'hypothèses
-		      - c'est-à-dire la confirmation ou l'infirmation de l'hypothèse grâce à une observation empirique ou une expérience
+		      - c'est-à-dire la confirmation ou l'infirmation de l'hypothèse grâce à une observation empirique ou une [[expérience]]
+
+
+- [[James]] 
+	- la [[pensée]] est toujours mue par des intérêts pratiques
+	  - ainsi les [[humain]]s sélectionnent et organisent la [[réalité]] selon leurs propres [[besoin]]s

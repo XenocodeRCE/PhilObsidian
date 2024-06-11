@@ -1,0 +1,27 @@
+- [[Aristote]] :
+	- La logique :
+		- repose sur 3 [[principe]]s communs à tout raisonnement et toute réalité :
+		  - le [[principe]] d'identité
+		  - le [[principe]] de non-contradiction
+		  - le [[principe]] du tiers exclu
+		- a pour [[objet]] la structure de la [[pensée]] rationnelle, qui est capable de saisir la [[vérité]] des choses en [[vertu]] de la correspondance entre [[logique]] et [[métaphysique]], entre [[pensée]] et [[être]]
+		  - il y a un rapport nécessaire entre les [[forme]]s du raisonnement scientifique et les [[forme]]s de l'être
+		  - un énoncé est vrai s'il reflète la réalité des choses (la [[substance]])
+		- sur de telles bases, Aristote analyse :
+		  - les [[notion]]
+		  - les [[proposition]] (déclaratives)
+		  - les raisonnements (déductifs) ou syllogismes
+		    - à partir de prémisses [[universel]]s ils permettent de déduire des conclusions particulières
+		    - ils peuvent être
+		      - valides mais faux si l'inférence est [[forme]]llement correcte mais que les prémisses sont fausses
+		      - valides et vrais si l'inférence est [[forme]]llement correcte et les prémisses sont vraies
+
+- [[Hegel]] : 
+	- La [[logique]] est la [[science]] de l'[[Idée]] pure
+    - divisée en :
+      - (1) La [[logique]] de l'[[être]]
+        - part des [[catégories]] indéterminées de l'[[être]] et du [[néant]] pour atteindre celle, plus complète et unitaire, du “devenir”
+      - (2) La [[logique]] de l'[[essence]]
+        - considère d'être comme un [[objet]] de réflexion par l'idée
+      - (3) La [[logique]] du [[concept]]
+        - réalise la [[synthèse]] de l'[[être]] réel et rationnel et de l'[[essence]]

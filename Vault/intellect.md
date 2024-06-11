@@ -1,9 +1,13 @@
 - [[Hobbes]] : 
 	- exerce une activité computationnelle, liant les noms conventionnellement attribués par le [[langage]] aux images des choses
-            - en découle la [[science]] qui ne reflète pas la [[réalité]] mais est un réseau de [[concepts]] conventionnels
-            - la [[langue]] a deux fonctions principales
-              - la mémorisation [[mémoire]]
-              - la communication
-                - elle permet donc la généralisation nécessaire à la construction du “bâtiment de la [[conscience]]”
+            - en découle la [[science]] qui ne reflète pas la [[réalité]] mais est un réseau de [[concept]]s conventionnels
 -  [[Plotin]] : 
 	-  - [[être]] et pensée, siège des modèles éternels ( ***[[Idée]]s de [[Platon]]*** )
+
+- [[Kant]] :
+  - qui permet d'unifier les informations sensibles dans les 12 [[catégories]]
+  - ces [[catégories]] représentent des modes de [[pensée]] [[universel]]les
+  - elles correspondent aux types de [[jugement]]s
+    - la légitimité de leur application est justifiée par déduction [[transcendant]]ale
+      - tout le processus cognitif est fondé sur le “je pense”, qui unifie les [[représentation]]s grâce aux [[jugement]]s, qui utilisent les [[catégories]]
+      - → le “Je pense” ([[Cogito]]) est législateur de la [[nature]]

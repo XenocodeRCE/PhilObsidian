@@ -1,0 +1,1 @@
+-  La [[mort]] est une manière d'[[être]] que le [[Dasein]] assume dès qu'il est.

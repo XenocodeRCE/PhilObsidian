@@ -1,0 +1,4 @@
+- [[universel]]
+- Général
+- [[particulier]]
+- Singulier

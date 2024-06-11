@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/âme.md",
+                "file": "Vault/relatif.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault/âme.md",
+                "file": "Vault/relatif.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,7 +57,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224422,
+                  "scale": 0.713275462622448,
                   "close": true
                 }
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/âme.md",
+                "file": "Vault/relatif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/âme.md",
+                "file": "Vault/relatif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/âme.md"
+                "file": "Vault/relatif.md"
               }
             }
           }
@@ -192,33 +192,33 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "87c0a6d7df999116",
+  "active": "bea51169df94700b",
   "lastOpenFiles": [
-    "Vault/art.md",
-    "Vault/Aristote.md",
-    "Vault/relativisme culturel.md",
-    "Vault/rationalité.md",
-    "README.md",
-    "Vault/agréable.md",
-    "Vault/Giordano Bruno.md",
-    "Vault/Gorgias.md",
-    "Vault/mains.md",
-    "Vault/géométrique.md",
-    "Vault/Gentil.md",
-    "Vault/réalité.md",
-    "Vault/esprit.md",
+    "Vault/abduction.md",
+    "Vault/sentiment.md",
+    "Vault/sensualisme.md",
+    "Vault/sensible.md",
+    "Vault/sensation.md",
+    "Vault/sens.md",
+    "Vault/Sénèque.md",
+    "Vault/sémiotique.md",
+    "Vault/sélection naturelle.md",
+    "Vault/Searle.md",
+    "Vault/illocution.md",
+    "Vault/Scolastique.md",
+    "Vault/preuve ontologique.md",
+    "Vault/foi.md",
+    "Vault/scientifique.md",
+    "Vault/sciences naturelles.md",
+    "Vault/sciences de l'esprit.md",
+    "Vault/Science normale.md",
+    "Vault/science.md",
+    "Vault/Schopenhauer.md",
     "Vault/philosophie.md",
-    "Vault/Histoire.md",
-    "Vault/dialectique.md",
-    "Vault/Gehlen.md",
-    "Vault/exemption.md",
-    "Vault/Galilée.md",
-    "Vault/mathématique.md",
-    "Vault/méthode.md",
-    "Vault/Gadamer.md",
-    "Vault/essentialisme.md",
-    "Vault/existentialisme.md",
-    "Vault/finalisme.md",
-    "Vault/herméneutique.md"
+    "Vault/Schmitt.md",
+    "Vault/État.md",
+    "Vault/politique.md",
+    "Vault/décisionnisme.md",
+    "Vault/Schelling.md"
   ]
 }

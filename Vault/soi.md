@@ -1,0 +1,3 @@
+- [[chose]] [[en-soi]]
+- caractérise la [[substance]] dont le propre est d'exister en elle-même
+- en parlant des [[Idée]]s de [[Platon]] qui existent, et non pas seulement dans l'[[esprit]]

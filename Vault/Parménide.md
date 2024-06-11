@@ -1,11 +1,3 @@
-- soutient qu'il est nécessaire
-  - d'abandonner le monde des sens et des opinions, le domaine des apparences
-  - de suivre le chemin de la raison qui conduit à la vérité
-    - laquelle affirme que
-      - l'[[être]] répond à des caractéristiques, il est :
-        - unique
-        - non-engendré et impérissable
-        - éternel
-        - immuable et immobile
-        - fini
-      - le [[non-être]] n'est pas et ne peut pas être pensé
+- soutient qu'il est [[nécessaire]]
+  - d'abandonner le [[monde]] des [[sens]] et des opinions, le domaine des [[apparence]]s
+  - de suivre le chemin de la [[raison]] qui conduit à la [[vérité]]

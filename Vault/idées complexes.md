@@ -1,0 +1,6 @@
+- [[Locke]] :
+	- proviennent de l'élaboration d'[[idées simples]] opérée par l'[[intellect]]
+	    - sont incertaines et divisées en trois [[catégories]] :
+	      - les [[modes]]
+	      - les [[substances]]
+	      - les [[rapports]]

@@ -1,2 +1,16 @@
 - [[Berkeley]] :
 	-  ***esse est percipi*** : l'[[existence]] des choses est dans leur [[perception]]
+
+- [[Kierkegaard]] :
+	- Distingue
+	  - trois phases de l'[[existence]]
+	    - la vie [[esthétique]]
+	      - est vécue dans l'instant et dans la poursuite du [[plaisir]] (ex : Don Juan)
+	      - implique la dispersion du [[sujet]]
+	        - mène à l'ennui et au désespoir
+	    - la vie [[éthique]]
+	      - caractérisée par le [[choix]] et la [[responsabilité]] (ex : le mariage)
+	        - le [[sujet]] soumet sa propre individualité aux règles de la famille et de la [[société civile]]
+	    - la vie de la [[religion]]
+	      - implique le “saut” de la [[foi]], paradoxal et scandaleuse pour la [[raison]]  (ex : l'épisode d'Abraham dans la Bible)
+	      - implique une relation exclusive entre le [[sujet]] et [[Dieu]]

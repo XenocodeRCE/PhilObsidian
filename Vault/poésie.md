@@ -1,0 +1,4 @@
+- [[Heidegger]] :
+	- Seule la [[poésie]] représente un [[langage]] original et créatif
+		- Elle ouvre un nouvel horizon de [[sens]]
+		- L'humain doit se rendre semblable aux poètes en laissant « advenir » l'[[être]]

@@ -1,1 +1,1 @@
-- Qui, après analyse, est organisé en discours cohérent et présenté comme [[nécessaire]] par l'[[intellect]]; qui est l'[[objet]] ou le résultat de ce [[travail]] de l'[[intellect]]
+- Qui, après analyse, est organisé en [[discours]] cohérent et présenté comme [[nécessaire]] par l'[[intellect]]; qui est l'[[objet]] ou le résultat de ce [[travail]] de l'[[intellect]]

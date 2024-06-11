@@ -1,4 +1,11 @@
 - [[Platon]] : 
-	- serait la [[méthode]] par excellence de la [[philosophie]], qui permettrait de déterminer quelles [[Idée]]s peuvent être connectées ensembles et lesquelles ne le peuvent pas, à travers une procédure rigoureuse de [[synthèse]] et d'[[analyse]] afin d'arriver vers la définition précise d'un [[concept]].
+	-  la [[dialectique]] serait la [[méthode]] par excellence de la [[philosophie]]
+	  - elle permet de dépasser la position de [[Parménide]] en reconnaissant l'[[être]] comme ***[[possibilité]]*** et ***relation*** puisque l'[[Idée]] peut entrer en relation relativement avec les autres [[Idée]]s grâce à 5 modalités :
+	    - l'[[être]]
+	    - le [[Même]]
+	    - l'[[autre]]
+	    - le repos
+	    - le [[mouvement]]
+
 - [[Horkheimer et Adorno]] : 
 	- (négative) ne vise pas à la conciliation (thèse → antithèse → synthèse) mais à la révélation du caractère contradictoire de la [[réalité]]

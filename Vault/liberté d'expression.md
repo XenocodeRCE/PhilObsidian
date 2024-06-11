@@ -1,3 +1,3 @@
 - [[Mill]] : 
-	- la [[connaissance]] aurait une nature [[]]
-    - l'intellect ne [[forme]] alors ses propres [[notion]] que par comparaison avec celles des autres
+	- la [[connaissance]] aurait une [[nature]] [[dialogique]]
+    - l'intellect ne [[forme]] alors ses propres [[notion]]s que par comparaison avec celles des autres

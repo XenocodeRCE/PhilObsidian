@@ -25,3 +25,18 @@
           - les bons [[plaisir]]s (stables, ou ***[[catastématiques]]*** )
           - les mauvais plaisirs (instables, dynamiques)
             - ils sont accompagnés de souffrance et de joie momentanées (ex : amour sexuel
+
+- [[Hume]] :
+- il ne faut pas confondre [[être]] et [[devoir être]]
+  - l'[[éthique]] ne se fonde pas sur des [[principe]]s absolus mais sur des critères empiriques et sur le sens moral commun à tous les [[homme]]s
+
+
+- [[Montaigne]] :
+- soutient une position d'[[épicurisme]] modéré
+  - il faut rechercher la santé et l'équilibre psychophysique
+    - atteignable grâce
+      - à la modération
+      - au rejet de l'extrémisme
+    - ainsi
+      - il invite les sages à ne pas craindre la mort, principale cause des malheurs et des inquiétudes de l'[[homme]]
+      - il exhorte l'[[homme]] à cultiver la [[philosophie]], qui est une éducation à la mort

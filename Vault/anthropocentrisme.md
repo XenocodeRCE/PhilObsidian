@@ -1,0 +1,1 @@
+- Vision qui stipule que l'[[homme]] est la [[fin]] de l'[[Univers]]

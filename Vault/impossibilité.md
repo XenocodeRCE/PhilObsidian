@@ -1,3 +1,3 @@
 - Qui ne peut être ou ne peut se produire
-- dont l'existence est exclue
+- dont l'[[existence]] est exclue
 - dont l'[[essence]] est contradictoire

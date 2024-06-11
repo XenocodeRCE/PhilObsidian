@@ -1,0 +1,2 @@
+- [[Locke]] :
+	- des [[Idée]]s considérées comme n'existant pas d'elles-mêmes mais comme étant toujours liées à une [[substance]]

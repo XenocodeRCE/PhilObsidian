@@ -1,4 +1,8 @@
 - [[Mill]] : 
-	- permet d'établir des lois générale à partir d'expériences particulières
-        - permet de tirer des conclusions probables
+	- permet d'établir des [[loi]]s [[général]]es à partir d'expériences [[particulier]]es
+        - permet de tirer des conclusions [[possible]]s
           - la [[connaissance]] de la [[science]] est donc provisoire et perfectible
+	- l'induction est garantie par le [[principe]] de l'uniformité de la [[nature]]
+    - les [[phénomène]]s ont un comportement constant et régulier
+      - il est donc possible de prédire les événements futurs en se basant sur les événements passés
+        - c'est le ***fondement des [[science]]s***

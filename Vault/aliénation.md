@@ -2,3 +2,11 @@
 	- implique le renoncement à son [[essence]] au profit d'un [[être]] étranger et [[transcendant]]
       - le renversement de la [[religion]] devient une condition préalable à l'émancipation
         - l'[[athéisme]] devient une tâche [[morale]]
+
+- [[Marx]] :
+	- Stipule que
+	  - il existe quatre types d'[[aliénation]] des travailleurs
+	    - (1) Par rapport au produit de son [[travail]]
+	    - (2) Au regard de son activité
+	    - (3) Par rapport à son [[essence]]
+	    - (4) Par rapport à ses pairs

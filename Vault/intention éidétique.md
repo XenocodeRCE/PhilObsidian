@@ -1,2 +1,3 @@
 - [[Husserl]] :
-	- (*éidé*tique → *eidos* → l'essence des choses)
+	- (*éidé*tique → *eidos* → l'[[essence]] des choses)
+	- l'intention est la fait, pour la [[conscience]], d'[[être]] toujours [[conscience]] "de" quelque [[chose]]

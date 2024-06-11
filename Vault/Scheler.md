@@ -1,12 +1,12 @@
 - Qui analyse l'expérience émotionnelle
-      - Afin de montrer que les sentiments sont des actes intentionnels capables d'intuitionner des valeurs objectives
+      - Afin de montrer que les [[sentiment]]s sont des actes intentionnels capables d'intuitionner des valeurs [[objectif]]s
         - Ces dernières sont disposées selon une échelle hiérarchique
-          - (1) Les valeurs sensorielles saisies par le sentiment sensible
+          - (1) Les valeurs sensorielles saisies par le [[sentiment]] [[sensible]]
           - (2) Les valeurs vitales saisies en se sentant vivant
-          - (3) Les valeurs spirituelles saisies par le sentiment spirituel
-          - (4) Les valeurs religieuses saisies avec l'acte d'amour
+          - (3) Les valeurs spirituelles saisies par le [[sentiment]] spirituel
+          - (4) Les valeurs religieuses saisies avec l'acte d'[[amour]]
     - Qui délimite la spécificité de l'[[être humain]]
-      - Qui réside dans le fait qu'il est [[en soi]] une “[[personne]]”, c'est-à-dire une identité qui précède l'ensemble des actes intentionnels
+      - Qui réside dans le fait qu'il est [[en-soi]] une “[[personne]]”, c'est-à-dire une identité qui précède l'ensemble des actes intentionnels
     - Croit que l'[[homme]] doit choisir entre
       - Les valeurs individualistes, caractérisés par la méfiance, le ressentiment et la fermeture
       - Les valeurs de la solidarité, caractérisées par l'ouverture aux autres

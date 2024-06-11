@@ -1,0 +1,6 @@
+- [[Hegel]] (de l'[[esprit]]): 
+	- Description de l'[[histoire]] de la [[conscience]] qui, par le mouvement [[dialectique]], s'élève de la [[connaissance]] [[sensible]] à la pleine [[conscience]] d'elle-même, à la [[Raison]] et accède au [[savoir]] [[absolu]]
+	- Dans la [[phénoménologie]] de l'[[esprit]] sont décrites les étapes de la vie de l'[[esprit]] dans son cheminement vers la [[conscience de soi]]
+		  - (1) le stade de la [[conscience]]
+		  - (2) le stade de la [[conscience de soi]]
+		  - (3) le stade de la [[raison]]

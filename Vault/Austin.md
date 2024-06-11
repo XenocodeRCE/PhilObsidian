@@ -4,9 +4,9 @@
       - Les [[mot]]s sont distincts des [[fait]]s et de choses et peuvent donc générer des erreurs
       - La [[langue]] est un fruit de la [[civilisation]] et de l’[[Histoire]], elle n'est donc pas réduite à la [[langue]] idéale
     - Il existe trois types d'actes de [[parole]]
-      - Les actes locutoires, les [[locutions]]
-      - Les actes illocutoires, les [[illocutions]]
-      - Les actes perlocutoires, les [[perlocutions]]
+      - Les actes locutoires, les [[locution]]s
+      - Les actes illocutoires, les [[illocution]]s
+      - Les actes perlocutoires, les [[perlocution]]s
     - Ainsi le sens d'une déclaration
       - N'est pas donné seulement par sa [[vérité]] ou sa fausseté
       - Cela dépend de son adéquation ou de son inadéquation au contexte et à l'objectif

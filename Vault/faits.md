@@ -1,9 +1,0 @@
-- [[Wittgenstein]] : 
-	-  Parmi les faits, on peut distinguer
-      - Des faits ou états de choses simples
-      - Des faits ou états de choses complexes
-    - Les faits sont représentés dans des
-      - [[proposition]]s simples ( [[propositions atomiques]] )
-      - [[proposition]]s complexes ( [[propositions moléculaires]])
-    - Ainsi les [[proposition]]s sont des [[image]]s de la [[réalité]]
-      - Puisqu'elles reproduisent la structure logique des états de choses

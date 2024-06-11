@@ -1,0 +1,2 @@
+- toutes [[connaissance]]s vient des [[sens]], de la [[sensation]]
+- [[sensualisme]]

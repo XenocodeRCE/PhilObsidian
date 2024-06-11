@@ -1,0 +1,4 @@
+- [[Aristote]] :
+	- s'oppose à [[puissance]]
+	- désigne ce qui existe effectivement par opposition à la [[puissance]] qui désigne ce qui peut être ou doit être.
+	- l’acte pur serait la réalisation totale d’un [[être]] qui serait entièrement ce qu’il doit [[être]], qui n’aurait pas à devenir ce qu’il est. Une telle définition ne peut convenir qu’à [[dieu]].

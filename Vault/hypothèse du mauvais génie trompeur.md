@@ -1,7 +1,7 @@
 - [[Descartes]] :
 	- constate le caractère “fort douteux et incertain” des anciennes opinions qu’il a reçues
-		- viennent des sens, parfois trompeurs.
-	- s’il se trompe, c’est peut-être que Dieu est celui qui le trompe. 
-		- Mais Dieu étant “souverainement bon”, il lui semble impossible qu’il soit trompeur.
+		- viennent des [[sens]], parfois trompeurs.
+	- s’il se trompe, c’est peut-être que [[Dieu]] est celui qui le trompe. 
+		- Mais [[Dieu]] étant “souverainement bon”, il lui semble impossible qu’il soit trompeur.
 	- Il émet donc une hypothèse : celle d’un Malin Génie
 		- si puissant qu’il ferait tout pour que Descartes se trompe.

@@ -1,1 +1,2 @@
-[[Pyrrhon]] : la libération de la [[parole]]
+- [[Pyrrhon]] : 
+	- la libération de la [[parole]]

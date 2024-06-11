@@ -1,0 +1,2 @@
+- [[Gramsci]] :
+	- des [[homme]]s de culture qui opèrent de manière indépendante et autonome par rapport à l'idéologie du groupe social dominant

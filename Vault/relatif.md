@@ -1,0 +1,2 @@
+- Qui dépend d'autre [[chose]]
+- Opposé à [[Absolu]]

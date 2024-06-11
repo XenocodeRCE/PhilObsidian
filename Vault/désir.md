@@ -4,7 +4,7 @@
 	      - l'[[homme]] agit donc toujours en vue de ce qu'il juge [[utile]]
 	        - l'[[homme]] est conditionné par sa [[nature]], toutefois
 	          - il peut agir passivement
-	            - subissant alors l'esclavage de ses [[passions]]
+	            - subissant alors l'esclavage de ses [[passion]]
 	          - il peut agir activement
 	            - assumer avec sa [[conscience]] la direction de son [[être]]
 	        - la [[raison]] est le seul guide de l'[[homme]]

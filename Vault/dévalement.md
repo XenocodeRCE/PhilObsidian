@@ -1,0 +1,2 @@
+- [[Heidegger]] :
+	- Dans le [[Souci]], l'[[existence]] inauthentique implique l'adhésion non critique et spontanée à un certain [[monde]] social historique 

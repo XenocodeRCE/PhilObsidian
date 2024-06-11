@@ -1,0 +1,4 @@
+- [[Hume]] :
+	- [[jugement esthétique]] qui dispose d'une [[universalité]] [[relative]]
+	    - comme il est possédé par toutes les personnes en bonne santé qui ressentent de la même manière
+	      - il y aurait une plus grande fiabilité du [[jugement esthétique]] par rapport au [[jugement analytique]]

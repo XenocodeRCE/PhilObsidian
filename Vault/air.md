@@ -1,0 +1,2 @@
+- [[Anaximène]] :
+	- [[archè]], d'où dérivent les choses par raréfaction et condensation

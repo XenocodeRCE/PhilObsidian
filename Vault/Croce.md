@@ -8,7 +8,7 @@
 - identifie deux moments fondamentaux dans la vie de l'[[esprit]]
   - un moment théorique, constitué par
     - (1) les [[connaissance]]s du particulier, ou [[intuition]] (→ l'[[art]])
-    - (2) les [[connaissance]]s de l'universel, ou [[concept]] (→ [[La Logique]] ou [[philosophie]])
+    - (2) les [[connaissance]]s de l'universel, ou [[concept]] (→ [[logique]] ou [[philosophie]])
   - un moment pratique, constitué par
       - (1) les volitions utilitaires et particulières (→ l'[[économie]])
       - (2) les volitions [[éthique]]s et [[universel]]s (→ la [[morale]])

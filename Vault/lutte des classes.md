@@ -1,0 +1,4 @@
+- [[Marx]] :
+	-   les forces productives sont l'expression de la classe dominante
+	  - les rapports de production sont l'expression des intérêts de la classe dirigeante
+	    - entre eux, un fossé se crée, et surgit un conflit de classe ([[lutte des classes]])

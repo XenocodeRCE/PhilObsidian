@@ -1,0 +1,2 @@
+- [[Peirce]] :
+	- une [[forme]] de raisonnement qui aboutit à une conclusion plausible mais non [[nécessaire]]

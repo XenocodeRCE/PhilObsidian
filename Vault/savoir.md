@@ -1,0 +1,1 @@
+- opposé à [[croire]] 

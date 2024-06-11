@@ -3,4 +3,3 @@
       - [[Science normale]]
       - [[Phase de crise]]
       - [[Étape révolutionnaire]]
-        

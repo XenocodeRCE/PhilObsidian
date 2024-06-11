@@ -1,2 +1,2 @@
 - [[Locke]] :
-	- combinaisons de qualités primaires qui créent des objets de l'[[imagination]] spécifiques, parfois des choses qui n'existent même pas dans le [[monde]] [[physique]], comme une licorne
+	- combinaisons de [[qualités primaires]] qui créent des objets de l'[[imagination]] spécifiques, parfois des choses qui n'existent même pas dans le [[monde]] [[physique]], comme une licorne

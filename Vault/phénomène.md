@@ -1,1 +1,1 @@
-- Ce qui apparaît, ce qui se manifeste aux [[sens]] ou à la [[conscience]], tant dans l'ordre physique que dans l'ordre psychique, et qui peut devenir l'[[objet]] d'un [[savoir]].
+- Ce qui apparaît, ce qui se manifeste aux [[sens]] ou à la [[conscience]], tant dans l'ordre [[physique]] que dans l'ordre psychique, et qui peut devenir l'[[objet]] d'un [[savoir]].

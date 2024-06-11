@@ -3,9 +3,9 @@
     - qui peut être
       - une [[universel]] négative
       - une [[universel]] positive
-      - une particulière affirmative
-      - une particulière négative
-    - leurs connexions logiques ont été visualisées par les logiciens médiévaux à travers le carré des contraires
+      - une [[particulier]]e affirmative
+      - une [[particulier]]e négative
+    - leurs connexions [[logique]]s ont été visualisées par les logiciens médiévaux à travers le carré des contraires
 
 - [[Wittgenstein]] :
 	- les [[propositions]] sont des [[image]]s de la [[réalité]]

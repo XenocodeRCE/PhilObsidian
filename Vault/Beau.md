@@ -1,0 +1,2 @@
+- [[Kant]] :
+      - le [[Beau]] est ce qui est [[universel]]ment [[agréable]] sans [[concept]]

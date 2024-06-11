@@ -1,2 +1,2 @@
-- Obligation faite à une [[personne]] de répondre de ses actes du [[fait]] du rôle, des charges qu'elle doit assumer et d'en supporter toutes les [[conséquences]]
-- Nécessité pour quelqu'un de répondre de ses intentions et de ses actes devant sa [[conscience]]
+- [[Obligation]] faite à une [[personne]] de répondre de ses actes du [[fait]] du rôle, des charges qu'elle doit assumer et d'en supporter toutes les [[conséquences]]
+- [[Nécessité]] pour quelqu'un de répondre de ses intentions et de ses actes devant sa [[conscience]]

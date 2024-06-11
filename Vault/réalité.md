@@ -1,11 +1,9 @@
 - [[Hegel]] :
 	-   La réalité et la [[pensée]] suivent la même [[loi]] de développement qui se compose de 3 moments :
-	    - (1) le moment intellectuel ou abstrait (→ la thèse)
-	      - l'énoncé ou la position d'un concept abstrait et limité
-	    - (2) le moment dialectique ou négation (→ l'antithèse)
-	      - la négation de la thèse comme concept limité et fini
-	    - (3) le moment spéculatif (→ synthèse)
-	      - la négation de la négation, c'est-à-dire l'affirmation de l'unité des déterminations opposées
+	    - (1) le moment intellectuel ou abstrait (→ la [[thèse]])
+	    - (2) le moment [[dialectique]] ou négation (→ l'[[antithèse]])
+	    - (3) le moment spéculatif (→ [[synthèse]])
+
 
 - [[Gentil]] :
 	- toute [[réalité]] est [[pensée]]
@@ -13,3 +11,11 @@
       - c'est l'[[esprit]] transcendantal
         - qui a la [[connaissance]] de soi
         - qui est une ***[[autoctise]]***
+
+- [[Leibniz]] :
+	- soutient
+	  - une conception dynamique de la [[réalité]]
+	    - dans laquelle
+	      - au fondement de la [[réalité]] mécaniste il y a une dimension [[métaphysique]] d'une [[substance]]
+	        - la force vive
+	          - l'[[essence]] des [[substance]]s individuelles

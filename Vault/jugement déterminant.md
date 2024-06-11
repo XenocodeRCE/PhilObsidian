@@ -1,0 +1,2 @@
+- [[Kant]] :
+	- détermine l'[[objet]] des [[phénomène]]s en unifiant le multiple à travers les [[catégories]] de l'[[intellect]]

@@ -2,16 +2,24 @@
 - il crée un modèle étatique idéal (= *utopie*) structuré en 3 classes
     - les dirigeants, qui gèrent le gouvernement
     - les guerriers, qui gèrent la défense militaire
-    - les ouvriers, qui fournissent les besoins matériels
+    - les ouvriers, qui fournissent les [[besoin]]s [[matériel]]s
   - ils doivent agir conformément aux quatre [[vertu]] fondamentales
     - la sagesse (dirigeants)
     - le courage (guerriers)
     - la tempérance (les ouvriers)
-    - la justice
+    - la [[justice]]
       - réalisée dans la société lorsque chaque citoyen accomplit la tâche de sa classe
-  - il fait la promotion d'un régime de type aristocratique, aussi nommé “le gouvernement des meilleurs” (ou philosophes) qui connaissent et poursuivent le Bien (= ***l'allégorie de la Caverne***)
+  - il fait la promotion d'un régime de type aristocratique, aussi nommé “le gouvernement des meilleurs” (ou philosophes) qui connaissent et poursuivent le [[Bien]] (= ***l'allégorie de la Caverne***)
   - il critique les autres [[forme]]s de gouvernement qui sont corrompues selon lui :
     - l'oligarchie serait fondée sur la recherche de l'honneur et de la gloire
     - la timocratie serait le gouvernement d'un petit nombre fondé sur la richesse
     - la démocratie serait le gouvernement par le peuple fondé sur la volonté anarchique des masses
     - la tyrannie serait le gouvernement d'un seul individu fondé sur la force
+- le projet éducatif de la [[philosophie]] est structuré dans un programme spécifique qui sélectionne progressivement les futurs dirigeants à travers les étapes suivantes
+  - 7-18 ans : gymnastique, musique, chant, poésie, mathématiques etc.
+  - 18-20 ans : service militaire
+  - 20-30 ans : étude des [[science]]s
+  - 30-35 ans : étude de la [[philosophie]], [[méthode]] [[dialectique]]
+  - 35-50 ans : participation à la vie publique
+  - 50+ ans : accès au gouvernement
+    - le but ultime de l'éducation est la possession de la [[science]] véritable (***épistémè***) par le souverain philosophe.

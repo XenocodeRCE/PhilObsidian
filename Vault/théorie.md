@@ -1,0 +1,3 @@
+- [[James]] :
+  - sont des [[outil]]s pour résoudre des problèmes
+  - sont évaluées sur la base de leurs effets concrets

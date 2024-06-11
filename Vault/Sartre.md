@@ -4,9 +4,6 @@
   - La [[conscience]] est un “[[pour-soi]]”
 - Affirme que
   - L'[[homme]] est condamné à être [[libre]]
-    - En fait
-      - Il ne choisit pas sa propre [[existence]]
-      - Il ressent du désespoir et de l'[[angoisse]] devant le poids de la [[responsabilité]]
   - Le conflit entre les êtres humains est inévitable
     - En fait chacun tend à objectiver l'autre
       - Ainsi l'[[homme]] a honte d'être [[objet]] du regard des autres
@@ -14,23 +11,6 @@
 - Opère une synthèse entre existentialisme  de [[Kierkegaard]] et [[Marx]]
   - L'[[Histoire]] dépend des actions libres et des choix libres des individus
     - Les individus peuvent s'opposer à la société bourgeoise qui sérialise les gens
-- Soutient que 
-	-  la [[conscience transcendantale]]
-		- est une spontanéité impersonnelle
-		- se détermine à l'[[existence]] à chaque instant
-		- suppose que chaque instant de notre vie consciente révèle une création ex nihilo
-		- masque à elle-même sa propre spontanéité
-	- La spontanéité de la [[conscience]]
-		- provoque l'impression pour l'[[homme]] de s'échapper sans cesse de se déborder
-		- charge de rendre compte du dépassement du [[Moi]] par la [[conscience]]
-		- souligne le fait que le [[Moi]] ne peut rien sur cette spontanéité
-		- est à l'origine de nombreuses psychasthénies
-		- la conscience s'effraie de sa propre spontanéité
-			- elle la sent au-delà de la [[liberté]]
-		- rend impossible toute distinction entre action et passion et toute conception d'une autonomie de la [[volonté]]
-			- cette dernier
-- est un [[objet]] qui se constitue pour et par cette spontanéité
-- se dirige sur les états, les sentiments ou les choses
-- ne se retourne jamais sur la [[conscience]]
-	- Exemple : Quand on essaye de vouloir une [[conscience]], la [[volonté]] est maintenue et conservée par la [[conscience]] radicalement opposée à celle voulue
-	- la [[conscience]] se perçoit comme débordant infiniment (dans ses possibilités) le [[Je]] qui lui sert d'unité
+- Soutient les idées de  
+	- [[conscience transcendantale]]
+	- spontanéité de la [[conscience]]

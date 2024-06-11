@@ -1,3 +1,3 @@
 - [[Wittgenstein]] : 
       - Les règles varient d'un domaine à l'autre
-      - Les mots prennent des [[sens]] différents selon leur usage et le contexte linguistique
+      - Les [[mot]]s prennent des [[sens]] différents selon leur usage et le contexte [[linguistique]]

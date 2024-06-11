@@ -1,0 +1,7 @@
+- [[Gramsci]] :
+	- élabore le concept d'***[[hégémonie culturelle]]***
+      - c'est-à-dire la direction [[morale]] et culturelle de la société par un groupe ou une classe
+        - pour [[Gramsci]] le rôle des intellectuels est important
+          - ils se distinguent en
+            - [[intellectuels organiques]]
+            - [[intellectuels traditionnels]]

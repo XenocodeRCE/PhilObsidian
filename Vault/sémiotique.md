@@ -1,1 +1,8 @@
-- [[Peirce]] : [[science]] de l'activité d' [[interprétation]]
+- [[Peirce]] : 
+	- [[science]] de l'activité d' [[interprétation]]
+	  - le [[signe]] implique l'interaction entre trois éléments
+	    - le véhicule du signe
+	    - l'[[objet]] réel
+	    - l'interprétant
+	- tout a une fonction [[sémiotique]]
+	    - c'est-à-dire : tout est le [[sujet]] ou l'[[objet]] d'une activité d'[[interprétation]]

@@ -12,3 +12,6 @@
 	    - Efficiente
 	    - Finale [[fin]]
 	      - C'est la cause vers quoi chaque entité tend dans la pleine réalisation de son [[essence]] immanente (vision [[téléologique]] de l'[[Univers]] : dans la [[nature]] rien n'arrive par accident)
+
+- [[Platon]] :
+	- Les [[Idée]]s constituent le modèle, la [[cause]] et le critère des choses

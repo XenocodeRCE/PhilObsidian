@@ -1,3 +1,4 @@
-- ils augmentent les [[connaissance]]s (ils sont synthétiques)
-    - ils sont doués d’universalité et de nécessité (ils sont *a priori*)
-      - → typiques de la science Newtonienne
+- [[Kant]] :
+	- ils augmentent les [[connaissance]]s (ils sont synthétiques)
+	    - ils sont doués d’[[universalité]] et de [[nécessité]] (ils sont *a priori*)
+	      - → typiques de la [[science]] Newtonienne

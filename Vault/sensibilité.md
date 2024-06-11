@@ -1,0 +1,2 @@
+- Propriété de la [[matière]] vivante de réagir de façon spécifique à l'action de certains agents internes ou externes
+- Caractère de ce qui est [[sensible]]

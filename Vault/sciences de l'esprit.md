@@ -1,4 +1,4 @@
 - [[Dilthey]] :
 	- [[objet]] : l'humain dans sa dimension historique
-    - [[but]] : comprendre les phénomènes humains
-    - [[méthode]] : saisir les phénomènes à l'intérieur d'un certain **contexte**, un certain **lien** et une certaine **finalité**
+    - [[but]] : comprendre les [[phénomène]]s humains
+    - [[méthode]] : saisir les [[phénomène]]s à l'intérieur d'un certain **contexte**, un certain **lien** et une certaine **[[finalité]]**

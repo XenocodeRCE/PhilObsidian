@@ -1,8 +1,4 @@
 # James soutient que
-- les théories
-  - sont des outils pour résoudre des problèmes
-  - sont évaluées sur la base de leurs effets concrets
+- les [[théorie]]s
 - la [[pensée]] est toujours mue par des intérêts pratiques
-  - ainsi les humains sélectionnent et organisent la réalité selon leurs propres besoins
 - la [[conscience]] est un flux continu de pensées, d'émotions et de sentiments
-  - ainsi il n'y a pas de distinction entre sujet et [[objet]], entre le mental et le physique

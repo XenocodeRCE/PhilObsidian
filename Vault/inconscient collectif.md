@@ -1,3 +1,3 @@
 - [[Jung]]  :
-	- composé d'une variété d'images que l'humanité élabore au cours de son [[Histoire]] et qui se transmettent génétiquement
+	- composé d'une variété d'images que l'[[humanité]] élabore au cours de son [[Histoire]] et qui se transmettent génétiquement
     - → se sont les ***[[archétypes]]***

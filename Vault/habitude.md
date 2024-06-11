@@ -1,0 +1,7 @@
+- [[Hume]] :
+	- dont dérivent
+	    - la croyance, utile pour guider la conduite humaine mais dépourvue de [[certitude]] absolue
+	      - par exemple
+	        - la croyance en l'[[existence]] du [[monde]] extérieur
+	        - la croyance en l'[[existence]] de l'***[[Ego]]***
+	      - Ces croyances proviennent de l'[[habitude]] de penser que les [[impression]]s constamment associées dans l'expérience sont le produit d'[[objet]]s stables et persistants

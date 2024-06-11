@@ -3,7 +3,7 @@
 - Stipule que l'[[esprit]] humain dans son développement passe par 3 étapes
 - La tâche de la [[philosophie]] positive est d'élaborer une encyclopédie des [[science]]s
   - fondée sur différents critères :
-    - critère de [[La Logique]]
+    - critère de [[logique]]
       - on part de la [[science]] la plus simple et la plus générale
     - critère de l'[[Histoire]]
       - on part de la [[science]] qui est apparue la première dans la [[société civile]]

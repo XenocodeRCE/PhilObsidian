@@ -1,0 +1,7 @@
+- Qui stipule que
+    - La recherche scientifique consiste en des programmes de recherche
+      - Un programme de recherche est articulé : 
+        - Autour d'un noyau
+          - C'est-à-dire des théories et des lois fondamentales
+        - D'une ceinture de protection
+          - C'est-à-dire la totalité des théories qui défendent le noyau en résolvant les problèmes qui se posent

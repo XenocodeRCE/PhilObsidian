@@ -1,0 +1,2 @@
+- [[Objet]] fabriqué, utilisé manuellement, doté d'une [[forme]] et de propriétés [[physique]]s adaptées à un procès de production déterminé et permettant de transformer l'[[objet]] de [[travail]] selon un [[but]] fixé
+- [[utile]]

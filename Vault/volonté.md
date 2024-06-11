@@ -3,3 +3,11 @@
 		- se dirige sur les états, les sentiments ou les choses
 		- ne se retourne jamais sur la [[conscience]]
 			- Exemple : Quand on essaye de vouloir une [[conscience]], la volonté est maintenue et conservée par la [[conscience]] radicalement opposée à celle voulue
+
+- [[Kant]] :
+	 - c'est la [[faculté]] qui permet d'agir sur la base de [[principe]]s normatifs
+	    - les maximes : des prescriptions subjectives
+	    - les impératifs : des exigences objectives
+	      - distingués en
+	        - [[impératif hypothétique]]s
+	        - [[impératif catégorique]]s

@@ -1,5 +1,5 @@
 - [[Hobbes]] : 
-	- implique l'[[aliénation]] des droits et du pouvoir à un dirigeant (individu ou assemblée)
+	- implique l'[[aliénation]] des [[droit]]s et du [[pouvoir]] à un dirigeant (individu ou assemblée)
           - qui
-            - réduit les différentes volontés en une seule
+            - réduit les différentes [[volonté]]s en une seule
             - garantit la paix et la survie des [[homme]]s

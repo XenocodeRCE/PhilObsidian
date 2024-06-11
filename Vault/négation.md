@@ -1,0 +1,1 @@
+ - Acte de l'[[esprit]] qui consiste à nier, à rejeter, à admettre comme [[faux]].

@@ -1,3 +1,4 @@
-- le prédicat ajoute de la nouveauté au sujet
-    - ils augmentent les [[connaissance]]s mais sont ***particuliers et contingents***
-      - → typique de l'Empirisme
+- [[Kant]] :
+	- le [[prédicat]] ajoute de la nouveauté au [[sujet]]
+	    - ils augmentent les [[connaissance]]s mais sont ***[[particulier]]s et [[contingent]]s***
+	      - → typique de l'[[Empirisme]]

@@ -1,5 +1,5 @@
 - la *libido* sexuelle est une énergie vitale présente dans tous les organismes naturels
-  - elle peut progresser et muter dans des fonctions toujours plus complexes et différenciées, créatrices des diverses manifestations de l'esprit humain
+  - elle peut progresser et muter dans des fonctions toujours plus complexes et différenciées, créatrices des diverses manifestations de l'[[esprit]] [[humain]]
   - elle peut régresser en [[raison]] de l'incapacité du [[sujet]] à s'adapter aux changements et générer des névroses
 - au-delà de l'[[inconscient]] individuel il existe un [[inconscient collectif]]
 - le but de la thérapie analytique est la réalisation de soi

@@ -1,0 +1,2 @@
+- [[Marcuse]] :
+	-  ce doit [[être]] l'opposition des nouveaux sujets révolutionnaires au système capitaliste
