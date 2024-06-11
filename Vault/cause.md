@@ -4,3 +4,11 @@
 	      - on dit qu'il y a un « ***passage arbitraire du post-hoc au proper-hoc*** »
 - [[Berkeley]] :
 	- la [[matière]] n'est pas la cause des [[perception]]s
+- [[Aristote]] : 
+	- Aristote croit que
+	  - À l'origine des phénomènes il y a 4 [[cause]]s :
+	    - Matérielle [[matière]]
+	    - Formelle [[forme]]
+	    - Efficiente
+	    - Finale [[fin]]
+	      - C'est la cause vers quoi chaque entité tend dans la pleine réalisation de son [[essence]] immanente (vision [[téléologique]] de l'[[Univers]] : dans la [[nature]] rien n'arrive par accident)

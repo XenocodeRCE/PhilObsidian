@@ -9,9 +9,9 @@
   - un énoncé est vrai s'il reflète la réalité des choses (la [[substance]])
 - sur de telles bases, Aristote analyse :
   - les [[notion]]
-  - les [[propositions]] (déclaratives)
+  - les [[proposition]] (déclaratives)
   - les raisonnements (déductifs) ou syllogismes
-    - à partir de prémisses [[universelle]]s ils permettent de déduire des conclusions particulières
+    - à partir de prémisses [[universel]]s ils permettent de déduire des conclusions particulières
     - ils peuvent être
       - valides mais faux si l'inférence est [[forme]]llement correcte mais que les prémisses sont fausses
       - valides et vrais si l'inférence est [[forme]]llement correcte et les prémisses sont vraies

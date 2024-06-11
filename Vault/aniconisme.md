@@ -1,0 +1,2 @@
+- [[christianisme]] :
+	- l'interdiction de représenter le [[Dieu]] par des images

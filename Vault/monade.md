@@ -5,10 +5,10 @@
     - a deux façons de [[savoir]]
       - la [[perception]]
       - l'[[aperception]]
-	  - il y a 3 types de monades
+	  - il y a 3 types de monade
 	    - celles qui sont totalement inconscientes
 	    - les [[animaux]]
-	    - les esprits supérieurs
+	    - les [[esprit]]s supérieurs
 	    - toutes sont créés par [[Dieu]]
 	      - la clarté et l'activité parfaite
 	      - a une [[représentation]] complète de l'[[Univers]]

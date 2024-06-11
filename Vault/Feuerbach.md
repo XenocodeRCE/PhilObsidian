@@ -1,6 +1,6 @@
 # Feuerbach
 
-- Croit que
+- [[croit]] que
   - l'[[objet]] d'étude de la [[philosophie]] doit [[être]]
     - l'[[homme]] en tant qu'[[être]] provenant de la [[nature]]
     - les conditions matérielles de vie des personnes

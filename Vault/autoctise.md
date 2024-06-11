@@ -1,1 +1,1 @@
-- [[Gentil]] : auto-création
+- [[Gentil]] : autocréation

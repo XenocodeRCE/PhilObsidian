@@ -1,0 +1,1 @@
+- Manifester, indiquer, vouloir dire quelque [[chose]]; avoir pour [[sens]]

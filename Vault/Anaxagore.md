@@ -1,3 +1,1 @@
-- admet comme [[archè]] :
-	- les [[graines]] :
-	    
+- admet comme [[archè]] les [[graines]]

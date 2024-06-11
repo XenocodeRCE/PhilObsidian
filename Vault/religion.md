@@ -1,0 +1,1 @@
+- Rapport de l'[[homme]] à l'ordre de [[Dieu]] ou d'une réalité supérieure, tendant à se concrétiser sous la forme de systèmes de dogmes ou de croyances, de pratiques rituelles et morales

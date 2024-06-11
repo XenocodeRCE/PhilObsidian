@@ -1,7 +1,7 @@
 # Spencer
 
 - affirme que
-  - la loi de la [[sélection naturelle]] est la loi [[universelle]] de la [[réalité]]
+  - la loi de la [[sélection naturelle]] est la loi [[universel]] de la [[réalité]]
 - stipule que
   - la biologie est la [[science]] principale dans la compréhension de l'[[Univers]]
     - elle révèle la progression de chaque espèce

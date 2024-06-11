@@ -1,0 +1,2 @@
+- Doctrine philosophique d'après laquelle toute [[connaissance]] provient des [[sensation]]s.
+- Doctrine d'après laquelle l'[[essence]] du [[Beau]] consiste dans le [[plaisir]], dans ce qui est [[agréable]]

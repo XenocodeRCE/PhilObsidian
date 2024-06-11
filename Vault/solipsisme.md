@@ -1,0 +1,1 @@
++ Doctrine philosophique qui [[doute]] de la [[réalité]] du [[monde]] extérieur

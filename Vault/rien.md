@@ -1,0 +1,2 @@
+- absence de [[tout]]
+- [[christianisme]] : ex-nihilo

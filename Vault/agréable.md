@@ -1,0 +1,1 @@
+- Qui plaît au [[sens]] ou à l'[[esprit]].

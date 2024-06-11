@@ -1,0 +1,3 @@
+- [[Derrida]] :
+	- une affirmation de la [[vérité]] univoque et [[Absolu]]e
+	- [[Logos]]

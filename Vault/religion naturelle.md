@@ -1,0 +1,2 @@
+- [[Voltaire]] :
+	-  Ensemble des [[connaissance]]s relatives à [[Dieu]], à ses attributs, aux [[principe]]s de l'action [[morale]], obtenues par les seules lumières de la [[raison]] et de la [[conscience]], indépendamment de toute révélation.

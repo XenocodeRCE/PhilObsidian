@@ -1,0 +1,1 @@
+- Qui n'a pas la [[possibilité]] de ne pas [[être]] 

@@ -1,0 +1,2 @@
+- [[Plotin]] : 
+	- l'[[âme]] s'élève de la contemplation de la [[beauté]] du [[corps]] à la beauté de l'[[esprit]]

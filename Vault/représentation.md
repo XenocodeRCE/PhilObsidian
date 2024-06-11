@@ -1,0 +1,1 @@
+- Rendre effectivement présent à la vue, à l'[[esprit]] de quelqu'un.

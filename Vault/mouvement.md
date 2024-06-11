@@ -1,4 +1,9 @@
 - [[Descartes]] : 3 lois du mouvement 
 	- l'inertie 
 	- le mouvement rectiligne 
-	- la conservation de la quantité de mouvement
+	- la conservation de la quantité de mouvement 
+- [[Aristote]] :
+	- Substantiel (génération et [[corruption]])
+    - Qualitatif (changement ou altération)
+    - Quantitatif (augmentation ou diminution)
+    - Local (la spontanéité)

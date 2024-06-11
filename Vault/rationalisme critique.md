@@ -1,0 +1,2 @@
+- [[Kant]] :
+	- Doctrine d'après laquelle la [[raison]], en tant que système de [[principe]]s organisateurs des données empiriques, fonde la possibilité de l'expérience.

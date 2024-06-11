@@ -7,3 +7,9 @@
 	- [[forme]] de domination
 	-  elle objective et réduit ce qu'elle analyse à une “[[chose]]”, la soumettant à son propre pouvoir
     - elle était un instrument d'émancipation et s'est transformée en facteur de répression
+- [[Bacon]] :
+	- le [[but]] de la [[science]] est de dominer la [[nature]] pour assurer l'amélioration des conditions de vie de l'[[homme]]
+
+- [[Croce]] : 
+	- repose sur des pseudo [[concept]]s (issus de l'[[empirisme]], ou abstraits)
+      - n'a aucune valeur logico théorique mais seulement une valeur pratique

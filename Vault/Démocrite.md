@@ -1,3 +1,2 @@
 - admet comme [[archè]] : 
-	- les [[atomes]] :
-	    
+	- les [[atome]] 

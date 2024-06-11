@@ -1,0 +1,1 @@
+- Disposition, relation [[intelligible]] entre les choses.

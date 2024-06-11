@@ -1,0 +1,1 @@
+- Attribution d'un [[sens]] à une structure profonde _(interprétation sémantique)_ ou attribution de traits phonologiques et phonétiques à une structure de surface

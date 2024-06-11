@@ -1,0 +1,1 @@
+- Ensemble constitué des êtres et des choses créés; l'[[Univers]], le cosmos

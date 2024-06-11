@@ -1,0 +1,2 @@
+- Doctrine qui, rejetant l'existence d'un principe d'[[esprit]], ramène toute réalité à la [[matière]] et à ses modifications dans et par les [[corps]]
+- Forme de cette doctrine, professée par des philosophes de l'Antiquité et des temps modernes pour lesquels la [[pensée]] se ramène à des [[fait]]s purement réduit à de la [[matière]] (essentiellement mécaniques) ou en constitue un épiphénomène:

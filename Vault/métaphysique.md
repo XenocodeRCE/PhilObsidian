@@ -1,3 +1,5 @@
 - [[Comte]] : 
 	- Seconde étape du développement de l'[[esprit]] humain.
 	- explique le monde à travers des [[concept]]s abstraits
+- [[Aristote]] :
+	- partie de la [[science]] théorétique qui a pour [[objet]] l'[[être]] en tant qu'[[être]] et [[Dieu]] comme le premier moteur (immobile)

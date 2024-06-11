@@ -1,2 +1,2 @@
- indique un critère empirique pour guider le comportement
+- indique un critère lié à l'[[empirisme]] pour guider le comportement
     - il faut accepter le raisonnement qui paraît le plus convaincant

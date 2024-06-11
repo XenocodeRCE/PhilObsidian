@@ -1,5 +1,5 @@
 - [[Spinoza]] : 
-	- Pour Spinoza la [[substance]]
+	- La [[substance]]
 		  - ontologiquement, c'est ce qui est ***[[en soi]]***
 		  - gnoséologiquement, c'est ce qui est ***[[conçu par soi]]***
 		  - s'identifie à [[Dieu]]

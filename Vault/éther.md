@@ -1,0 +1,1 @@
+- [[Aristote]] : compose le [[monde]] céleste, supra-lunaire 

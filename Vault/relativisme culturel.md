@@ -1,0 +1,3 @@
+- [[Montaigne]] :
+	-  les lois et les doctrines sont relatives et historiquement déterminées
+      - il n'y a donc pas de critère absolu pour les évaluer ( = antidogmatisme)

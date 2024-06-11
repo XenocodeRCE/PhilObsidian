@@ -1,2 +1,2 @@
 - Unifie les “beaux-arts” en les ramenant à un critère unitaire
-  - → le sentiment de beauté
+  - → le [[sentiment]] de [[beauté]]

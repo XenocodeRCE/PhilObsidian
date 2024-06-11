@@ -1,1 +1,2 @@
-- [[Marx]] : investi dans les machines et les matières premières
+- [[Marx]] : 
+	- investi dans les machines et les matières premières

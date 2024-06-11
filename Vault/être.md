@@ -1,1 +1,2 @@
-- [[Jaspers]] : la possibilité d'expérimenter la [[transcendance]]
+- [[Jaspers]] : 
+	- la possibilité d'expérimenter la [[transcendance]]

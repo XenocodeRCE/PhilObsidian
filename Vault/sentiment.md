@@ -1,0 +1,1 @@
+- Faculté de sentir, de percevoir une [[sensation]]

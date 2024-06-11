@@ -2,16 +2,9 @@
 
 - reprend à [[Montaigne]]
   - la raison de l'instabilité humaine
-    - le seul point de référence dans la variabilité des croyances, des [[habitude]]s et des coutumes, est le jugement [[juste]] et libre
-  - le thème du relativisme culturel
-    - les lois et les doctrines sont relatives et historiquement déterminées
-      - il n'y a donc pas de critère absolu pour les évaluer ( = antidogmatisme)
-  - le contraste entre conservatisme externe et liberté interne
+    - le seul point de référence dans la variabilité des croyances, des [[habitude]]s et des coutumes, est le jugement [[juste]] et [[libre]]
+  - le thème du [[relativisme culturel]]
+  - le contraste entre conservatisme externe et [[liberté]] interne
     - l'[[homme]] doit adhérer aux coutumes comme antidote aux guerres et aux troubles sociaux
     - l'individu doit rester intellectuellement autonome ( = ***libertas philosophandi*** )
-- représente le mouvement Libertin
-  - qui se déclare matérialiste, sensualiste et sceptique
-  - qui affirme le contraste entre la sagesse naturelle et les doctrines religieuses
-  - qui soutient :
-    - le naturalisme
-    - le rationalisme critique
+- représente le mouvement [[Libertin]]

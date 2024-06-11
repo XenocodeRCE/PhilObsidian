@@ -12,3 +12,16 @@
         - il faut évaluer la qualité du [[plaisir]]
           - reconnaître la supériorité des plaisirs intellectuels sur les plaisirs matériels
         - il faut favoriser l'[[altruisme]]
+- [[Aristote]] : 
+	- [[science]] pratique qui a pour [[fin]] l'orientation des comportements vers le [[bonheur]] individuel, et pour [[objet]] l'étude du comportement individuel (elle pose la [[question]] : qu'est-ce que le [[bonheur]] ?)
+
+
+- [[épicurisme]] :
+	-   - selon laquelle
+        - le [[bonheur]] coïncide avec le [[plaisir]] compris comme
+          - ***[[aponia]]***
+          - ***[[ataraxie]]***
+        - une hiérarchie des plaisirs doit être établie
+          - les bons [[plaisir]]s (stables, ou ***[[catastématiques]]*** )
+          - les mauvais plaisirs (instables, dynamiques)
+            - ils sont accompagnés de souffrance et de joie momentanées (ex : amour sexuel

@@ -8,7 +8,7 @@
   - les [[Idée]]s innées n'existent pas
     - en fait
       - il n'y a pas de vérités fondamentales dans l'esprit des enfants et des idiots
-      - il n'y a pas d'[[Idée]] morales [[universelle]]s
+      - il n'y a pas d'[[Idée]] morales [[universel]]s
   - les [[idée]]s viennent de l'expérience
     - en particulier
       - de l'expérience extérieure viennent les [[Idée]]s de [[sensation]]

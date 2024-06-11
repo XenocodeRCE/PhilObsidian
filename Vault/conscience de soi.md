@@ -1,3 +1,3 @@
 - [[Hegel]] :
 	- la [[conscience]] obtient la confirmation de son identité et de sa [[liberté]]
-		- → voir “la [[dialectique]] du maître et du serviteur”
+		- → “la [[dialectique]] du maître et du serviteur”

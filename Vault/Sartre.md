@@ -1,7 +1,7 @@
 # Sartre
 - Stipule que
-  - Les [[chose]]s sont “[[être en-soi]]”
-  - La [[conscience]] est un “[[être pour-soi]]”
+  - Les [[chose]]s sont “[[en-soi]]”
+  - La [[conscience]] est un “[[pour-soi]]”
 - Affirme que
   - L'[[homme]] est condamné à être [[libre]]
     - En fait

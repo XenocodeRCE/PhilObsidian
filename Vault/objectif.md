@@ -1,0 +1,1 @@
+- [[Aristote]] :  c'est à dire non pas [[vrai]] mais [[possible]], probable

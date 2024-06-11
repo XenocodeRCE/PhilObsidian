@@ -78,7 +78,7 @@
   - elle satisfait au [[principe]] d'***universalisation***
     - étendu par
       - les 3 formulations de l'impératif catégorique, qui commandent l'action
-        - (1) Agis seulement selon la maxime qui voudrait que ton action soit érigée en loi [[universelle]]
+        - (1) Agis seulement selon la maxime qui voudrait que ton action soit érigée en loi [[universel]]
         - (2) Toujours traiter l'humanité, tant dans votre propre personne qu'en la personne des autres, toujours comme [[fin]] et jamais simplement comme [[moyen]]
         - (3) Fais en sorte que ta [[volonté]], en suivant ces maximes, puisse en même temps être considérée comme législateur universel
 - la moralité exige le respect du devoir mais aussi une conviction intime selon laquelle il serait [[juste]] de faire ce que la loi ordonne
@@ -107,7 +107,7 @@
       - il s'agit de la [[représentation]] de l'[[objet]] et non de l'[[objet]] lui-même
       - → il y a une ***distinction entre le beau et l'agréable***
     - ce jugement est universel
-      - le [[beau]] est ce qui est [[universelle]]ment agréable sans concept
+      - le [[Beau]] est ce qui est [[universel]]ment agréable sans concept
 - Kant indique que
   - l'universalité du jugement esthétique est fondée sur le bon sens
     - qui saisit l'accord entre l'image de la chose et nos besoins d'unité et de finalité

@@ -1,0 +1,2 @@
+- Qui est soumis à une autorité souveraine.
+- (Sujet à ) Ce qui constitue la matière, le thème principal d'une activité intellectuelle ou [[art]]istique, indépendamment de l'[[interprétation]] qui en est faite ou du résultat obtenu

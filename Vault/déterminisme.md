@@ -1,0 +1,2 @@
+- [[principe]] qui présuppose un [[ordre]] déterminé dans les [[phénomène]]s de la [[nature]]. 
+- [[tout]] [[fait]] a une [[cause]]

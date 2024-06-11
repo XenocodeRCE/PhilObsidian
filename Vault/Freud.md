@@ -4,7 +4,7 @@
 
 - Le rêve
   - est la voie d'accès privilégiée à l'[[inconscient]]
-    - il permet de remonter aux [[souvenirs]], désirs, pulsions et tendances oubliés
+    - il permet de remonter aux [[Souvenir]]s, [[désir]]s, pulsions et tendances oubliés
       - les contenus [[inconscient]]s sont susceptibles d'être refoulés
         - c'est une réaction de défense inconsciente du [[sujet]] face à ce qu'il perçoit comme inacceptable
   - c'est l'expression déguisée d'un [[désir]]
@@ -19,7 +19,7 @@
 ## Dans ***Psychopathie de la vie quotidienne*** Freud soutient que
 - les lapsus
 - et les actes manqués
-  - sont les signes d'un conflit intérieur
+  - sont les [[signe]]s d'un conflit intérieur
     - une intention [[consciente]] (ce que nous voulons dire ou faire), qui est altéré ou “*manqué*”
     - une [[impulsion]] [[inconsciente]] qui tend à s'exprimer et agit sur l'intention consciente en la perturbant
 

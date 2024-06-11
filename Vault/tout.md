@@ -1,0 +1,1 @@
+- totalité de ce qui existe, de ce qui est.

@@ -1,3 +1,3 @@
 - [[Russell]] :
-	-  Des [[propositions]] complexes, formées de [[propositions atomiques]] liées par des connecteurs logiques
+	-  Des [[proposition]] complexes, formées de [[propositions atomiques]] liées par des connecteurs logiques
         - La valeur de vérité des propositions moléculaires dépend de celle des [[propositions atomiques]] simples

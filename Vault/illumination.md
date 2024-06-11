@@ -1,0 +1,3 @@
+- [[Augustin]] : 
+    - l'[[homme]] ne posséderait pas la [[vérité]] mais la reçoit de [[Dieu]] qui place en lui la lumière de la [[raison]]
+	    - la théorie de l'illumination traduit la théorie de [[Platon]] de la [[réminiscence]] en termes chrétiens

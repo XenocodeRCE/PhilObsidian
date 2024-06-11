@@ -1,0 +1,1 @@
+- Doctrine, système qui considère la [[nature]] comme [[principe]] fondamental, [[archè]]

@@ -1,0 +1,1 @@
+- Dont les éléments, les détails, sont disposés sans [[ordre]] ou dans un ordre tel qu'il est difficile de les distinguer.

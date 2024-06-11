@@ -1,0 +1,2 @@
+- [[Aristote]] : 
+	- outil des [[outils]], c'est-à-dire l'outil avec lesquelles il manipule et connaît les choses du [[monde]] compte tenu des progrès [[technique]]s et scientifiques

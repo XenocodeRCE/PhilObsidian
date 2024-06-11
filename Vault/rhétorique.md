@@ -1,0 +1,6 @@
+- [[Aristote]] : 
+	- s'occupe des [[technique]]s de provocation et de persuasion
+	  - Réalisée uniquement si l'orateur respecte trois [[principe]]s :
+	    - L'honnêteté
+	    - La bravoure
+	    - La disposition de capacités argumentatives

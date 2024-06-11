@@ -1,0 +1,2 @@
+- [[Berkeley]]
+	- nie que la [[matière]] est la [[cause]] des [[perception]]s

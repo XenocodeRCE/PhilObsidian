@@ -1,3 +1,3 @@
 - [[Marx]] : 
 	- investi en salaires
-		- le profit dépend de la différence entre la plus-value (dépendante du capital variable) et le capital constant
+		- le profit dépend de la différence entre la [[plus-value]] (dépendante du capital variable) et le capital constant

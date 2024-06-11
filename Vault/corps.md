@@ -1,0 +1,1 @@
+-  [[Objet]] composé de [[matière]], quel qu'il soit

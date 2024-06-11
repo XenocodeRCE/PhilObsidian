@@ -1,7 +1,7 @@
 # Benedetto Croce
 - stipule que
-  - tout est ***immanent*** et [[Histoire]], ainsi
-    - il admet la rationalité et la nécessité de l'[[Histoire]] passée
+  - tout est ***[[immanent]]*** et [[Histoire]], ainsi
+    - il admet la [[rationalité]] et la [[nécessité]] de l'[[Histoire]] passée
       - ce qui s'est passé ne pouvait pas ne pas arriver
     - il reconnaît la [[liberté]] d'action présente
       - laquelle doit uniquement obéir à l'impératif de la [[conscience]] [[morale]]
@@ -10,8 +10,8 @@
     - (1) les [[connaissance]]s du particulier, ou [[intuition]] (→ l'[[art]])
     - (2) les [[connaissance]]s de l'universel, ou [[concept]] (→ [[La Logique]] ou [[philosophie]])
   - un moment pratique, constitué par
-      - (1) les volitions utilitaires et particulières (→ l'économie)
-      - (2) les volitions [[éthique]]s et [[universelle]]s (→ la [[morale]])
+      - (1) les volitions utilitaires et particulières (→ l'[[économie]])
+      - (2) les volitions [[éthique]]s et [[universel]]s (→ la [[morale]])
 - stipule que
   - les quatre degrés d'[[esprit]] sont étroitement liées
     - grâce  aux liens qui les tient ensemble
@@ -20,11 +20,11 @@
   - (1) l'[[art]]
     - c'est l'[[intuition]] de l'individu
       - une [[connaissance]] “intuitive” d'une image contemplée en elle-même
-        - seules les valeurs esthétiques du [[beau]] et du laid peuvent être appliquées aux œuvres
+        - seules les valeurs esthétiques du [[Beau]] et du laid peuvent être appliquées aux œuvres
     - c'est l'[[intuition lyrique]]
   - (2) la [[philosophie]]
     - c'est la [[connaissance]] intellectuelle de l'universel
       - elle va au-delà de l'[[intuition]] pour saisir les [[concept]]s purs (concrets et universels)
   - (3) la [[science]]
-    - repose sur des pseudo [[concept]]s (empiriques ou abstraits)
+    - repose sur des pseudo [[concept]]s (issus de l'[[empirisme]] ou abstraits)
       - n'a aucune valeur logico théorique mais seulement une valeur pratique

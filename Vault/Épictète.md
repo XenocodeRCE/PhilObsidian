@@ -1,1 +1,1 @@
-a une vision tragique de l'[[existence]] de l'[[homme]] tiraillé entre une vie menée selon la raison et une vie dominée par les passions
+- a une vision tragique de l'[[existence]] de l'[[homme]] tiraillé entre une vie menée selon la [[raison]] et une vie dominée par les [[passion]]s

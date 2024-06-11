@@ -7,3 +7,6 @@
 	- il faut traiter les autres comme des fins et jamais comme des moyens
     - il faut viser à l'amélioration des [[homme]]s par l'éducation
       - ainsi le sage doit favoriser le progrès culturel et moral de toutes les classes sociales
+- [[Croce]] :
+	- Moment pratique de la vie de l'[[esprit]] :
+		-  les volitions [[éthique]]s et [[universel]]s 

@@ -6,7 +6,7 @@
 	          - il peut agir passivement
 	            - subissant alors l'esclavage de ses [[passions]]
 	          - il peut agir activement
-	            - assumer consciemment la direction de son [[être]]
+	            - assumer avec sa [[conscience]] la direction de son [[être]]
 	        - la [[raison]] est le seul guide de l'[[homme]]
 	        - la vraie [[liberté]] consiste à contrôler les passions en choisissant celles qui sont vraiment avantageuses
 	      - le bien et le mal ne sont pas des concepts absolus mais relatifs aux besoins des [[homme]]s

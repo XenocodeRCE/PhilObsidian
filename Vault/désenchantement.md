@@ -1,7 +1,7 @@
 - [[Weber]] : 
 	- cela implique
-      - la fin du polythéisme et la relation magique au monde avec les divinités
+      - la fin du [[polythéisme]] et la relation magique au monde avec les divinités
       - le progressisme rationaliste et intellectuel dans les activités humaines
         - il s'ensuit que
-          - les objectifs spirituels et religieux sont perdus
+          - les objectifs de l'[[esprit]] et de la [[religion]] sont perdus
           - l'[[homme]] est soumis à [[La Logique]] du profit et du gain pour lui-même

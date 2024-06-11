@@ -1,0 +1,3 @@
+ - [[Croce]] :
+	 - Moment pratique de la vie de l'[[esprit]]
+		 - les volitions utilitaires et particulières 

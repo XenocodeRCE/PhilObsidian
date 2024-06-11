@@ -1,2 +1,2 @@
 [[Aristote]] : 
-- peut purifier l'âme des passions négatives
+- peut purifier l'[[âme]] des passions négatives

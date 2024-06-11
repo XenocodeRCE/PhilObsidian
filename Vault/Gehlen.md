@@ -1,4 +1,4 @@
-- Qui déclare que l'[[homme]] a sa spécificité dans une série de carences morphologiques
-      - Qui représentent en fait son point fort
-        - Ces carences stimulent en fait l'***exemption***, c'est-à-dire l'éloignement de la [[réalité]] contingente
+- Déclare que l'[[homme]] a sa spécificité dans une série de carences morphologiques
+      - Qui représentent en [[fait]] son point fort
+        - Ces carences stimulent en fait l'***[[exemption]]***
           - → Cela motive la création du [[monde]] de la [[culture]] et de la [[technologie]] comme seconde [[nature]]

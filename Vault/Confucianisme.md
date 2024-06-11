@@ -1,6 +1,6 @@
 # Le Confucianisme
 
-- est une [[philosophie]] avec un fond humaniste dont l'objectif principal est l'éducation morale des individus
+- est une [[philosophie]] avec un fond humaniste dont l'objectif principal est l'éducation [[morale]] des individus
   - La [[vertu]] et la sagesse impliquent :
     - la conformité stricte au ***Li*** (le rite)
     - l’acquisition d'un équilibre entre la qualité naturelle et acquise

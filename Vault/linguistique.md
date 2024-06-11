@@ -1,0 +1,2 @@
+- [[Science]] qui a pour objet l'étude du [[langage]], des langues envisagées comme systèmes sous leurs aspects phonologiques, syntaxiques, lexicaux et sémantiques.
+- Fondée par [[Saussure]]

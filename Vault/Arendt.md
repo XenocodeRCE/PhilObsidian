@@ -8,7 +8,7 @@
     - Est fondé sur
       - La terreur
         - Qui s'exerce par la police secrète et les camps de concentration
-      - Une idéologie
+      - Une [[idéologie]]
         - Qui prétend fournir une explication “totale” de l'[[Histoire]]
         - Et renverse les normes de [[La Logique]], imposant un “super sens” dont découlent des conséquences terribles mais cohérentes
   - Le mal qui émerge dans les régimes totalitaires est un mal radical

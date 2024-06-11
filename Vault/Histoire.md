@@ -5,3 +5,5 @@
     - dépend de la biologie
       - chacun serait destiné à une certaine place dans la société
         - ainsi la réalité sociale ne peut pas être réformée
+- [[Gentil]] :
+	-   la [[dialectique]] de l'[[esprit]] se déroule dans l'[[Histoire]]

@@ -1,0 +1,7 @@
+- [[Charron]] : 
+	- représente le mouvement [[Libertin]]
+	  - qui se déclare du [[matérialisme]], du [[sensualisme]] et du [[scepticisme]]
+	  - qui affirme le contraste entre la sagesse naturelle et les doctrines religieuses
+	  - qui soutient :
+	    - le [[naturalisme]]
+	    - le [[rationalisme critique]] de [[Kant]]

@@ -6,3 +6,10 @@
 	      - la négation de la thèse comme concept limité et fini
 	    - (3) le moment spéculatif (→ synthèse)
 	      - la négation de la négation, c'est-à-dire l'affirmation de l'unité des déterminations opposées
+
+- [[Gentil]] :
+	- toute [[réalité]] est [[pensée]]
+    - comprise comme activité, [[pensée]] “pensante” qui a pour [[sujet]] le pur [[Je]]
+      - c'est l'[[esprit]] transcendantal
+        - qui a la [[connaissance]] de soi
+        - qui est une ***[[autoctise]]***

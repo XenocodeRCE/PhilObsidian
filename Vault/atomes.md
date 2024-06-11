@@ -1,1 +1,0 @@
-- des particules invisibles, qualitativement identiques mais quantitativement différentes par [[forme]] et par taille, indivisibles, éternelles et immuables

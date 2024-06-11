@@ -1,0 +1,2 @@
+- [[Austin]] :
+        - Acte de [[parole]] avec lesquels “quelque chose” est dit (indépendamment du [[sens]])

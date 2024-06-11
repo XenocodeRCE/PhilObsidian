@@ -1,0 +1,57 @@
+.boostlink-suggester-el {
+	position: relative;
+	margin-left: 0.5em;
+}
+
+.boostlink-suggester-el * {
+	display: inline-block;
+	overflow: clip;
+}
+
+.suggestion {
+	overflow-x: clip;
+}
+.boostlink-suggestion-text {
+	margin-right: 3em;
+	width: 100%;
+}
+
+.boostlink-item,
+.boostlink-count {
+	font-size: 0.8em;
+	color: var(--text-muted);
+}
+.boostlink-item {
+	clear: left;
+	display: block;
+	color: var(--text-muted);
+	width: 100%;
+}
+
+.boostlink-is-alias {
+	color: var(--text-muted);
+	font-weight: bold;
+	/* margin-left: -1em;
+	margin-right: 1em;
+		*/
+	position: absolute;
+	right: 1em;
+	transform: scale(1, -1);
+	font-size: larger;
+}
+
+.boostlink-alias {
+	font-size: var(--font-ui-medium);
+	float: left;
+}
+
+.boostlink-count {
+	font-style: italic;
+	float: left;
+	margin-right: 1em;
+	clear: both;
+}
+
+.is-mobile .boostlink-is-alias {
+	position: unset;
+}

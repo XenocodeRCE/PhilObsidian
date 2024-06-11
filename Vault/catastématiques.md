@@ -1,0 +1,2 @@
+- [[épicurisme]] :
+	- les bons [[plaisir]]s, ne sont pas accompagnés de souffrance et sont source de [[joie]] durable (ex : relation amicale)

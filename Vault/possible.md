@@ -1,0 +1,1 @@
+- Qui remplit les conditions nécessaires pour [[être]], exister, se produire sans que cela implique une réalisation effective ou que l'on sache si cette réalisation a été, est ou sera effective

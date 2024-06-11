@@ -1,6 +1,6 @@
 - critique la [[science]] du passé (jugée abstraite et présomptueuse)
-    - affirme que la nature doit être étudiée selon ses propres [[principe]]s
+    - affirme que la [[nature]] doit être étudiée selon ses propres [[principe]]s
       - c'est-à-dire
-        - les forces du chaud et du froid et de la matière inerte
+        - les forces du chaud et du froid et de la [[matière]] inerte
       - à travers l'usage
-        - d'un effort cognitif entièrement humain
+        - d'un effort cognitif entièrement [[humain]]

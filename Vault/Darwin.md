@@ -6,7 +6,7 @@
   - [[Malthus]]
 - propose
   - la loi de la [[sélection naturelle]]
-- refuse un “[[finalisme]]” à la nature
+- refuse un “[[finalisme]]” à la [[nature]]
   - l'évolution est due à des variations spontanées et aléatoires
 - stipule que
   - l'espèce humaine a évolué selon les règles de la [[sélection naturelle]]

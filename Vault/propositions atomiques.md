@@ -1,4 +1,4 @@
 - [[Russell]] :
-	-  Des [[propositions]] simples, non séparables dans d'autres [[propositions]] et formées par un [[sujet]] et un [[prédicat]]
-      - Les [[propositions]] atomiques correspondent à des faits atomiques ( → [[atomisme logique]])
-      - Les [[propositions]] atomiques sont vraies lorsqu'elles représentent la structure [[forme]]lle des faits
+	-  Des [[proposition]] simples, non séparables dans d'autres [[proposition]] et formées par un [[sujet]] et un [[prédicat]]
+      - Les [[proposition]] atomiques correspondent à des faits atomiques ( → [[atomisme logique]])
+      - Les [[proposition]] atomiques sont vraies lorsqu'elles représentent la structure [[forme]]lle des faits

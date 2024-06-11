@@ -1,1 +1,2 @@
 - [[Schmitt]] : la gestion du conflit
+- [[Aristote]] : [[science]] pratique qui a pour [[fin]] l'orientation des comportements vers le [[bonheur]] collectif, et qui a pour [[objet]] la structure des sociétés et les [[forme]]s de gouvernements

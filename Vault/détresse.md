@@ -1,1 +1,1 @@
-- [[Kierkegaard]] : le pur sentiment de possibilité
+- [[Kierkegaard]] : le pur [[sentiment]] de [[possibilité]]

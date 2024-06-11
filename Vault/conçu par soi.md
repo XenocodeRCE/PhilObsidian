@@ -1,1 +1,1 @@
-[[Spinoza]] : son concept n'a pas besoin d'autres concepts pour être compris
+[[Spinoza]] : son [[concept]] n'a pas besoin d'autres [[concept]]s pour être compris

@@ -1,9 +1,12 @@
 - [[Fichte]] : 
 	- affirme qu'il est :
-		  - un processus créatif et infini qui se divise en trois moments
+		  - un processus créatif et [[infini]] qui se divise en trois moments
 		    - (1) la Thèse : le Moi se place lui-même
 		      - il se révèle comme une activité autocréatrice
 		    - (2) l'Antithèse : le Moi place le non-Moi
 		      - il produit l'autre de lui-même comme [[objet]] et obstacle indispensable à sa friction
 		    - (3) la Synthèse : le Moi oppose, dans le Moi, au Moi divisible, un non-Moi divisible
 		      - elle se particularise dans les Moi individuels empiriques et finis opposés aux choses du monde
+ - [[Bouddhisme]] :
+	 - Le but de toutes les exigences morales est de surmonter l'***[[Ego]]*** de l'individu dans l'[[Absolu]]
+  - ***Nirvana***

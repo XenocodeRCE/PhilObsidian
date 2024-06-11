@@ -1,9 +1,6 @@
 # Comte
 
-- Stipule que l'[[esprit]] humain dans son développement passe par 3 étapes :
-  - (1) l'étape de la [[théologie]] ou fictive
-  - (2) l'étape de la [[métaphysique]] ou abstraite
-  - (3) l'étape de la [[science]] ou positive
+- Stipule que l'[[esprit]] humain dans son développement passe par 3 étapes
 - La tâche de la [[philosophie]] positive est d'élaborer une encyclopédie des [[science]]s
   - fondée sur différents critères :
     - critère de [[La Logique]]
@@ -20,7 +17,7 @@
       - biologie
       - sociologie
         - se distingue en
-          - statique sociale
+          - sociologie statique sociale
             - étudie les aspects permanents de la structure sociale (idée d'ordre)
-          - dynamique sociale
+          - sociologie dynamique sociale
             - traite des transformations de la société (idée de progrès)

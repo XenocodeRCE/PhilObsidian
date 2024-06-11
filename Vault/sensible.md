@@ -1,0 +1,1 @@
+- Accessible à travers  les [[sens]], la [[sensation]]

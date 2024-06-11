@@ -2,6 +2,6 @@
 
 - Soutient
   - Le caractère proche du [[holisme]] et [[social]] du [[sens]]
-    - Il doit être compris en référence à la totalité du système linguistique et à un fond commun de [[connaissance]]s
+    - Il doit être compris en référence à la totalité du système [[linguistique]] et à un fond commun de [[connaissance]]s
   - L'indétermination de la traduction
     - Selon laquelle l'[[interprétation]] varie continûment en fonction du référentiel des interlocuteurs

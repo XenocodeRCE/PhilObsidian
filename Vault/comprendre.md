@@ -1,0 +1,2 @@
+- Littéralement 'prendre avec' 
+	-  Inclure dans sa [[nature]] propre ou dans un système telle et telle choses ou personnes.

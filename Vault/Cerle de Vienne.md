@@ -1,5 +1,0 @@
-- La [[philosophie]] est une activité visant à clarifier le [[langage]]
-    - Sur la base de critères comme :
-	    - la vérifiabilité empirique
-      - Seules les propositions cognitives vérifiables empiriquement ont une signification, au moins en [[principe]] (propre à la [[science]])
-      - Les [[propositions]] non vérifiables empiriquement (propre à la [[philosophie]]) n'ont pas de sens cognitif

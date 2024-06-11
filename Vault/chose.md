@@ -1,0 +1,6 @@
+- Ce qui se manifeste et que l'on ne désigne qu'en tant que tel.
+- Ce qui est, ce qui existe; [[réalité]] de toute espèce, envisagée indépendamment de la durée.
+- Ce qui existe à titre d'appartenance à quelque chose ou à quelqu'un, ce qui concerne quelque chose ou quelqu'un.
+- peut être :
+	- [[en soi]]
+	- pour soi

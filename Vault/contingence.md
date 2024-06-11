@@ -1,1 +1,2 @@
-- [[Jaspers]] : Pour l'homme, son impossibilité d'exister
+- [[Jaspers]] : 
+	- Pour l'homme, son [[impossibilité]] d'exister

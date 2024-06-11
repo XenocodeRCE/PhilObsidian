@@ -1,0 +1,1 @@
+- [[tout]], parfois identifié à [[Dieu]] chez [[Spinoza]] par exemple

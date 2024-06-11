@@ -1,0 +1,2 @@
+- [[Plotin]] :
+	- l'[[âme]] acquiert une vision immédiate des [[Idée]]s et s'identifie à l'[[Un]]

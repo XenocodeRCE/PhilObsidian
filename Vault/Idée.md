@@ -7,5 +7,18 @@
 	    - *Mimesis* (imitation)
 	    - *Methexiss* (participation)
 	    - *Parousia* (présence)
+
 - [[Hume]] : 
 	- des images des [[impressions]]
+
+- [[Descartes]] :
+	- le [[sujet]] est [[certain]] de sa propre [[existence]] en tant qu'[[être]] pensant
+	    - il est [[certain]] de ses propres [[Idée]]s, qui sont l'[[objet]] immédiate de la pensée
+	      - qui se distinguent en
+	        - idées **adventices**
+	          - surgissant par expérience
+	        - idées **factuelles**
+	          - inventées par le [[sujet]]
+	        - idées **innées**
+	          - ne venant ni de l'expérience ni du [[sujet]]
+	            - il y a parmi ces idées, l'idée de [[Dieu]]

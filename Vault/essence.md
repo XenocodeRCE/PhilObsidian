@@ -1,0 +1,2 @@
+- Fond de l'[[être]], de [[nature]] idéale, [[concept]]uelle ou de [[Dieu]]
+- Ce qui fait qu'une [[chose]] est ce qu'elle est, son essence

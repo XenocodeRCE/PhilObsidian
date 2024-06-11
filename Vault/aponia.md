@@ -1,0 +1,1 @@
+- absence de douleur dans le [[corps]]

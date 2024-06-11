@@ -1,0 +1,1 @@
+-  Écrit didactique traitant d'un [[sujet]] précis.

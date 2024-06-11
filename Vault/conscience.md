@@ -1,6 +1,7 @@
 - [[Hegel]] : 
 	- [[la conscience de soi]] à partir de sa propre fonction “productive”
-- [[Freud]] : la partie consciente de la personnalité, qui a la fonction de contact avec le [[monde]] extérieur
+- [[Freud]] : 
+	- la partie consciente de la personnalité, qui a la fonction de contact avec le [[monde]] extérieur
 - [[James]] :
 	- la [[conscience]] est un flux continu de [[pensée]]s, d'émotions et de [[sentiment]]s
 	  - ainsi il n'y a pas de distinction entre sujet et [[objet]], entre le mental et le physique

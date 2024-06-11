@@ -3,11 +3,11 @@
 - Élabore la théorie du [[langage]] comme [[représentation]] du monde, selon laquelle
   - Le [[monde]] est la totalité des [[faits]]
   - Le seul [[langage]] sensé est celui de la [[science]]
-    - Il est composé de [[propositions]] qui respectent le rapport avec les faits et sont donc [[vérifiable]]s
+    - Il est composé de [[proposition]] qui respectent le rapport avec les faits et sont donc [[vérifiable]]s
   - Le [[langage]] de la [[philosophie]] n'a pas de [[sens]]
-    - Il est composé de [[propositions]] qui ne représentent pas des états de choses
+    - Il est composé de [[proposition]] qui ne représentent pas des états de choses
       - Il concerne le domaine de l'indicible, le [[mystique]]
-- Influence le [[Cerle de Vienne]]
+- Influence le [[Cercle de Vienne]]
 
 # Wittgenstein dans ses _Recherches Philosophiques_
 

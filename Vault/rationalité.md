@@ -1,0 +1,1 @@
+- Caractère de ce qui est [[rationnel]], qui provient de la  [[raison]], qui est [[intelligible]]

@@ -1,0 +1,10 @@
+- [[Augustin]] :
+	- le nouvel outil de recherche de la [[vérité]] est le dialogue intérieur
+	  - en fait
+	    - la [[vérité]] réside dans l'[[âme]]
+	      - comme le démontrent le [[doute]] et le désir [[de]] [[connaissance]]s qui sont en elle
+	  - sur cette base [[Augustin]] élabore la ***théorie de l'[[illumination]]***
+	- la [[foi]] et la [[raison]] sont des organes complémentaires de la [[connaissance]]
+	  - en fait
+	    - pour comprendre [[Dieu]] il faut croire
+	    - pour croire en intérieur il est nécessaire de comprendre

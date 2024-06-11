@@ -1,0 +1,2 @@
+- [[Berkeley]] :
+	-  ***esse est percipi*** : l'[[existence]] des choses est dans leur [[perception]]

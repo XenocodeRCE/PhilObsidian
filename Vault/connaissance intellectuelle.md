@@ -1,0 +1,2 @@
+- [[Aristote]] : 
+	- permet d'accéder à des [[concept]]s universaux en dépassant l'[[imagination]]

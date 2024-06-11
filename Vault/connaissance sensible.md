@@ -1,0 +1,2 @@
+- [[Aristote]] : 
+	- donne le [[sentiment]] qui vient unifier les [[sens]]

@@ -1,0 +1,2 @@
+- [[Tout]] ce qui, animé ou inanimé, affecte les [[sens]], principalement la vue.
+- Ce qui fait face à un [[sujet]]

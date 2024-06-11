@@ -1,0 +1,4 @@
+- [[Augustin]] : 
+	  - en fait
+	    - pour comprendre [[Dieu]] il faut [[croire]]
+	    - pour [[croire]] en [[Dieu]] il est nécessaire de [[comprendre]]

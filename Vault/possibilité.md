@@ -1,0 +1,1 @@
+- Fait d'être possible; qualité de ce qui est [[possible]].

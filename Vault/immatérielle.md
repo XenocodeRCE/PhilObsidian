@@ -1,0 +1,2 @@
+- Qui n'a pas de consistance matérielle, qui n'est pas composé de [[matière]]
+- Qui est opposé à la [[matière]] et n'a de rapport ni avec les [[sens]] ni avec le [[corps]]

@@ -1,2 +1,4 @@
-[[Pascal]] :  
-- la grandeur de l'[[homme]]
+- [[Pascal]] :  
+	- la grandeur de l'[[homme]]
+- [[christianisme]] :
+	- à partir de [[rien]], seul [[Dieu]] peut faire cela, ex-nihilo

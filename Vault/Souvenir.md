@@ -1,0 +1,1 @@
+- Ce qui est inscrit dans la [[mémoire]]; ce dont on se souvient; ce qui, du passé, fortuitement ou par l'effet d'un rappel volontaire, revient à l'[[esprit]], est reconnu par la [[conscience]] comme passé et généralement rattaché par le [[sujet]] à un moment précis du passé

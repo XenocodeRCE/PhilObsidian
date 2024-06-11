@@ -1,0 +1,2 @@
+- Qui est impliqué dans. 
+- Opposé à [[transcendant]]

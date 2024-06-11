@@ -1,0 +1,2 @@
+- [[Austin]] :
+        - Acte de [[parole]] que j'accomplis “en disant quelque [[chose]]” (dépendant du contexte et du [[sens]])

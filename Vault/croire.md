@@ -1,0 +1,1 @@
+- Attacher une valeur de [[vérité]], ajouter [[foi]] à ce que dit une [[personne]]; tenir quelqu'un pour sincère, pour véridique

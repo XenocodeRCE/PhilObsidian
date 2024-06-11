@@ -2,6 +2,8 @@
 	- exerce une activité computationnelle, liant les noms conventionnellement attribués par le [[langage]] aux images des choses
             - en découle la [[science]] qui ne reflète pas la [[réalité]] mais est un réseau de [[concepts]] conventionnels
             - la [[langue]] a deux fonctions principales
-              - la mémorisation
+              - la mémorisation [[mémoire]]
               - la communication
-                - elle permet donc la généralisation nécessaire à la construction du “bâtiment de la conscience”
+                - elle permet donc la généralisation nécessaire à la construction du “bâtiment de la [[conscience]]”
+-  [[Plotin]] : 
+	-  - [[être]] et pensée, siège des modèles éternels ( ***[[Idée]]s de [[Platon]]*** )

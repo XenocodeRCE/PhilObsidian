@@ -1,0 +1,2 @@
+- [[Descartes]] :
+	- permet d'unifier les [[sensation]]s et de créer une connexion entre l'esprit et la [[matière]]

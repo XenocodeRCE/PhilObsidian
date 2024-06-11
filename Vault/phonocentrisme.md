@@ -1,0 +1,2 @@
+- [[Derrida]] : 
+	- l'exaltation de la [[parole]] “parlée”
