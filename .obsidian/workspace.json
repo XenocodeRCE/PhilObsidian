@@ -195,18 +195,8 @@
   },
   "active": "87c0a6d7df999116",
   "lastOpenFiles": [
-    "plugins/smart-second-brain/vectorstores/mxbai-embed-large.bin",
-    "plugins/various-complements/styles.css",
-    "plugins/various-complements/manifest.json",
-    "plugins/various-complements/main.js",
-    "plugins/various-complements/histories.json",
-    "plugins/smart-second-brain/vectorstores",
-    "plugins/smart-second-brain/styles.css",
-    "plugins/smart-second-brain/manifest.json",
-    "plugins/smart-second-brain/data.json",
-    "plugins/smart-second-brain/main.js",
-    "plugins/obsidian-importer/styles.css",
     "Vault/zoon politikòn.md",
+    "Vault/Zénon.md",
     "Vault/Wittgenstein.md",
     "Vault/Weil.md",
     "Vault/Weber.md",
@@ -230,6 +220,16 @@
     "Vault/Univers.md",
     "Vault/Un.md",
     "Vault/tristesse.md",
-    "Vault/travail.md"
+    "Vault/travail.md",
+    "src",
+    "Nouveau dossier",
+    "src/zoon-politikòn.html",
+    "src/zénon.html",
+    "src/tommaso-campanella.html",
+    "src/tocqueville.html",
+    "src/thomas-d'aquin.html",
+    "src/thèse.html",
+    "src/théorie.html",
+    "src/théologie.html"
   ]
 }
